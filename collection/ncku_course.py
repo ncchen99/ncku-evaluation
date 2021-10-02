@@ -30,7 +30,6 @@ for btn_text in search_path:
 table = driver.find_element_by_tag_name("table")
 course_table = pd.read_html(table.get_attribute('outerHTML'))
 
-print(type(course_table[0]))
-with open("./data/courseInfo.json", "w+", encoding="utf-8") as f:
-    json.dump(course_table[0],
+with open("./data/course_info.json", "w+", encoding="utf-8") as f:
+    json.dump(json.loads(course_table[0].to_json(orient="split", force_ascii=False)),
               f, indent=4, ensure_ascii=False)
