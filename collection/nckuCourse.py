@@ -1,5 +1,6 @@
 # 載入需要的套件
 import subprocess
+import pandas as pd
 from selenium import webdriver
 from time import sleep
 version = subprocess.check_output(
@@ -21,3 +22,7 @@ for btn_text in search_path:
             break
         except:
             print("按", btn_text, "按鈕失敗")
+
+table = driver.find_element_by_tag_name("table")
+course_table = pd.read_html(table.get_attribute('outerHTML'))
+print(course_table)
