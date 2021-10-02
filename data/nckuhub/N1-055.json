@@ -1,0 +1,87 @@
+{
+    "got": "8.5",
+    "cold": "5.5",
+    "sweet": "6.5",
+    "rate_count": 2,
+    "courseInfo": {
+        "id": "2649",
+        "系所名稱": "機械所 ME",
+        "系號": "N1",
+        "選課序號": "N1055",
+        "課程碼": "N155000",
+        "分班碼": "",
+        "班別": "碩博",
+        "年級": "",
+        "類別": "講義",
+        "組別": null,
+        "英語授課": "N",
+        "課程名稱": "有限元素法",
+        "選必修": "選修",
+        "學分": 3,
+        "老師": "陳重德",
+        "已選課人數": 39,
+        "餘額": 33,
+        "時間": "[3]6~8 ",
+        "教室": "機械系館 91303",
+        "備註": "",
+        "限選條件": "",
+        "業界參與": "否",
+        "屬性碼": "ME6100",
+        "跨領域學分學程": "",
+        "Moocs": "否",
+        "updateTime": null,
+        "comment_num": 2,
+        "remain_update_time": "2021-08-09T06:28:02.000Z",
+        "count": 27,
+        "admit": null,
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
+    },
+    "comment": [
+        {
+            "id": 5634,
+            "comment": "Outline\n\n1   Introduction to FEM\n2   A simple example by using ANSYS \n3   FEM formulations (1)\n4   FEM formulations (2) \n5   Linear static structure analysis (1)\n6   Linear static structure analysis (2) \n7   Linear static structure analysis (3)\n8   Midterm Exam Nonlinear static structure analysis (1)\n9   Nonlinear static structure analysis (2) \n10  Nonlinear static Structure analysis (3) \n11  Nonlinear static Structure analysis (4) \n12  Nonlinear static Structure analysis (5) \n13  Dynamic structure analysis (1)\n14  Dynamic structure analysis (2) \n15  Dynamic structure analysis (3) \n16  Dynamic structure analysis (4) \n17  Thermal analysis 15 \n18  Final Project\n\nHomework: 30%\nMidterm Exam: 30%\nFinal Project: 30%\nOthers (ex: Participation): 10%\n\n",
+            "semester": "107-2"
+        },
+        {
+            "id": 3541,
+            "comment": "工學院外系大學部去修機械所的課\n\n評分有3部分：紙本作業+程式作業+2次考試\n\n上課是上理論的內容(可以印老師的ppt或自己手抄筆記)\n如果有上過有限元素法概論，或是材力熱力底子好\n應該會很好上手\n\n自己底子沒很好\n又外系沒認識的人可以討論\n作業寫得(打得)很辛苦\n但做完脈絡會清晰很多\n\n老師跟助教都很nice\n有問題都可以去問",
+            "semester": "107-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 960,
+            "got": 10,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 404,
+            "post_id": 3541,
+            "course_name": "有限元素法",
+            "teacher": "陳重德",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 3005,
+            "got": 7,
+            "sweet": 4,
+            "cold": 4,
+            "user_id": 1798,
+            "post_id": 5634,
+            "course_name": "有限元素法",
+            "teacher": "陳重德",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
+    "courserate_id": 0
+}

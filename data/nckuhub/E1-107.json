@@ -1,0 +1,69 @@
+{
+    "got": "10.0",
+    "cold": "9.0",
+    "sweet": "8.0",
+    "rate_count": 1,
+    "courseInfo": {
+        "id": "1065",
+        "系所名稱": "機械系 ME",
+        "系號": "E1",
+        "選課序號": "E1107",
+        "課程碼": "E137100",
+        "分班碼": "1",
+        "班別": "甲",
+        "年級": "3",
+        "類別": "講義",
+        "組別": null,
+        "英語授課": "Y",
+        "課程名稱": "自動控制",
+        "選必修": "必修",
+        "學分": 3,
+        "老師": "劉彥辰",
+        "已選課人數": 38,
+        "餘額": 34,
+        "時間": "[2]3 [4]3~4 ",
+        "教室": "機械系館 91203",
+        "備註": "英語授課",
+        "限選條件": "需先修以下科目:《工程數學（二）/必修/3.0 學分/50 分以上》",
+        "業界參與": "否",
+        "屬性碼": "ME3602",
+        "跨領域學分學程": "",
+        "Moocs": "否",
+        "updateTime": null,
+        "comment_num": 1,
+        "remain_update_time": "2021-08-11T20:06:05.000Z",
+        "count": 15,
+        "admit": null,
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
+    },
+    "comment": [
+        {
+            "id": 913,
+            "comment": "老師很用心教課，所以基本上這堂課只要不翹課就不會太難過，考試題目常出現考古題，收穫很多喔~",
+            "course_style": "老師上課多以PPT教課為主，每個星期會有2個小時上Matlab tutorial課，期末會有EV3 Lego機器人組裝",
+            "semester": "105-1",
+            "report_hw": "Quizzes (25%)\r\n[Including 5 lecture quizzes (10%), 5 discussion quizzes (10%),\r\n 5 MATLAB quizzes (5%)]\r\nEV3 Experiments (10%)\r\nEV3 Term Project (10%)\r\n1st and 2nd Midterm Exams (30%)\r\nFinal Exam (25%)"
+        }
+    ],
+    "rates": [
+        {
+            "id": 81,
+            "got": 10,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 190,
+            "post_id": 913,
+            "course_name": "自動控制",
+            "teacher": "劉彥辰 ",
+            "like": null,
+            "dislike": null,
+            "give": 7,
+            "recommand": 10,
+            "hard": 9
+        }
+    ],
+    "courserate_id": 0
+}
