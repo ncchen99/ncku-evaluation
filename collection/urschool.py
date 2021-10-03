@@ -78,15 +78,7 @@ def get_page(page):
 # 暫時想不到比較好的寫法 學校的老師應該不會超過 210 頁
 while(pages):
     page = pages.pop()
-    threads.append(threading.Thread(target=get_page, args=(page,)))
-    threads[-1].start()
-    if not(page % 15):
-        print(len(pages), "pages left")
-        sleep(10)
-
-for thread in threads:
-    thread.join()
-
+    get_page(page)
 
 with open("./data/urschool.json", "w+") as f:
     json.dump(json.loads(all_professors_table.to_json(
