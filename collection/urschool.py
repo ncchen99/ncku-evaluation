@@ -1,9 +1,12 @@
+from pandas.core.indexes.base import ensure_index_from_sequences
 import requests
 import json
 import threading
 import pandas as pd
 from bs4 import BeautifulSoup
 from time import sleep
+from urllib3.exceptions import InsecureRequestWarning
+
 
 ########################################
 #                                      #
@@ -35,11 +38,30 @@ from time import sleep
 
 
 all_professors_table = pd.DataFrame()
+url = "https://urschool.org/ncku/list"
+threads = []
+headers = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
+    "X-Requested-With": "XMLHttpRequest"
+}
+pages = list(range(1, 210))
+free_proxy_table = pd.read_html(requests.get(
+    "https://free-proxy-list.net/", headers=headers).text)[0]
+requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 
 def get_page(page):
     global all_professors_table
-    r = requests.get(url, params={"page": page})
+    global pages
+    proxy = free_proxy_table.sample()
+    try:
+        r = requests.get(url, params={"page": page}, headers=headers, proxies={
+            "https" if proxy["Https"].values[0] == "yes" else "http":
+            str(proxy["IP Address"]) + ":" + str(proxy["Port"])}, timeout=5, verify=False)  # verify=True if proxy["Https"].values[0] == "yes" else False
+    except:
+        pages.append(page)
+        print("save failure at page：", page)
+        return
     soup = BeautifulSoup(r.text, 'html.parser')
     id_list = list()
     for tr in soup.find("tbody").find_all("tr"):
@@ -50,17 +72,17 @@ def get_page(page):
     table["urschool_id"] = id_list
     all_professors_table = pd.concat(
         [all_professors_table, table], ignore_index=True)
+    print("finish page：", page)
 
 
-url = "https://urschool.org/ncku/list"
-threads = []
-# 暫時想不到比較好的寫法 學校的老師應該不會超過 300 頁
-for page in range(1, 300):
+# 暫時想不到比較好的寫法 學校的老師應該不會超過 210 頁
+while(pages):
+    page = pages.pop()
     threads.append(threading.Thread(target=get_page, args=(page,)))
     threads[-1].start()
-    print("Getting page", page)
-    if not(page % 10):
-        sleep(50)
+    if not(page % 15):
+        print(len(pages), "pages left")
+        sleep(10)
 
 for thread in threads:
     thread.join()
