@@ -127,7 +127,7 @@ for worker in workers:
 
 with open("./data/urschool.json", "w+") as f:
     json.dump(json.loads(all_professors_table.to_json(
-        orient="split", force_ascii=False)), f, indent=4, ensure_ascii=False)
+        orient="records", force_ascii=False)), f, indent=4, ensure_ascii=False)
 
 # for index, row in all_professors_table.iterrows():
 #     file_name = "./data/urschool/" + str(row["姓名"])
