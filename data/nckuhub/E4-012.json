@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "5.0",
+    "cold": "4.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "1260",
         "系所名稱": "資源系 RE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "葉信富*,陳盈良",
-        "已選課人數": 4,
-        "餘額": 56,
+        "已選課人數": 0,
+        "餘額": 0,
         "時間": "[5]5~6 ",
         "教室": "資源系館 4353",
         "備註": "",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2021-08-28T01:58:46.000Z",
-        "count": 25,
+        "comment_num": 1,
+        "remain_update_time": "2022-01-18T18:26:53.000Z",
+        "count": 112,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -47,6 +46,22 @@
             "semester": "109-1"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 5256,
+            "got": 5,
+            "sweet": 7,
+            "cold": 4,
+            "user_id": 5364,
+            "post_id": 8043,
+            "course_name": "資源工程概論",
+            "teacher": "葉信富*,陳盈良",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

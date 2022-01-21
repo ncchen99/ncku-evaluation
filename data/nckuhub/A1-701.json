@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "7.0",
+    "cold": "9.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "132",
         "系所名稱": "外語中心 FLC",
@@ -18,7 +18,7 @@
         "課程名稱": "線上補強英文",
         "選必修": "選修",
         "學分": 0,
-        "老師": "曾惠鈴*,吳少方,陳冠云",
+        "老師": "辛佳玲*,曾惠鈴,陳冠云",
         "已選課人數": 0,
         "餘額": 700,
         "時間": "",
@@ -30,16 +30,38 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2021-08-13T23:04:22.000Z",
-        "count": 41,
+        "comment_num": 1,
+        "remain_update_time": "2022-01-18T09:34:18.000Z",
+        "count": 162,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 3513,
+            "comment": "補強英文非常的自由，\n大學部成績算法 Moodle小考分數佔30% 期末考佔70%，\n加起來有60分就過了，\n期末考難度差不多就英檢中高級難度，可能再簡單一點，\n小考反而麻煩一點，填空答案唯一，可以找一起修的討論會比較順利。",
+            "semester": "107-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 932,
+            "got": 7,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 386,
+            "post_id": 3513,
+            "course_name": "線上補強英文",
+            "teacher": "吳少方 辛佳玲 杜佩璇 賴諭萱*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

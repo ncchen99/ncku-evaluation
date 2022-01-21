@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "3.0",
+    "cold": "5.3",
+    "sweet": "4.3",
+    "rate_count": 4,
     "courseInfo": {
         "id": "456",
         "系所名稱": "通識中心 GE",
@@ -18,9 +18,9 @@
         "課程名稱": "科技與生命價值",
         "選必修": "必修",
         "學分": 2,
-        "老師": "邵揮洲*,鄭淑惠,賴麗娟,張書銓,王建力,方冠榮,洪郁修,楊大和,蔡美玲",
-        "已選課人數": 10,
-        "餘額": 19,
+        "老師": "邵揮洲*,鄭淑惠,賴麗娟,張書銓,王建力,方冠榮,洪郁修,蔡美玲",
+        "已選課人數": 0,
+        "餘額": 40,
         "時間": "[5]3~4 ",
         "教室": "系統系館 56113",
         "備註": "科：人、社、自、生    具服務學習內涵課程",
@@ -28,18 +28,16 @@
         "業界參與": "否",
         "屬性碼": "GE2609",
         "跨領域學分學程": "",
-        "Moocs": "是",
+        "Moocs": "否",
         "updateTime": null,
-        "comment_num": 5,
-        "remain_update_time": "2021-09-04T21:03:08.000Z",
-        "count": 580,
+        "comment_num": 6,
+        "remain_update_time": "2022-01-18T09:31:17.000Z",
+        "count": 1234,
         "admit": null,
-        "comment": 6,
-        "course_style": 1,
-        "report_hw": 1,
-        "score_style": 1,
-        "semester": null,
-        "course_need": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {
@@ -77,6 +75,67 @@
             "report_hw": "團體報告，５~６人一組，期中報告要為社區提出解決方案的大綱梗概，期末報告要求各組針對抽到的主題自行設計海報以展現其實際成果，老師的要求很多又講得很模糊再加上是隨機分配的，難度可以說是相當的高而且組員真的很重要"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 1584,
+            "got": 1,
+            "sweet": 1,
+            "cold": 7,
+            "user_id": 2143,
+            "post_id": 4165,
+            "course_name": "科技與生命價值",
+            "teacher": "鄭淑惠 賴麗娟 張書銓 王建力 方冠榮 邵揮洲*洪郁修 盧文祥 楊大和 蔡美玲 陳麗光",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 2385,
+            "got": 7,
+            "sweet": 4,
+            "cold": 3,
+            "user_id": 2564,
+            "post_id": 4966,
+            "course_name": "科技與生命價值",
+            "teacher": "鄭淑惠 賴麗娟 張書銓 王建力 方冠榮 邵揮洲*洪郁修 盧文祥 楊大和 蔡美玲 陳麗光",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 4612,
+            "got": 3,
+            "sweet": 2,
+            "cold": 1,
+            "user_id": 6347,
+            "post_id": 7362,
+            "course_name": "科技與生命價值",
+            "teacher": "邵揮洲*,鄭淑惠,賴麗娟,張書銓,王建力,方冠榮,洪郁修,楊大和,蔡美玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5356,
+            "got": 1,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 5783,
+            "post_id": 8143,
+            "course_name": "科技與生命價值",
+            "teacher": "邵揮洲*,鄭淑惠,賴麗娟,張書銓,王建力,方冠榮,洪郁修,楊大和,蔡美玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

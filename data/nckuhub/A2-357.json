@@ -1,0 +1,122 @@
+{
+    "got": "6.3",
+    "cold": "6.3",
+    "sweet": "8.3",
+    "rate_count": 4,
+    "courseInfo": {
+        "id": "8514",
+        "系所名稱": "體育室 OPE",
+        "系號": "A2",
+        "選課序號": "A2357",
+        "課程碼": "A2043B0",
+        "分班碼": "2",
+        "班別": "二年級體育（男生組）",
+        "年級": "2",
+        "類別": "講義",
+        "組別": null,
+        "英語授課": "N",
+        "課程名稱": "籃球（男）",
+        "選必修": "必修",
+        "學分": 0,
+        "老師": "潘慧雯",
+        "已選課人數": 0,
+        "餘額": 46,
+        "時間": "[4]5~6 ",
+        "教室": "自強籃球場 自強籃球場",
+        "備註": "",
+        "限選條件": "",
+        "業界參與": "否",
+        "屬性碼": "OPE0108",
+        "跨領域學分學程": "",
+        "Moocs": "否",
+        "updateTime": null,
+        "comment_num": 3,
+        "remain_update_time": "2022-01-18T21:44:07.000Z",
+        "count": 8,
+        "admit": null,
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
+    },
+    "comment": [
+        {
+            "id": 7091,
+            "comment": "老師平常都喜歡嘴砲再不來就當掉，實際上是刀子嘴而已。分數甜但根本沒差XD很注重出席率!老師平常真的很風趣啦，還很好聊~",
+            "semester": "108-2"
+        },
+        {
+            "id": 4236,
+            "comment": "上課蠻涼的 \n暖身動作做一做就去打球\n老師也蠻風趣的 \n每周自己找人組隊找球\n期中定點投籃\n期末三人八字\n老師好 上課涼 分數甜",
+            "semester": "107-1"
+        },
+        {
+            "id": 3411,
+            "comment": "老師刀子嘴豆腐心，每次上課都說大家要小心分數，誰快被當了不能再翹課，但是最後都不會當人，而且分數都很高。\n基本上就是打打球，會分組打比賽，輸了也沒關係，不過有很多系隊的，如果沒有基礎遊戲體驗頗差XD，不過大家人都很NICE~",
+            "semester": "105-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 394,
+            "got": 1,
+            "sweet": 8,
+            "cold": 2,
+            "user_id": 1171,
+            "post_id": 0,
+            "course_name": "籃球（男）",
+            "teacher": "潘慧雯",
+            "like": null,
+            "dislike": null,
+            "give": 1,
+            "recommand": 8,
+            "hard": 2
+        },
+        {
+            "id": 830,
+            "got": 8,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 1883,
+            "post_id": 3411,
+            "course_name": "籃球（男）",
+            "teacher": "潘慧雯 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 1655,
+            "got": 8,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 1852,
+            "post_id": 4236,
+            "course_name": "籃球（男）",
+            "teacher": "潘慧雯",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 4341,
+            "got": 8,
+            "sweet": 10,
+            "cold": 7,
+            "user_id": 3400,
+            "post_id": 7091,
+            "course_name": "籃球（男）",
+            "teacher": "潘慧雯",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
+    "courserate_id": 0
+}

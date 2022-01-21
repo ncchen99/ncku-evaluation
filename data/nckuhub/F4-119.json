@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 10,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1635",
         "系所名稱": "航太系 AA",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "邢有光",
-        "已選課人數": 35,
-        "餘額": 30,
+        "已選課人數": 58,
+        "餘額": 7,
         "時間": "[3]7~9 ",
         "教室": "航太系館 5825",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2021-08-16T03:09:01.000Z",
-        "count": 21,
+        "remain_update_time": "2022-01-19T23:25:36.000Z",
+        "count": 83,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8367,
+            "comment": "分數全由出席與期末報告決定，大部分人分數落在8字頭。\n\n期末報告四人一組，主題可以自己從課程內容選擇，一組大概有十分鐘左右。\n\n課程會隨時抽點，有時候下課會簽到，老師都是由漢翔工程師來講解台灣航空現況、軍機構造、飛機各個次系統與台灣民航相關議題，有的老師講的挺生動，有的則比較催眠，收穫見仁見智，個人認為收穫不大。\n",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5580,
+            "got": 5,
+            "sweet": 7,
+            "cold": 10,
+            "user_id": 5589,
+            "post_id": 8367,
+            "course_name": "航空工業製造概論（一）",
+            "teacher": "邢有光",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

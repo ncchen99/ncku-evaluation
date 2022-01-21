@@ -1,7 +1,7 @@
 {
-    "got": 7.5,
-    "cold": 8.15,
-    "sweet": 7.55,
+    "got": "7.5",
+    "cold": "8.2",
+    "sweet": "7.5",
     "rate_count": 20,
     "courseInfo": {
         "id": "347",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "張勝柏",
-        "已選課人數": 47,
-        "餘額": 0,
+        "已選課人數": 0,
+        "餘額": 50,
         "時間": "[3]5~6 ",
         "教室": "共同教室 A1306(資源後)",
         "備註": "104學年度(含)以前入學生為「公民與歷史」",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 20,
-        "remain_update_time": "2021-08-14T05:50:23.000Z",
-        "count": 1010,
+        "comment_num": 21,
+        "remain_update_time": "2022-01-18T09:30:30.000Z",
+        "count": 3370,
         "admit": null,
-        "comment": 21,
-        "course_style": 1,
-        "report_hw": 1,
-        "score_style": 0,
-        "semester": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

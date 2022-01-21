@@ -1,8 +1,8 @@
 {
-    "got": 7.014925373134329,
-    "cold": 7.880597014925373,
-    "sweet": 8.746268656716419,
-    "rate_count": 67,
+    "got": "7.0",
+    "cold": "7.9",
+    "sweet": "8.8",
+    "rate_count": 68,
     "courseInfo": {
         "id": "365",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "林怡薇",
-        "已選課人數": 160,
-        "餘額": 15,
+        "已選課人數": 0,
+        "餘額": 175,
         "時間": "[3]3~4 ",
         "教室": "共同教室 A1302",
         "備註": "104學年度(含)以前學生為哲學與藝術",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "美學與藝術跨域學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 75,
-        "remain_update_time": "2021-09-26T20:57:09.000Z",
-        "count": 4162,
+        "comment_num": 77,
+        "remain_update_time": "2022-01-18T09:31:23.000Z",
+        "count": 5650,
         "admit": null,
-        "comment": 76,
-        "course_style": 8,
-        "report_hw": 4,
-        "score_style": 5,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {
@@ -81,6 +78,11 @@
         {
             "id": 7763,
             "comment": "只要舉手回答就有分數，好課還不推爆，大膽一點也可以上台表演，加分不手軟。上台表演可以是自己的影片或是當場表演。\n",
+            "semester": "109-1"
+        },
+        {
+            "id": 8317,
+            "comment": "真的超涼超甜,一定要去點名,期末考認真考(考前一個禮拜會洩題),報告隨便做,\n上課加分量舉手就輕鬆98\t\n                        ",
             "semester": "109-1"
         },
         {
@@ -1448,6 +1450,21 @@
             "cold": 4,
             "user_id": 7848,
             "post_id": 8274,
+            "course_name": "西方古典音樂",
+            "teacher": "林怡薇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5530,
+            "got": 8,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7101,
+            "post_id": 8317,
             "course_name": "西方古典音樂",
             "teacher": "林怡薇",
             "like": 0,

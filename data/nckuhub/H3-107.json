@@ -1,7 +1,7 @@
 {
-    "got": 8,
-    "cold": 7.333333333333333,
-    "sweet": 9.333333333333334,
+    "got": "8.0",
+    "cold": "7.3",
+    "sweet": "9.3",
     "rate_count": 3,
     "courseInfo": {
         "id": "1867",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "FinTech金融科技學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2021-09-22T22:49:27.000Z",
-        "count": 255,
+        "comment_num": 3,
+        "remain_update_time": "2022-01-20T00:24:43.000Z",
+        "count": 356,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

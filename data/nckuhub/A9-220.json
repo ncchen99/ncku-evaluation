@@ -1,7 +1,7 @@
 {
-    "got": 8.44,
-    "cold": 8.2,
-    "sweet": 8.44,
+    "got": "8.4",
+    "cold": "8.2",
+    "sweet": "8.4",
     "rate_count": 25,
     "courseInfo": {
         "id": "409",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "陳文玲",
-        "已選課人數": 110,
-        "餘額": 3,
+        "已選課人數": 0,
+        "餘額": 155,
         "時間": "",
         "教室": "",
         "備註": "Moocs課程,修課同學需主動善用Moodle信箱接收重要通知（含開通步驟、修課須知與評量方法)",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 29,
-        "remain_update_time": "2021-09-06T05:49:34.000Z",
-        "count": 2505,
+        "comment_num": 30,
+        "remain_update_time": "2022-01-18T09:31:32.000Z",
+        "count": 4455,
         "admit": null,
-        "comment": 30,
-        "course_style": 3,
-        "report_hw": 1,
-        "score_style": 4,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

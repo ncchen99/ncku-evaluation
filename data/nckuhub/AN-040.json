@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "5.0",
+    "cold": "9.0",
+    "sweet": "8.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "536",
         "系所名稱": "不分系學程 CCEP",
@@ -19,7 +19,7 @@
         "選必修": "選修",
         "學分": 2,
         "老師": "黃紀茸*",
-        "已選課人數": 1,
+        "已選課人數": 28,
         "餘額": 0,
         "時間": "",
         "教室": "",
@@ -30,16 +30,38 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2021-08-10T23:42:39.000Z",
-        "count": 86,
+        "comment_num": 1,
+        "remain_update_time": "2022-01-18T16:31:58.000Z",
+        "count": 227,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8283,
+            "comment": "老師人不錯，上課涼給分甜，基本不用做事，聽聽課就好，如果常舉手、跟老師聊天，分數應該會更高。\n但內容就比較入門，很約略講過房地產、股票、債券，老師會解釋他們是啥，怎麼交易他們，但就沒有更多深入的內容了，如果對這個一點不懂，那這門課很適合你。可是如果你有看過類似的書，那就要考慮一下了， \n",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5496,
+            "got": 5,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 5357,
+            "post_id": 8283,
+            "course_name": "全球投資與發展策略",
+            "teacher": "黃紀茸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": 7,
-    "cold": 8.238095238095237,
-    "sweet": 7.166666666666667,
-    "rate_count": 42,
+    "got": "7.0",
+    "cold": "8.3",
+    "sweet": "7.2",
+    "rate_count": 43,
     "courseInfo": {
         "id": "380",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "周麗芳",
-        "已選課人數": 294,
-        "餘額": 6,
+        "已選課人數": 0,
+        "餘額": 300,
         "時間": "[4]3~4 ",
         "教室": "資訊大樓 格致廳大講堂",
         "備註": "",
@@ -30,22 +30,24 @@
         "跨領域學分學程": "醫學、科技與社會學程(STM)",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 30,
-        "remain_update_time": "2021-09-21T11:39:06.000Z",
-        "count": 2989,
+        "comment_num": 33,
+        "remain_update_time": "2022-01-18T09:38:13.000Z",
+        "count": 4558,
         "admit": null,
-        "comment": 32,
-        "course_style": 1,
+        "comment": 0,
+        "course_style": 0,
         "report_hw": 0,
-        "score_style": 1,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "score_style": 0
     },
     "comment": [
         {
             "id": 8255,
             "comment": "涼!\n上課完全可以做自己的事\n後半學期改遠距基本上掛在線上就行\n期中期末要稍微讀一下ppt\n全選擇題  大部分不會太難\n期中比較簡單  期末比較難一點\n參加3項心理學測驗\n最後92過",
+            "semester": "109-2"
+        },
+        {
+            "id": 8318,
+            "comment": "上課可以做自己的事，有期中期末考，考試內容都從上課講義出（放在moodle），考試大概80分左右是比較簡單，ppt有看過就大概知道，剩下20分就蠻細的，不好拿分",
             "semester": "109-2"
         },
         {
@@ -831,6 +833,21 @@
             "cold": 9,
             "user_id": 7813,
             "post_id": 8255,
+            "course_name": "心理學",
+            "teacher": "周麗芳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5531,
+            "got": 6,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 6126,
+            "post_id": 8318,
             "course_name": "心理學",
             "teacher": "周麗芳",
             "like": 0,

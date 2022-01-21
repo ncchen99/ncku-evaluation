@@ -1,7 +1,7 @@
 {
-    "got": 5,
-    "cold": 9.421052631578947,
-    "sweet": 7.368421052631579,
+    "got": "5.0",
+    "cold": "9.4",
+    "sweet": "7.4",
     "rate_count": 19,
     "courseInfo": {
         "id": "381",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "梁文韜",
-        "已選課人數": 153,
-        "餘額": 7,
+        "已選課人數": 0,
+        "餘額": 220,
         "時間": "[2]5~6 ",
         "教室": "共同教室 A1302",
         "備註": "",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 25,
-        "remain_update_time": "2021-09-03T01:42:48.000Z",
-        "count": 1851,
+        "comment_num": 26,
+        "remain_update_time": "2022-01-18T09:31:01.000Z",
+        "count": 4556,
         "admit": null,
-        "comment": 26,
-        "course_style": 5,
-        "report_hw": 1,
-        "score_style": 6,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

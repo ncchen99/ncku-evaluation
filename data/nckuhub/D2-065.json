@@ -1,7 +1,7 @@
 {
-    "got": 7.333333333333333,
-    "cold": 5.666666666666667,
-    "sweet": 5.666666666666667,
+    "got": "7.3",
+    "cold": "5.7",
+    "sweet": "5.7",
     "rate_count": 3,
     "courseInfo": {
         "id": "918",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 2,
         "老師": "陳汶津",
-        "已選課人數": 20,
-        "餘額": 0,
+        "已選課人數": 30,
+        "餘額": 2,
         "時間": "[1]7~8 ",
         "教室": "社科院大樓 80207",
         "備註": "特別法",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2021-09-08T00:06:22.000Z",
-        "count": 79,
+        "comment_num": 3,
+        "remain_update_time": "2022-01-18T23:55:50.000Z",
+        "count": 165,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

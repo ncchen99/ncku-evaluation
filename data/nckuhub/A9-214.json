@@ -1,7 +1,7 @@
 {
-    "got": 6.666666666666667,
-    "cold": 8.666666666666666,
-    "sweet": 6.666666666666667,
+    "got": "6.7",
+    "cold": "8.7",
+    "sweet": "6.7",
     "rate_count": 3,
     "courseInfo": {
         "id": "403",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "王世敏",
-        "已選課人數": 41,
-        "餘額": 2,
+        "已選課人數": 0,
+        "餘額": 60,
         "時間": "[1]7~8 ",
         "教室": "醫學院 501",
         "備註": "",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2021-09-06T05:53:04.000Z",
-        "count": 1332,
+        "comment_num": 3,
+        "remain_update_time": "2022-01-18T09:35:42.000Z",
+        "count": 2550,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
