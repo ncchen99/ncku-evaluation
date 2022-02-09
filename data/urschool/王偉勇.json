@@ -1,16 +1,18 @@
 [
-    "王偉勇",
-    "中國文學系",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "c91ed3c0-f369-4e35-9df9-8e73b9c5067c"
+    {
+        "姓名": "王偉勇",
+        "授課系所": "中國文學系",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "c91ed3c0-f369-4e35-9df9-8e73b9c5067c"
+    }
 ]

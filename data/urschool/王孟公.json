@@ -1,16 +1,18 @@
 [
-    "王孟公",
-    "物理學系",
-    "退休講師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "成功大學碩士",
-    null,
-    null,
-    null,
-    "b932bacc-fd46-4a00-85f9-27cdcc0d610e"
+    {
+        "姓名": "王孟公",
+        "授課系所": "物理學系",
+        "職稱": "退休講師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "成功大學碩士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "b932bacc-fd46-4a00-85f9-27cdcc0d610e"
+    }
 ]

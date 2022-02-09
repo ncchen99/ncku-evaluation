@@ -1,16 +1,18 @@
 [
-    "杜伊芳",
-    "臨床醫學研究所",
-    "合聘副教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "7b6f9a2b-92eb-4b7e-b48a-03722fc98beb"
+    {
+        "姓名": "杜伊芳",
+        "授課系所": "臨床醫學研究所",
+        "職稱": "合聘副教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "7b6f9a2b-92eb-4b7e-b48a-03722fc98beb"
+    }
 ]

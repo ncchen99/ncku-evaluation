@@ -1,16 +1,18 @@
 [
-    "吳博雄",
-    "機械工程學系",
-    "兼任助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "8aa86496-305d-4779-8d65-2f5eeb4bce11"
+    {
+        "姓名": "吳博雄",
+        "授課系所": "機械工程學系",
+        "職稱": "兼任助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "8aa86496-305d-4779-8d65-2f5eeb4bce11"
+    }
 ]

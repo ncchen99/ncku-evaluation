@@ -1,16 +1,18 @@
 [
-    "蘇翔",
-    "解剖學科暨細胞生物與解剖學研究所",
-    "兼任副教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "a79914ba-78a9-4da7-b03d-03a793c1cedb"
+    {
+        "姓名": "蘇翔",
+        "授課系所": "解剖學科暨細胞生物與解剖學研究所",
+        "職稱": "兼任副教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "a79914ba-78a9-4da7-b03d-03a793c1cedb"
+    }
 ]

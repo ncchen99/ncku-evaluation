@@ -1,16 +1,18 @@
 [
-    "翁慧卿",
-    "老年學研究所",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "07cb9dec-4b02-44b7-a9f3-c02844f2affc"
+    {
+        "姓名": "翁慧卿",
+        "授課系所": "老年學研究所",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "07cb9dec-4b02-44b7-a9f3-c02844f2affc"
+    }
 ]

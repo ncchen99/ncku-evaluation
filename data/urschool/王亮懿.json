@@ -1,16 +1,18 @@
 [
-    "王亮懿",
-    "公共衛生學科暨公共衛生研究所",
-    "助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "國立台灣大學流行病學研究所博士",
-    null,
-    null,
-    null,
-    "feabcc3a-fd04-45c2-a1cc-26ba42adedde"
+    {
+        "姓名": "王亮懿",
+        "授課系所": "公共衛生學科暨公共衛生研究所",
+        "職稱": "助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "國立台灣大學流行病學研究所博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "feabcc3a-fd04-45c2-a1cc-26ba42adedde"
+    }
 ]

@@ -1,16 +1,18 @@
 [
-    "王富元",
-    "麻醉學科",
-    "主治醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "6405d3d7-d6b3-4e3b-8722-b36be3ad3c01"
+    {
+        "姓名": "王富元",
+        "授課系所": "麻醉學科",
+        "職稱": "主治醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "6405d3d7-d6b3-4e3b-8722-b36be3ad3c01"
+    }
 ]

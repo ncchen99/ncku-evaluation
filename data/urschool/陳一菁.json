@@ -1,16 +1,18 @@
 [
-    "陳一菁",
-    "生命科學系",
-    "副教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "PhD,Biology,UniversityofYork,UK",
-    null,
-    null,
-    null,
-    "d60c21e3-e6fe-4dab-a8d9-268d868123de"
+    {
+        "姓名": "陳一菁",
+        "授課系所": "生命科學系",
+        "職稱": "副教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "PhD,Biology,UniversityofYork,UK",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "d60c21e3-e6fe-4dab-a8d9-268d868123de"
+    }
 ]

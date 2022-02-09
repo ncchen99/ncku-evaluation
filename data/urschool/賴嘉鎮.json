@@ -1,16 +1,18 @@
 [
-    "賴嘉鎮",
-    "藥學系",
-    "助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "2ff1fd42-9101-4480-988c-a10d4d040bee"
+    {
+        "姓名": "賴嘉鎮",
+        "授課系所": "藥學系",
+        "職稱": "助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "2ff1fd42-9101-4480-988c-a10d4d040bee"
+    }
 ]

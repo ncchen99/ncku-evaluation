@@ -1,16 +1,18 @@
 [
-    "彭淑玲",
-    "病理學科",
-    "臨床教師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "高雄醫學大學醫學士",
-    null,
-    null,
-    null,
-    "aaafb005-715c-4cce-b7fe-b4ed4122e23a"
+    {
+        "姓名": "彭淑玲",
+        "授課系所": "病理學科",
+        "職稱": "臨床教師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "高雄醫學大學醫學士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "aaafb005-715c-4cce-b7fe-b4ed4122e23a"
+    }
 ]

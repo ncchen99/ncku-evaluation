@@ -1,16 +1,18 @@
 [
-    "陳健宏",
-    "外國語文學系",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "法國巴黎第四大學(UniversitédeParis-Sorbonne,ParisIV)比較文學(littératurecomparée)博士",
-    null,
-    null,
-    null,
-    "28b002bc-9d1b-459d-888d-f98b3d87c70e"
+    {
+        "姓名": "陳健宏",
+        "授課系所": "外國語文學系",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "法國巴黎第四大學(UniversitédeParis-Sorbonne,ParisIV)比較文學(littératurecomparée)博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "28b002bc-9d1b-459d-888d-f98b3d87c70e"
+    }
 ]

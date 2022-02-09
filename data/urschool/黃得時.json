@@ -1,16 +1,18 @@
 [
-    "黃得時",
-    "化學系",
-    "兼任教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "2aa6e984-ae17-4670-8be4-0136aa5f56b9"
+    {
+        "姓名": "黃得時",
+        "授課系所": "化學系",
+        "職稱": "兼任教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "2aa6e984-ae17-4670-8be4-0136aa5f56b9"
+    }
 ]

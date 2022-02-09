@@ -1,16 +1,18 @@
 [
-    "陳嘉元",
-    "機械工程學系",
-    "副教授兼國際處國際合作組組長",
-    "5.0 ★",
-    "5.0 ★",
-    "4.5 ★",
-    "3.0 ★",
-    "5.0 ★",
-    "A+",
-    "Ph.D.,BiomedicalEngineering,CarnegieMellonUniversity,USA,2012.",
-    null,
-    null,
-    null,
-    "3ebe5df5-ca43-4b6a-8d34-f8b531a9e4ce"
+    {
+        "姓名": "陳嘉元",
+        "授課系所": "機械工程學系",
+        "職稱": "副教授兼國際處國際合作組組長",
+        "私心推薦": "5.0 ★",
+        "學到東西": "5.0 ★",
+        "口條好": "4.5 ★",
+        "課業壓力": "3.0 ★",
+        "給分甜度": "5.0 ★",
+        "平均成績": "A+",
+        "最高學歷": "Ph.D.,BiomedicalEngineering,CarnegieMellonUniversity,USA,2012.",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "3ebe5df5-ca43-4b6a-8d34-f8b531a9e4ce"
+    }
 ]

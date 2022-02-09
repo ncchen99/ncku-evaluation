@@ -1,16 +1,18 @@
 [
-    "沈芳瀅",
-    "土木工程學系",
-    "兼任助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "f6c6cf06-5838-446a-b968-0de82b185a5e"
+    {
+        "姓名": "沈芳瀅",
+        "授課系所": "土木工程學系",
+        "職稱": "兼任助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "f6c6cf06-5838-446a-b968-0de82b185a5e"
+    }
 ]

@@ -1,16 +1,18 @@
 [
-    "曾繁玲",
-    "麻醉學科",
-    "主治醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "d28b70d5-a431-4d26-9915-d62b8c3f5e0f"
+    {
+        "姓名": "曾繁玲",
+        "授課系所": "麻醉學科",
+        "職稱": "主治醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "d28b70d5-a431-4d26-9915-d62b8c3f5e0f"
+    }
 ]

@@ -1,16 +1,18 @@
 [
-    "陳麗光",
-    "老年學研究所",
-    "副教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "420a7cc4-50fc-4336-9990-6a2f80f1ed6f"
+    {
+        "姓名": "陳麗光",
+        "授課系所": "老年學研究所",
+        "職稱": "副教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "420a7cc4-50fc-4336-9990-6a2f80f1ed6f"
+    }
 ]

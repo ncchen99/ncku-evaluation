@@ -50,13 +50,20 @@ class Worker(threading.Thread):
             table["urschool_id"] = id_list
             for index, row in table.iterrows():
                 file_name = "./data/urschool/" + str(row["姓名"])
+                prof_data = row.to_json(orient="index", force_ascii=False)
+
                 if os.path.isfile(file_name + ".json"):
-                    print("Duplicate professor name:", row["姓名"])
-                    file_name += "-2"
-                prof_data = row.to_json(orient="records", force_ascii=False)
-                with open(file_name + ".json", "w+", encoding="utf-8") as f:
-                    json.dump(json.loads(prof_data), f,
-                              indent=4, ensure_ascii=False)
+                    with open(file_name + ".json", "r+", encoding="utf-8") as f:
+                        print("Duplicate professor name:", row["姓名"])
+                        content = json.load(f)
+                        content.append(json.loads(prof_data))
+                    with open(file_name + ".json", "w+", encoding="utf-8") as f:
+                        json.dump(content, f,
+                                  indent=4, ensure_ascii=False)
+                else:
+                    with open(file_name + ".json", "w+", encoding="utf-8") as f:
+                        json.dump([json.loads(prof_data)], f,
+                                  indent=4, ensure_ascii=False)
 
             self.lock.acquire()
             all_professors_table = pd.concat(

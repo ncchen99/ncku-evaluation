@@ -1,16 +1,18 @@
 [
-    "陳怡良",
-    "中國文學系",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "f66c150b-fbd3-4c97-a8d5-44e62b47e95f"
+    {
+        "姓名": "陳怡良",
+        "授課系所": "中國文學系",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "f66c150b-fbd3-4c97-a8d5-44e62b47e95f"
+    }
 ]

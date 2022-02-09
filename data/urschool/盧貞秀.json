@@ -1,16 +1,18 @@
 [
-    "盧貞秀",
-    "會計學系",
-    "兼任專家",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "國立中山大學公共事務管理研究所碩士",
-    null,
-    null,
-    null,
-    "4aadd88e-b0b4-41db-bcfd-0df5eed46279"
+    {
+        "姓名": "盧貞秀",
+        "授課系所": "會計學系",
+        "職稱": "兼任專家",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "國立中山大學公共事務管理研究所碩士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "4aadd88e-b0b4-41db-bcfd-0df5eed46279"
+    }
 ]

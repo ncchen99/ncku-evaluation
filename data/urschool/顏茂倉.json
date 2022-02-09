@@ -1,16 +1,18 @@
 [
-    "顏茂倉",
-    "建築學系",
-    "副教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "1986美國俄亥俄州立大學都市及區域計畫碩士TheOhioStateUniversity,M.C.R.P.",
-    null,
-    "顏杯",
-    null,
-    "4c227bfc-2fd5-4d48-b2c5-cb93157325d5"
+    {
+        "姓名": "顏茂倉",
+        "授課系所": "建築學系",
+        "職稱": "副教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "1986美國俄亥俄州立大學都市及區域計畫碩士TheOhioStateUniversity,M.C.R.P.",
+        "值得一提": null,
+        "綽號": "顏杯",
+        "點名方式": null,
+        "urschool_id": "4c227bfc-2fd5-4d48-b2c5-cb93157325d5"
+    }
 ]

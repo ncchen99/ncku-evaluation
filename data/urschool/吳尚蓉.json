@@ -1,16 +1,18 @@
 [
-    "吳尚蓉",
-    null,
-    "助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "瑞典karolinskainsitutebiosciencesandnutrition博士",
-    null,
-    null,
-    null,
-    "d439cc78-7346-4b0c-98e1-f1a08eee8be5"
+    {
+        "姓名": "吳尚蓉",
+        "授課系所": null,
+        "職稱": "助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "瑞典karolinskainsitutebiosciencesandnutrition博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "d439cc78-7346-4b0c-98e1-f1a08eee8be5"
+    }
 ]

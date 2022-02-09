@@ -1,16 +1,18 @@
 [
-    "蕭美玲",
-    "藥學系",
-    "兼任教授級專家",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "847dec5f-c211-4c29-bf2c-8dae32d62dd6"
+    {
+        "姓名": "蕭美玲",
+        "授課系所": "藥學系",
+        "職稱": "兼任教授級專家",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "847dec5f-c211-4c29-bf2c-8dae32d62dd6"
+    }
 ]

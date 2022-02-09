@@ -1,16 +1,18 @@
 [
-    "吳俊明",
-    "小兒學科",
-    "醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "台灣大學醫學系",
-    null,
-    null,
-    null,
-    "89a280f7-81b0-4d2a-ab1c-2cbef6d700ff"
+    {
+        "姓名": "吳俊明",
+        "授課系所": "小兒學科",
+        "職稱": "醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "台灣大學醫學系",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "89a280f7-81b0-4d2a-ab1c-2cbef6d700ff"
+    }
 ]

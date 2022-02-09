@@ -1,16 +1,18 @@
 [
-    "林再興",
-    "資源工程系",
-    "兼任教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "美國堪薩斯大學博士",
-    null,
-    null,
-    null,
-    "ae3a615f-271a-4dec-aaaa-e9e259d0e1f8"
+    {
+        "姓名": "林再興",
+        "授課系所": "資源工程系",
+        "職稱": "兼任教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "美國堪薩斯大學博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "ae3a615f-271a-4dec-aaaa-e9e259d0e1f8"
+    }
 ]

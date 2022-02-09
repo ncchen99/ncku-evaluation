@@ -1,16 +1,18 @@
 [
-    "周宗慶",
-    "外科學科",
-    "主治醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "1990–1997M.D.,SchoolofMedicine,NationalTaiwanUniversity,Taipei,Taiwan",
-    null,
-    null,
-    null,
-    "d5c2ead9-dcb1-4227-8999-07c91e5ef917"
+    {
+        "姓名": "周宗慶",
+        "授課系所": "外科學科",
+        "職稱": "主治醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "1990–1997M.D.,SchoolofMedicine,NationalTaiwanUniversity,Taipei,Taiwan",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "d5c2ead9-dcb1-4227-8999-07c91e5ef917"
+    }
 ]

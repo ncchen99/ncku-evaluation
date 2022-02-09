@@ -1,16 +1,18 @@
 [
-    "林祐琪Lin,You-Qi",
-    "華語中心",
-    "專職教師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "國立成功大學外國語文學系學士",
-    null,
-    null,
-    null,
-    "bdca9a6a-e501-468b-ad34-85f3f0c320fe"
+    {
+        "姓名": "林祐琪Lin,You-Qi",
+        "授課系所": "華語中心",
+        "職稱": "專職教師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "國立成功大學外國語文學系學士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "bdca9a6a-e501-468b-ad34-85f3f0c320fe"
+    }
 ]

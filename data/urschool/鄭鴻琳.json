@@ -1,16 +1,18 @@
 [
-    "鄭鴻琳",
-    "泌尿學科",
-    "講師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "cb50bcf1-9cc5-4f74-9927-14815e1ba0d1"
+    {
+        "姓名": "鄭鴻琳",
+        "授課系所": "泌尿學科",
+        "職稱": "講師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "cb50bcf1-9cc5-4f74-9927-14815e1ba0d1"
+    }
 ]

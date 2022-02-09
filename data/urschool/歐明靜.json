@@ -1,16 +1,18 @@
 [
-    "歐明靜",
-    "放射線學科",
-    "臨床講師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "31b2c76d-fecc-477e-b40f-9a9bf5107b53"
+    {
+        "姓名": "歐明靜",
+        "授課系所": "放射線學科",
+        "職稱": "臨床講師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "31b2c76d-fecc-477e-b40f-9a9bf5107b53"
+    }
 ]

@@ -1,16 +1,18 @@
 [
-    "王冠傑",
-    "醫學檢驗生物技術學系",
-    "兼任助理教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "國立成功大學基礎醫學研究所博士",
-    null,
-    null,
-    null,
-    "da4f8bd4-aa87-4e54-beee-cc15ffecd1db"
+    {
+        "姓名": "王冠傑",
+        "授課系所": "醫學檢驗生物技術學系",
+        "職稱": "兼任助理教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "國立成功大學基礎醫學研究所博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "da4f8bd4-aa87-4e54-beee-cc15ffecd1db"
+    }
 ]

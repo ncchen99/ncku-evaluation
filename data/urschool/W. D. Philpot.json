@@ -1,16 +1,18 @@
 [
-    "W. D. Philpot",
-    "測量及空間資訊學系",
-    "國際兼任教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "UniversityofDelaware,MarineStudie,Ph.D.",
-    null,
-    null,
-    null,
-    "0a13f08a-9c0e-4233-bb4e-aa2ed4a57413"
+    {
+        "姓名": "W. D. Philpot",
+        "授課系所": "測量及空間資訊學系",
+        "職稱": "國際兼任教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "UniversityofDelaware,MarineStudie,Ph.D.",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "0a13f08a-9c0e-4233-bb4e-aa2ed4a57413"
+    }
 ]

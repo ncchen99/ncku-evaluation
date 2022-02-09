@@ -1,16 +1,18 @@
 [
-    "林英志",
-    "法律學系",
-    "兼任專家",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "4b14ec7e-c29b-49b0-9c04-0c66a59bfa1d"
+    {
+        "姓名": "林英志",
+        "授課系所": "法律學系",
+        "職稱": "兼任專家",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "4b14ec7e-c29b-49b0-9c04-0c66a59bfa1d"
+    }
 ]

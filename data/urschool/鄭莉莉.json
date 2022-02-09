@@ -1,16 +1,18 @@
 [
-    "鄭莉莉",
-    "放射線學科",
-    "講師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "4cc3cdb6-f70e-4356-b5b9-6e7e64353c56"
+    {
+        "姓名": "鄭莉莉",
+        "授課系所": "放射線學科",
+        "職稱": "講師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "4cc3cdb6-f70e-4356-b5b9-6e7e64353c56"
+    }
 ]

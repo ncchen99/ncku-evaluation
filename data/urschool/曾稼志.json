@@ -1,16 +1,18 @@
 [
-    "曾稼志",
-    "麻醉學科",
-    "副教授；部主任",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "60effb53-95ac-4b69-9c13-2e23bb31dafa"
+    {
+        "姓名": "曾稼志",
+        "授課系所": "麻醉學科",
+        "職稱": "副教授；部主任",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "60effb53-95ac-4b69-9c13-2e23bb31dafa"
+    }
 ]

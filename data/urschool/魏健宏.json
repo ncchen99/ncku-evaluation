@@ -1,16 +1,18 @@
 [
-    "魏健宏",
-    "交通管理科學系",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "馬利蘭大學土木工程研究所博士",
-    null,
-    null,
-    null,
-    "a40bb0ab-fffa-4eea-b9d7-81cd6821d9ad"
+    {
+        "姓名": "魏健宏",
+        "授課系所": "交通管理科學系",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "馬利蘭大學土木工程研究所博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "a40bb0ab-fffa-4eea-b9d7-81cd6821d9ad"
+    }
 ]

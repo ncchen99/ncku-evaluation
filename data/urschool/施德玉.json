@@ -1,16 +1,18 @@
 [
-    "施德玉",
-    "藝術研究所",
-    "特聘教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "香港新亞研究所文學組博士",
-    null,
-    null,
-    null,
-    "affc3a3a-9ce3-4a8b-a8bc-25f4e6875fd4"
+    {
+        "姓名": "施德玉",
+        "授課系所": "藝術研究所",
+        "職稱": "特聘教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "香港新亞研究所文學組博士",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "affc3a3a-9ce3-4a8b-a8bc-25f4e6875fd4"
+    }
 ]

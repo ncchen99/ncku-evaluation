@@ -1,16 +1,18 @@
 [
-    "曾吉賢",
-    "臺灣文學系",
-    "兼任專家",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "9534b52e-f569-4cfe-b788-2444ef33c5b2"
+    {
+        "姓名": "曾吉賢",
+        "授課系所": "臺灣文學系",
+        "職稱": "兼任專家",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "9534b52e-f569-4cfe-b788-2444ef33c5b2"
+    }
 ]

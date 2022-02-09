@@ -1,16 +1,18 @@
 [
-    "張志然",
-    "急診醫學科",
-    "主治醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "中山醫學院醫學系1994",
-    null,
-    null,
-    null,
-    "99eafb4e-7ae3-4a04-ac99-dc6deee9b077"
+    {
+        "姓名": "張志然",
+        "授課系所": "急診醫學科",
+        "職稱": "主治醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "中山醫學院醫學系1994",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "99eafb4e-7ae3-4a04-ac99-dc6deee9b077"
+    }
 ]

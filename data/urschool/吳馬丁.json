@@ -1,16 +1,18 @@
 [
-    "吳馬丁",
-    "機械工程學系",
-    "助理教授",
-    "2.0 ★",
-    "4.0 ★",
-    "1.0 ★",
-    "1.0 ★",
-    "2.0 ★",
-    null,
-    "Ph.D.,AutomaticControl,KTHRoyalInstituteofTechnology,Sweden",
-    null,
-    null,
-    null,
-    "013a7b6d-becb-4d1a-bf37-3273d2cab8d2"
+    {
+        "姓名": "吳馬丁",
+        "授課系所": "機械工程學系",
+        "職稱": "助理教授",
+        "私心推薦": "2.0 ★",
+        "學到東西": "4.0 ★",
+        "口條好": "1.0 ★",
+        "課業壓力": "1.0 ★",
+        "給分甜度": "2.0 ★",
+        "平均成績": null,
+        "最高學歷": "Ph.D.,AutomaticControl,KTHRoyalInstituteofTechnology,Sweden",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "013a7b6d-becb-4d1a-bf37-3273d2cab8d2"
+    }
 ]

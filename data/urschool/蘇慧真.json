@@ -1,16 +1,18 @@
 [
-    "蘇慧真",
-    "神經學科",
-    "醫師",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "私立中國醫藥大學醫學系畢業",
-    null,
-    null,
-    null,
-    "e973a905-1ccc-4a9c-9cfc-fcfbbbe48177"
+    {
+        "姓名": "蘇慧真",
+        "授課系所": "神經學科",
+        "職稱": "醫師",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": "私立中國醫藥大學醫學系畢業",
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "e973a905-1ccc-4a9c-9cfc-fcfbbbe48177"
+    }
 ]

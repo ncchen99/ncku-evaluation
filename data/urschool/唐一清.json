@@ -1,16 +1,18 @@
 [
-    "唐一清",
-    "泌尿學科",
-    "教授",
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    "c7f81845-62e7-4577-9e8e-a1bc1137b2c8"
+    {
+        "姓名": "唐一清",
+        "授課系所": "泌尿學科",
+        "職稱": "教授",
+        "私心推薦": null,
+        "學到東西": null,
+        "口條好": null,
+        "課業壓力": null,
+        "給分甜度": null,
+        "平均成績": null,
+        "最高學歷": null,
+        "值得一提": null,
+        "綽號": null,
+        "點名方式": null,
+        "urschool_id": "c7f81845-62e7-4577-9e8e-a1bc1137b2c8"
+    }
 ]
