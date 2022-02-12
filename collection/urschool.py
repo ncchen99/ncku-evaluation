@@ -4,11 +4,13 @@ import threading
 import re
 import os.path
 import pandas as pd
+import shutil
+import hashlib
+
 from bs4 import BeautifulSoup
 from queue import Queue
 from time import sleep
 from urllib3.exceptions import InsecureRequestWarning
-
 ########################################
 #                                      #
 #                QQ 丸子               #
@@ -50,7 +52,7 @@ class Worker(threading.Thread):
             table["urschool_id"] = id_list
             for index, row in table.iterrows():
                 file_name = "./data/urschool/" + str(row["姓名"])
-                prof_data = row.to_json(orient="index", force_ascii=False)
+                prof_data = row.to_json(orient="records", force_ascii=False)
 
                 if os.path.isfile(file_name + ".json"):
                     with open(file_name + ".json", "r+", encoding="utf-8") as f:
@@ -65,42 +67,24 @@ class Worker(threading.Thread):
                         json.dump([json.loads(prof_data)], f,
                                   indent=4, ensure_ascii=False)
 
-            self.lock.acquire()
-            all_professors_table = pd.concat(
-                [all_professors_table, table], ignore_index=True)
-
             print("finish page：", self.page)
-            self.lock.release()
+            # self.lock.acquire()
+            # all_professors_table = pd.concat(
+            #     [all_professors_table, table], ignore_index=True)
+            # self.lock.release()
             break        # 釋放旗標
         self.semaphore.release()
 
-    '''r = requests.get(self.url + self.prof["urschool_id"])
-        soup = BeautifulSoup(r.text, "html.parser")
-        comments = soup.find('div', id=re.compile('^comment-box-'))
-        prof_comments = list()
-        try:
-            for comment in comments.find_all("div"):
-                prof_comments.append({"user": comment.find("img").get(
-                    "src"), "comment": comment.find("div").get_text()})
-        except:
-            print("ERROR saving prof detail")
-        file_name = "./data/urschool/" + self.prof["姓名"]
-        if os.path.isfile(file_name + ".json"):
-            print("Duplicate professor name:", self.prof["姓名"])
-            file_name += "-2"
-        prof_data = self.prof.to_json(orient="records")
-        prof_data["comments"] = prof_comments
-        print(prof_data)
-        with open(file_name + ".json", "w+", encoding="utf-8") as f:
-            json.dump(prof_data, f, indent=4, ensure_ascii=False)'''
 
-
-all_professors_table = pd.DataFrame()
+# 痊癒變數
+all_professors_table = {}
+all_professors_table["professors"] = {}
 url = "https://urschool.org/ncku/list"
 headers = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.75 Safari/537.36",
     "X-Requested-With": "XMLHttpRequest"
 }
+
 # 關閉錯誤訊息
 requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
@@ -117,6 +101,10 @@ queue = Queue()
 free_proxy_table = pd.read_html(requests.get(
     "https://free-proxy-list.net/", headers=headers).text)[0]
 
+# delete previously files
+if os.path.isdir("./data/urschool"):
+    shutil.rmtree('./data/urschool')
+os.mkdir("./data/urschool")
 
 lock = threading.Lock()
 
@@ -132,18 +120,28 @@ while(not queue.empty()):
 for worker in workers:
     worker.join()
 
+# save title
+try:
+    r = requests.get(url, headers=headers)
+    soup = BeautifulSoup(r.text, 'html.parser')
+    table = pd.read_html(
+        str(soup.find_all("table", class_="table")[0]))[0]
+    all_professors_table["column names"] = list(
+        table.columns) + ["urschool_id"]
+except:
+    print("save column failure!")
+
+# save professors data
+for file in [f for f in os.listdir("./data/urschool/") if os.path.isfile(os.path.join("./data/urschool/", f))]:
+    all_professors_table["professors"][os.path.splitext(file)[0]] = json.load(
+        open(os.path.join("./data/urschool/", file)))
+# generate sha256
+with open("./data/urschool-sha256.txt", "w+") as f:
+    f.write(hashlib.sha256(json.dumps(
+        all_professors_table).encode('utf-8')).hexdigest())
+
+# dump to file
 with open("./data/urschool.json", "w+") as f:
-    json.dump(json.loads(all_professors_table.to_json(
-        orient="records", force_ascii=False)), f, indent=4, ensure_ascii=False)
-
-# for index, row in all_professors_table.iterrows():
-#     file_name = "./data/urschool/" + str(row["姓名"])
-#     if os.path.isfile(file_name + ".json"):
-#         print("Duplicate professor name:", row["姓名"])
-#         file_name += "-2"
-#     prof_data = row.to_json(orient="records", force_ascii=False)
-#     with open(file_name + ".json", "w+", encoding="utf-8") as f:
-#         json.dump(json.loads(prof_data), f, indent=4, ensure_ascii=False)
-
+    json.dump(all_professors_table, f, indent=4, ensure_ascii=False)
 
 print("Done.")

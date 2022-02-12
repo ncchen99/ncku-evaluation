@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "E-W. O.",
-        "授課系所": "物理學系",
-        "職稱": "訪問教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": "Technion-IsraelInstituteofTechnology",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "32a651a2-1cbc-432a-af2d-77197c653534"
-    }
+    [
+        "E-W. O.",
+        "物理學系",
+        "訪問教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "Technion-IsraelInstituteofTechnology",
+        null,
+        null,
+        null,
+        "32a651a2-1cbc-432a-af2d-77197c653534"
+    ]
 ]

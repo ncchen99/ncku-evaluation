@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "林昌進",
-        "授課系所": "機械工程學系",
-        "職稱": "成大特聘教授",
-        "私心推薦": "5.0 ★",
-        "學到東西": "4.5 ★",
-        "口條好": "5.0 ★",
-        "課業壓力": "2.5 ★",
-        "給分甜度": "5.0 ★",
-        "平均成績": "A+",
-        "最高學歷": "1979(B.S.)NationalChengKungUniversity,MechanicalEngineering,Taiwan",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "5bfbafb2-2fbd-4c79-82f4-82cb893590cf"
-    }
+    [
+        "林昌進",
+        "機械工程學系",
+        "成大特聘教授",
+        "5.0 ★",
+        "4.5 ★",
+        "5.0 ★",
+        "2.5 ★",
+        "5.0 ★",
+        "A+",
+        "1979(B.S.)NationalChengKungUniversity,MechanicalEngineering,Taiwan",
+        null,
+        null,
+        null,
+        "5bfbafb2-2fbd-4c79-82f4-82cb893590cf"
+    ]
 ]

@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "官大紳",
-        "授課系所": "老年學研究所",
-        "職稱": "副教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": null,
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "b42d537e-aaa9-471c-9106-426bc676d6a6"
-    }
+    [
+        "官大紳",
+        "老年學研究所",
+        "副教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "b42d537e-aaa9-471c-9106-426bc676d6a6"
+    ]
 ]

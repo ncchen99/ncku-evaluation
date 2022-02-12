@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "陳曉華",
-        "授課系所": "工程科學系",
-        "職稱": "特聘教授",
-        "私心推薦": "2.0 ★",
-        "學到東西": "2.0 ★",
-        "口條好": "2.0 ★",
-        "課業壓力": "4.0 ★",
-        "給分甜度": "1.0 ★",
-        "平均成績": "C+",
-        "最高學歷": "Ph.D.UniversityofOulu,FinlandElectricalEngineering",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "259f4306-fdf9-48ce-a202-2fa677720386"
-    }
+    [
+        "陳曉華",
+        "工程科學系",
+        "特聘教授",
+        "2.0 ★",
+        "2.0 ★",
+        "2.0 ★",
+        "4.0 ★",
+        "1.0 ★",
+        "C+",
+        "Ph.D.UniversityofOulu,FinlandElectricalEngineering",
+        null,
+        null,
+        null,
+        "259f4306-fdf9-48ce-a202-2fa677720386"
+    ]
 ]

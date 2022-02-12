@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "郭重言",
-        "授課系所": "測量及空間資訊學系",
-        "職稱": "教授",
-        "私心推薦": "5.0 ★",
-        "學到東西": "4.0 ★",
-        "口條好": "4.0 ★",
-        "課業壓力": "4.0 ★",
-        "給分甜度": "4.0 ★",
-        "平均成績": "B+",
-        "最高學歷": "博士,GeodeticScienceGraduateProgram,Dept.ofGeologicalSciences,theOhioStateUniversity",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "f253f40b-f775-44e9-b0c1-d61c7f4a24c4"
-    }
+    [
+        "郭重言",
+        "測量及空間資訊學系",
+        "教授",
+        "5.0 ★",
+        "4.0 ★",
+        "4.0 ★",
+        "4.0 ★",
+        "4.0 ★",
+        "B+",
+        "博士,GeodeticScienceGraduateProgram,Dept.ofGeologicalSciences,theOhioStateUniversity",
+        null,
+        null,
+        null,
+        "f253f40b-f775-44e9-b0c1-d61c7f4a24c4"
+    ]
 ]

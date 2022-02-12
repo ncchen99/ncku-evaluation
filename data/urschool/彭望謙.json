@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "彭望謙",
-        "授課系所": "物理學系",
-        "職稱": "退休副教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": null,
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "af1c14d7-d599-440a-9c7b-62e8b2bcf0c4"
-    }
+    [
+        "彭望謙",
+        "物理學系",
+        "退休副教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "af1c14d7-d599-440a-9c7b-62e8b2bcf0c4"
+    ]
 ]

@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "洪英志",
-        "授課系所": "數學系",
-        "職稱": "教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": "牛津大學博士",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "4bfded02-1cab-465c-95d0-0bff9f49001c"
-    }
+    [
+        "洪英志",
+        "數學系",
+        "教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "牛津大學博士",
+        null,
+        null,
+        null,
+        "4bfded02-1cab-465c-95d0-0bff9f49001c"
+    ]
 ]

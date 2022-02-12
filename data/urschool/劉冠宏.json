@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "劉冠宏",
-        "授課系所": "內科學科",
-        "職稱": "主治醫師",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": "慈濟大學醫學系畢業",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "aea40eba-cd44-4f23-ab66-0b33f01eaffb"
-    }
+    [
+        "劉冠宏",
+        "內科學科",
+        "主治醫師",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "慈濟大學醫學系畢業",
+        null,
+        null,
+        null,
+        "aea40eba-cd44-4f23-ab66-0b33f01eaffb"
+    ]
 ]

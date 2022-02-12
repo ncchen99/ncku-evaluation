@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "張家銘",
-        "授課系所": "老年學研究所",
-        "職稱": "副教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": null,
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "b6260d10-d4ba-4aa7-aac1-beb9901d6cf1"
-    }
+    [
+        "張家銘",
+        "老年學研究所",
+        "副教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "b6260d10-d4ba-4aa7-aac1-beb9901d6cf1"
+    ]
 ]

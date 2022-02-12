@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "張慧真",
-        "授課系所": "藥學系",
-        "職稱": "兼任講師",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": null,
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "d7e3fc68-df8f-4f63-a443-f1eb92b1cbcd"
-    }
+    [
+        "張慧真",
+        "藥學系",
+        "兼任講師",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "d7e3fc68-df8f-4f63-a443-f1eb92b1cbcd"
+    ]
 ]

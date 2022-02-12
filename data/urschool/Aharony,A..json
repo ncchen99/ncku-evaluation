@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "Aharony,A.",
-        "授課系所": "物理學系",
-        "職稱": "訪問教授",
-        "私心推薦": null,
-        "學到東西": null,
-        "口條好": null,
-        "課業壓力": null,
-        "給分甜度": null,
-        "平均成績": null,
-        "最高學歷": "TelAiviUniversity",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "1d40f1f5-616d-432f-a517-21307a27c0e1"
-    }
+    [
+        "Aharony,A.",
+        "物理學系",
+        "訪問教授",
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        "TelAiviUniversity",
+        null,
+        null,
+        null,
+        "1d40f1f5-616d-432f-a517-21307a27c0e1"
+    ]
 ]

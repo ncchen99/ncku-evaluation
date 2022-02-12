@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "郭怡良",
-        "授課系所": "物理治療學系",
-        "職稱": "助理教授",
-        "私心推薦": "4.0 ★",
-        "學到東西": "5.0 ★",
-        "口條好": "3.0 ★",
-        "課業壓力": "5.0 ★",
-        "給分甜度": "2.0 ★",
-        "平均成績": null,
-        "最高學歷": "SchoolofPhysiotherapy,TheUniversityofMelbourne,Australia,2008",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "40d5dbc9-deac-4572-a288-3ee35014f6ca"
-    }
+    [
+        "郭怡良",
+        "物理治療學系",
+        "助理教授",
+        "4.0 ★",
+        "5.0 ★",
+        "3.0 ★",
+        "5.0 ★",
+        "2.0 ★",
+        null,
+        "SchoolofPhysiotherapy,TheUniversityofMelbourne,Australia,2008",
+        null,
+        null,
+        null,
+        "40d5dbc9-deac-4572-a288-3ee35014f6ca"
+    ]
 ]

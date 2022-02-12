@@ -1,18 +1,18 @@
 [
-    {
-        "姓名": "羅裕龍",
-        "授課系所": "機械工程學系",
-        "職稱": "成大特聘教授",
-        "私心推薦": "1.0 ★",
-        "學到東西": "1.0 ★",
-        "口條好": "1.0 ★",
-        "課業壓力": "1.0 ★",
-        "給分甜度": "2.0 ★",
-        "平均成績": "B+",
-        "最高學歷": "MechanicalEngineering,UniversityofMarylandatCollegePark,Ph.D.,December1995.",
-        "值得一提": null,
-        "綽號": null,
-        "點名方式": null,
-        "urschool_id": "f0947fae-347e-46d9-ad73-3a2b49046ce1"
-    }
+    [
+        "羅裕龍",
+        "機械工程學系",
+        "成大特聘教授",
+        "1.0 ★",
+        "1.0 ★",
+        "1.0 ★",
+        "1.0 ★",
+        "2.0 ★",
+        "B+",
+        "MechanicalEngineering,UniversityofMarylandatCollegePark,Ph.D.,December1995.",
+        null,
+        null,
+        null,
+        "f0947fae-347e-46d9-ad73-3a2b49046ce1"
+    ]
 ]
