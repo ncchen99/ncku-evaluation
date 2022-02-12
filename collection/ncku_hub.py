@@ -1,10 +1,8 @@
 import json
-from pprint import pprint
 import requests
 import threading
 import os
 import hashlib
-from pprint import pprint
 
 
 class Worker(threading.Thread):
