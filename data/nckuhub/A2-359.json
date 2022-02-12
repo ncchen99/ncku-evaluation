@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "6.5",
-    "sweet": "6.5",
-    "rate_count": 2,
+    "got": 8.666666666666666,
+    "cold": 7.666666666666667,
+    "sweet": 7.666666666666667,
+    "rate_count": 3,
     "courseInfo": {
         "id": "218",
         "系所名稱": "體育室 OPE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 0,
         "老師": "謝孟志",
-        "已選課人數": 0,
-        "餘額": 30,
+        "已選課人數": 22,
+        "餘額": 8,
         "時間": "[2]3~4 ",
         "教室": "自強壘球場 自強壘球場",
         "備註": "手套自備",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-01-18T16:52:02.000Z",
-        "count": 51,
+        "remain_update_time": "2022-01-27T07:55:01.000Z",
+        "count": 60,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8673,
+            "comment": "每節課都在比賽\n手套自備\n每個同學至少都會輪到一次負責拿球具\n老師本身也是各比賽的裁判\n喜歡棒壘球的同學應該會很喜歡聽老師去當裁判的故事\n有時候老師會帶隊去比賽，當周就不用上課\n",
+            "semester": "110-1"
+        },
         {
             "id": 6928,
             "comment": "[上課教材]\n\n    \n\n[教學方法]\n\n    老師口頭解說壘球規則跟技巧\n\n[點名方式]\n\n    每堂課上課開始點名\n\n[考試方式]\n\n    \n\n[報告方式]\n\n    \n\n[作業方式]\n\n    \n\n[心得]\n\n    老師超有趣 上這堂課學到很多\n\n[付出]\n\n    4\n\n[收穫]\n\n    4\n",
@@ -81,6 +87,21 @@
             "post_id": 4720,
             "course_name": "壘球（男）",
             "teacher": "謝孟志 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5886,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7527,
+            "post_id": 8673,
+            "course_name": "壘球（男）",
+            "teacher": "謝孟志",
             "like": 0,
             "dislike": 0,
             "give": 1,

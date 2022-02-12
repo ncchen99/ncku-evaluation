@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 7,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1064,
+        "id": "1064",
         "系所名稱": "機械系 ME",
         "系號": "E1",
         "選課序號": "E1106",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-01-21T00:17:18.000Z",
-        "count": 71,
+        "remain_update_time": "2022-01-24T07:33:53.000Z",
+        "count": 76,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 2,
+        "course_style": 1,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 8513,
+            "comment": "上課老師用自己的ppt，不需要課本，上課認真聽考試很好準備，有問題都可以直接問老師，老師很樂意解答，上的東西蠻多的，一不留神會落後蠻多，認真準備分數不難拿",
+            "semester": "110-1"
+        },
         {
             "id": 2730,
             "comment": "老師很悶燒",
@@ -50,6 +58,22 @@
             "score_style": "期中30%, 期中40%,期末35%"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 5726,
+            "got": 9,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 6257,
+            "post_id": 8513,
+            "course_name": "電子學",
+            "teacher": "田思齊",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

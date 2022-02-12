@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 3,
+    "sweet": 6,
+    "rate_count": 1,
     "courseInfo": {
         "id": "586",
         "系所名稱": "中文系 CL",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T13:09:21.000Z",
-        "count": 233,
+        "remain_update_time": "2022-01-25T23:43:02.000Z",
+        "count": 281,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8604,
+            "comment": "「間距」是法國哲學家朱利安提出在異文化中類似概念的融通。\n上課文本除了新詩、近體詩，也有中庸、新儒學、沙特等等哲學材料，\n上課相當迷幻。每堂都會簽到表點名。\n\n上課方式多是閱讀老師發下的材料，小組討論後提出，老師回答。\n上課必須對文本有足夠的理解，也必須學會如何提問，如何回答老師的答覆。\n\n期中期末的考試老師會與同學們溝通，筆試、開書、報告老師都能接受。\n但通常前一周才會討論考試的方式，所以很常一周內就要寫出報告。\n\n分數不低，但絕對不甜。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5817,
+            "got": 8,
+            "sweet": 6,
+            "cold": 3,
+            "user_id": 7809,
+            "post_id": 8604,
+            "course_name": "「間距」詩學（一）",
+            "teacher": "翁文嫻",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

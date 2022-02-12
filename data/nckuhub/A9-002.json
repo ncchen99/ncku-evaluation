@@ -1,8 +1,8 @@
 {
-    "got": "5.9",
-    "cold": "8.3",
-    "sweet": "6.6",
-    "rate_count": 16,
+    "got": 6,
+    "cold": 8.352941176470589,
+    "sweet": 6.529411764705882,
+    "rate_count": 17,
     "courseInfo": {
         "id": "320",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "楊金峯",
-        "已選課人數": 0,
-        "餘額": 100,
+        "已選課人數": 98,
+        "餘額": 2,
         "時間": "[2]3~4 ",
         "教室": "生科院大樓南側 893S1",
         "備註": "為MOOCS磨課師課程,104學年度(含)以前入學生為「哲學與藝術」",
@@ -31,13 +31,14 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 16,
-        "remain_update_time": "2022-01-18T09:42:36.000Z",
-        "count": 3087,
+        "remain_update_time": "2022-01-24T20:46:24.000Z",
+        "count": 3733,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 17,
+        "course_style": 1,
+        "report_hw": 1,
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
@@ -49,6 +50,11 @@
             "id": 7328,
             "comment": "這堂課很涼，教授沒有在點名，上課內容會介紹不同樂器，會考期中期末，但都不難，考前會把ppt放在moodle，教授說只要期中期末都有考，基本上不會被當，上課可以做自己的事。",
             "semester": "109-1"
+        },
+        {
+            "id": 8501,
+            "comment": "上課很寬鬆，不點名，分成MOOC線上非同步和老師自己來上課兩部分。MOOC線上課的部分，會學到一些樂理的基礎知識。老師自己上課的部分，主要會介紹一些世界各地的樂器和帶到相關的歷史、文化。期末考前會給出相關的資料幫助複習。",
+            "semester": "108-2"
         },
         {
             "id": 5385,
@@ -356,6 +362,21 @@
             "cold": 9,
             "user_id": 7669,
             "post_id": 8203,
+            "course_name": "音樂文化導引",
+            "teacher": "楊金峯",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5714,
+            "got": 7,
+            "sweet": 6,
+            "cold": 10,
+            "user_id": 3464,
+            "post_id": 8501,
             "course_name": "音樂文化導引",
             "teacher": "楊金峯",
             "like": 0,

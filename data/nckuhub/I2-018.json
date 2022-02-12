@@ -1,8 +1,8 @@
 {
-    "got": "7.7",
-    "cold": "8.8",
-    "sweet": "8.0",
-    "rate_count": 6,
+    "got": 7.571428571428571,
+    "cold": 8.857142857142858,
+    "sweet": 7.857142857142857,
+    "rate_count": 7,
     "courseInfo": {
         "id": "1929",
         "系所名稱": "護理系 NURS",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 6,
-        "remain_update_time": "2022-01-18T20:12:46.000Z",
-        "count": 603,
+        "remain_update_time": "2022-01-21T05:35:36.000Z",
+        "count": 622,
         "admit": null,
-        "comment": 0,
+        "comment": 7,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8393,
+            "comment": "沒有考試或報告，每節課都點名，上課不會管你在幹嘛，認真聽可以學到關於健康的知識\n作業是健走和紀錄飲食，不會花很多時間但一定要做\n期初期末有小小的體能測驗，主要是看執行一個學期下來的身體變化，如果有認真做應該很有收穫而且會拿到不錯的分數\n期末用kahoot做測驗，內容主要是之前上課講過的\n個人覺得蠻輕鬆有趣的",
+            "semester": "110-1"
+        },
         {
             "id": 3884,
             "comment": "完全不用動腦的一堂課\n但是需要很大的恆心\n老師上課會教一些飲食健康 運動健康的部分\n甚至會請一位體育老師教跳有氧體操 非常棒\n\n(評分方式)\n紀錄飲食\n跑1600\n健康指數測量\n一些簡單的作業\n出席(堂堂點)\n\n基本上只要有恆心跟意志力\n這堂課很輕鬆 又可以學到些東西\n只要有去就有分數",
@@ -154,6 +160,21 @@
             "cold": 9,
             "user_id": 2325,
             "post_id": 4543,
+            "course_name": "健康促進與健康生活營造",
+            "teacher": "王琪珍*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5606,
+            "got": 7,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 7797,
+            "post_id": 8393,
             "course_name": "健康促進與健康生活營造",
             "teacher": "王琪珍*",
             "like": 0,

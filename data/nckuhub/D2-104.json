@@ -1,8 +1,8 @@
 {
-    "got": "3.0",
-    "cold": "8.0",
-    "sweet": "6.0",
-    "rate_count": 1,
+    "got": 5.5,
+    "cold": 7.5,
+    "sweet": 6.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "922",
         "系所名稱": "法律系 LAW",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-19T00:41:16.000Z",
-        "count": 120,
+        "remain_update_time": "2022-01-24T18:06:02.000Z",
+        "count": 126,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8524,
+            "comment": "本學期初因為疫情改為遠距上課，後來變為單雙班分流實體/線上上課，都會錄影。\n老師上課內容豐富，但是對於初學者來說可能需要先預習才能比較跟得上，建議好好預習+複習，記得老師上課講過的內容，期末考應該就會高分。",
+            "semester": "110-1"
+        },
         {
             "id": 7122,
             "comment": "上課用老師寫的書，據說重點會寫在黑板上，但老師的板書很亂所以我也沒在看，都直接看書。\n聽說以前很好過，但自從老師選市長失利後，就成為法律系最大的刀了，請學弟妹多加小心。\n甜度完全因人而異...總之一定要寫他在課本上的見解就對了。\n只考期末，五題申論，一學期大概點名兩三次，一次可以加10分",
@@ -59,6 +65,21 @@
             "cold": 8,
             "user_id": 1367,
             "post_id": 7122,
+            "course_name": "海商法",
+            "teacher": "許忠信",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5737,
+            "got": 8,
+            "sweet": 7,
+            "cold": 7,
+            "user_id": 4538,
+            "post_id": 8524,
             "course_name": "海商法",
             "teacher": "許忠信",
             "like": 0,

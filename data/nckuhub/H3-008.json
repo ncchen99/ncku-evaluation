@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 8,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1853,
+        "id": "1853",
         "系所名稱": "工資系 IIM",
         "系號": "H3",
         "選課序號": "H3008",
@@ -34,12 +34,35 @@
         "remain_update_time": "2022-01-21T00:17:40.000Z",
         "count": 105,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8386,
+            "comment": "上課會使用ppt上課，有時候會透過影片了解，期中和期末都要報告，3~5人一組，期中6分鐘，期末12分鐘\n沒有期中考，只有期末考\n基本上分數不會太低",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5599,
+            "got": 5,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 8066,
+            "post_id": 8386,
+            "course_name": "工業管理概論",
+            "teacher": "莊雅棠",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

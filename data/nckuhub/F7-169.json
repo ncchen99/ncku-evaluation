@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 6,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9066",
         "系所名稱": "資訊系 CSIE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "高宏宇",
-        "已選課人數": 29,
-        "餘額": 81,
+        "已選課人數": 106,
+        "餘額": 4,
         "時間": "[4]2~4 ",
         "教室": "資訊新館 65405",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T16:53:00.000Z",
-        "count": 7,
+        "remain_update_time": "2022-01-28T00:59:31.000Z",
+        "count": 95,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8665,
+            "comment": "作業*3，有期中考&期末專案\n作業是照著助教給的步驟，搭一些簡單模型，配分跟說明都很明確\n會需要做兩個期末專案，都是比人工智慧競賽。\n一個是AI CUP，一個老師會要你自己找\n專案會需要小組報告，分預報跟結報\n有取得好成績分數會比較高\n\n老師會安排額外的python課\n基本上就是新手一步步帶你實作\n作為入門蠻推的，老師上課很清楚，會提供前幾年的錄影(但品質有點糊...QQ)\n可以問助教問題，學到很多!",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5878,
+            "got": 9,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 8133,
+            "post_id": 8665,
+            "course_name": "資料分析與學習基石",
+            "teacher": "高宏宇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

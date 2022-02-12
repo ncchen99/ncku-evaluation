@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 7,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1524",
         "系所名稱": "系統系 SNME",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 1,
         "老師": "邵揮洲",
-        "已選課人數": 9,
-        "餘額": 31,
+        "已選課人數": 40,
+        "餘額": 0,
         "時間": "[5]7 ",
         "教室": "系統系館 56113",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T21:44:17.000Z",
-        "count": 45,
+        "remain_update_time": "2022-01-26T23:44:24.000Z",
+        "count": 86,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8626,
+            "comment": "上課幾乎用moodle，每個禮拜老師會放影片到moodle上，看完寫兩百字心得\n有一些課老師會要實體上課，就是聽演講。\n只有期末考，內容是自帶白紙，寫這學期的課給你甚麼啟發\n要寫滿一張紙(好像會給題目，但就是不用準備的那種)。\n\n上課內容就是關於船舶領域的各種知識科普，上完可以理解為何長榮年終有40個月\n沒有小組報告，完全可以當通識修\n影片都有準時交報告，期末文章文筆普通，82過(但90~100最多人QQ)",
+            "semester": "108-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5839,
+            "got": 8,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 8133,
+            "post_id": 8626,
+            "course_name": "船舶產業實務與展望",
+            "teacher": "邵揮洲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

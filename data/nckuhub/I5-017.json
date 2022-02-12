@@ -1,8 +1,8 @@
 {
-    "got": "7.0",
-    "cold": "4.0",
-    "sweet": "5.3",
-    "rate_count": 4,
+    "got": 6.666666666666667,
+    "cold": 4.333333333333333,
+    "sweet": 6,
+    "rate_count": 3,
     "courseInfo": {
         "id": "9195",
         "系所名稱": "醫學系 MED",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2022-01-18T19:00:32.000Z",
-        "count": 5,
+        "remain_update_time": "2022-01-24T05:42:34.000Z",
+        "count": 39,
         "admit": null,
-        "comment": 0,
+        "comment": 5,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8472,
+            "comment": "老師上課的ppt會放在臉書社團，分數有10%是在老師的post下面留言自己的看法，老師也會每條留言都很認真的回，期末線上考，題目有點多內容也不簡單，但用老師的ppt，認真寫也能寫完得到不錯分數，這次有調分。我期末81，留言都有留，報告也準時交，最後96，總之是聽兩堂課的全英文，同學有很多不同國家的，作業報告也都是英文，但個人蠻喜歡老師的美式幽默，上課內容我覺得也還蠻有趣，想順便練習英聽跟閱讀的可以考慮",
+            "semester": "110-1"
+        },
         {
             "id": 5675,
             "comment": "上課的PPT會放在老師創的臉書社團，不管是上課還是課後複習都要非常認真，甚至是多查資料，對於英文聽力能力不好的同學有點吃力，老師上課會講很多細節然後考試考出來。期中期末偏難、英文口頭報告一份，最後7X過。但是想要學關於人類學方面的醫療知識會非常有收獲！",
@@ -78,21 +84,6 @@
             "hard": 1
         },
         {
-            "id": 548,
-            "got": 7,
-            "sweet": 7,
-            "cold": 5,
-            "user_id": 1742,
-            "post_id": 3129,
-            "course_name": "醫療與文化",
-            "teacher": "石明人",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
             "id": 1249,
             "got": 8,
             "sweet": 6,
@@ -108,14 +99,14 @@
             "hard": 1
         },
         {
-            "id": 3046,
-            "got": 8,
-            "sweet": 4,
-            "cold": 4,
-            "user_id": 1803,
-            "post_id": 5675,
+            "id": 5685,
+            "got": 7,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 7937,
+            "post_id": 8472,
             "course_name": "醫療與文化",
-            "teacher": "石明人",
+            "teacher": "石明人*",
             "like": 0,
             "dislike": 0,
             "give": 1,

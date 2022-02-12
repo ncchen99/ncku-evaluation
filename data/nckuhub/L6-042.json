@@ -1,13 +1,13 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 8,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 2535,
-        "系所名稱": "生技所 BIOT",
-        "系號": "L6",
-        "選課序號": "L6042",
+        "id": "2535",
+        "系所名稱": "生科所 LS",
+        "系號": "L5",
+        "選課序號": "L5040",
         "課程碼": "T357300",
         "分班碼": "Y",
         "班別": "碩博",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-21T00:18:25.000Z",
-        "count": 6,
+        "remain_update_time": "2022-01-21T00:17:31.000Z",
+        "count": 4,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8568,
+            "comment": "上課有趣\n老師圖像化思考帶領我們學習\n座無虛席的課程十分有趣 \n絕對會讓你拿到還不錯的分數\n\n老師人好帥氣",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5781,
+            "got": 9,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 5345,
+            "post_id": 8568,
+            "course_name": "創業思維與啟航(一)-創業發展",
+            "teacher": "張權發*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

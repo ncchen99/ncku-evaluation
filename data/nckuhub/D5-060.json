@@ -1,8 +1,8 @@
 {
-    "got": "7.8",
-    "cold": "5.0",
-    "sweet": "6.0",
-    "rate_count": 5,
+    "got": 7.666666666666667,
+    "cold": 4.833333333333333,
+    "sweet": 6,
+    "rate_count": 6,
     "courseInfo": {
         "id": "972",
         "系所名稱": "經濟系 ECON",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 5,
-        "remain_update_time": "2022-01-18T09:38:21.000Z",
-        "count": 316,
+        "remain_update_time": "2022-01-24T21:05:37.000Z",
+        "count": 361,
         "admit": null,
-        "comment": 0,
+        "comment": 6,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8506,
+            "comment": "老師上課很有趣，有時候會講笑話，上課認真聽把講義裡面的練習題都寫過考試應該不難過，之前前幾屆都有作業可以練習今年不知道為什麼沒有，一學期考兩次期中一次期末，不調分的老師",
+            "semester": "109-1"
+        },
         {
             "id": 8122,
             "comment": "有許多講義 需要多寫題目才知道目前的主題要做什麼 有時候會在課堂上說哪幾個主題會考 多複習容易拿到分數 所以建議把教授說要多注意的題目多多複習",
@@ -134,6 +140,21 @@
             "cold": 6,
             "user_id": 6587,
             "post_id": 8122,
+            "course_name": "個體經濟學（一）",
+            "teacher": "胡政成",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5719,
+            "got": 7,
+            "sweet": 6,
+            "cold": 4,
+            "user_id": 8105,
+            "post_id": 8506,
             "course_name": "個體經濟學（一）",
             "teacher": "胡政成",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 8,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1134",
         "系所名稱": "電機系 EE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T10:32:14.000Z",
-        "count": 135,
+        "remain_update_time": "2022-01-25T03:31:07.000Z",
+        "count": 139,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8644,
+            "comment": "是個新老師，雖然他上課相性跟我不太合，但是可以感覺老師很想讓大家聽懂。\n\n另外值得一提的是這堂課的Lab，共占學期50%，相當紮實，尤其跟另一班比，助教也是我目前遇到數一數二好。\n\n我們這次採開書考，你可能會覺得很爽。對，真的爽，剛好能跟Lab有一個完美平衡。\n\n教授人真的很好，希望大家珍惜這堂好課，來這就是學東西的，如果想靠考古+Lab輕鬆過我推隔壁班。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5857,
+            "got": 9,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 5594,
+            "post_id": 8644,
+            "course_name": "計算機組織",
+            "teacher": "蔡家齊",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

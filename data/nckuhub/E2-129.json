@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 9,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1157,
+        "id": "1157",
         "系所名稱": "電機系 EE",
         "系號": "E2",
         "選課序號": "E2129",
@@ -34,12 +34,35 @@
         "remain_update_time": "2022-01-21T00:17:59.000Z",
         "count": 44,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8498,
+            "comment": "老師上課是用英文上課，口音有點怪怪的聽不太懂，但期中後是三班老師輪流上課，班級平均好像也會三班調成一樣的，我們班就這樣被調低了3.6分，有夠虧的",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5711,
+            "got": 9,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 7846,
+            "post_id": 8498,
+            "course_name": "電儀表學",
+            "teacher": "黃致憲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

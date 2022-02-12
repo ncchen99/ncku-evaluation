@@ -1,8 +1,8 @@
 {
-    "got": "3.5",
-    "cold": "9.3",
-    "sweet": "4.8",
-    "rate_count": 4,
+    "got": 3.8333333333333335,
+    "cold": 8.5,
+    "sweet": 4.666666666666667,
+    "rate_count": 6,
     "courseInfo": {
         "id": "271",
         "系所名稱": "軍訓室 MT",
@@ -30,16 +30,27 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 6,
-        "remain_update_time": "2022-01-18T17:10:32.000Z",
-        "count": 748,
+        "comment_num": 7,
+        "remain_update_time": "2022-01-26T16:57:09.000Z",
+        "count": 831,
         "admit": null,
-        "comment": 0,
+        "comment": 8,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8609,
+            "comment": "可能今年疫情吧,教官第一次用線上上課,前幾堂課老實說問題很多,很多是設備的問題,但後來教官有說他後來為此去買一台平板,就好多了!分數的話這堂課很好過,一開始從40分開始累加,每堂課有小考,通常拿到60分就可以不用上課了",
+            "semester": "110-1"
+        },
+        {
+            "id": 8389,
+            "comment": "整學期線上上課，幾乎都會提早下課，基本分40分，每次下課前回答問題，答對1題1分，會考期中期末，每次20題，也是1題1分，要認真上課，否則會寫不出來",
+            "semester": "110-1"
+        },
         {
             "id": 3870,
             "comment": "課程從５０分開始往上加，到課一次就能夠加１分，如果想要拿到更高的分數，或是不想去上課，也可以透過交作業的方式拿分，作業一題一分，會公布在網路上，寫作業比較薛。",
@@ -126,6 +137,36 @@
             "post_id": 4948,
             "course_name": "全民國防教育軍事訓練－國防科技",
             "teacher": "陳鈞宜 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5602,
+            "got": 2,
+            "sweet": 1,
+            "cold": 8,
+            "user_id": 8066,
+            "post_id": 8389,
+            "course_name": "全民國防教育軍事訓練－國防科技",
+            "teacher": "陳鈞宜",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5822,
+            "got": 7,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 7848,
+            "post_id": 8609,
+            "course_name": "全民國防教育軍事訓練－國防科技",
+            "teacher": "陳鈞宜",
             "like": 0,
             "dislike": 0,
             "give": 1,

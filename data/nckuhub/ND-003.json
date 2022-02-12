@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 5,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "3058",
         "系所名稱": "多媒博士學程 ",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T02:10:08.000Z",
-        "count": 9,
+        "remain_update_time": "2022-01-26T23:54:57.000Z",
+        "count": 19,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8639,
+            "comment": "老師上課用自己的簡報，寫得蠻清楚的\n上課講解也很清晰，但需要跟著作筆記才能吸收內容和應付考試\n之前因為疫情有提供錄影可以複習，原本應該是沒有錄影的。\n有大概三次紙本作業，期中期末考\n老師上課不會上滿18周\n期末需要自己寫一個小資料庫，\n然後會有論文報告2~3人一組(論文老師選)\n\n內大致簡述資料庫構成 SQL 還有建立一個資料庫該有的概念\n好好聽可以學很多，推\n考試的話，有讀筆記作業有自己寫筆記有抄就有分\n自己普通認真準備，作業平均拿2/3分數，最後87過(80~90最多人，沒人被當)",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5852,
+            "got": 9,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 8133,
+            "post_id": 8639,
+            "course_name": "資料庫管理系統",
+            "teacher": "李強",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

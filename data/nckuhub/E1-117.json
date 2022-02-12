@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1071",
         "系所名稱": "機械系 ME",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-20T19:45:10.000Z",
-        "count": 39,
+        "remain_update_time": "2022-01-21T20:15:36.000Z",
+        "count": 43,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8406,
+            "comment": "上課方式：老師有配合課本的筆記，上課步調不會很快。有問題也可以直接問，老師很有耐心重講一次。\n作業：平時勾課本題目（自行練習不用交）\n\n考試方式：4次小考（10+8+8+8%）＋期中25%＋期末25%\n考試內容：都是上課內容＋課本題目及概念（有好好上課、做題目、看課本可以拿高分）\n\nMatlab：10%\n助教會教Matlab，隨堂考考前一次上課的內容。\n\n雙輪車：6%\n每組都有一箱樂高EV3，分兩次測驗，測驗項目會提前公布。跟助教約時間測驗。\n\n------------------------------\n整體來講很好過，有努力有分。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5619,
+            "got": 7,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 5179,
+            "post_id": 8406,
+            "course_name": "自動控制",
+            "teacher": "楊世宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

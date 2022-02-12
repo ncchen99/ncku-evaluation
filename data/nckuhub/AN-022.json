@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 526,
+        "id": "526",
         "系所名稱": "不分系學程 CCEP",
         "系號": "AN",
         "選課序號": "AN022",
@@ -34,12 +34,35 @@
         "remain_update_time": "2022-01-21T00:17:26.000Z",
         "count": 154,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8411,
+            "comment": "超喜歡彭怡千老師！！！課程內容很輕鬆有趣，每周會帶大家做一些運動，熱身的小遊戲很好玩也可以認識一些朋友。\n前面線上上課的時候是要看老師船的影片跟著運動然後上傳，和交一些書面作業(蠻簡單的內容也不多)，實體上課會介紹一些和訓練相關的科技產品，接近期末會給大家一張表格然後讓大家運動紀錄，整體非常喜歡！沒什麼壓力也很愉快",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5624,
+            "got": 10,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 5399,
+            "post_id": 8411,
+            "course_name": "肌力與體能訓練之科技應用與實務",
+            "teacher": "彭怡千*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "5.0",
-    "sweet": "5.0",
-    "rate_count": 1,
+    "got": 8,
+    "cold": 6.5,
+    "sweet": 7,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1784",
         "系所名稱": "醫工系 BME",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-01-18T11:39:45.000Z",
-        "count": 131,
+        "remain_update_time": "2022-01-21T23:04:08.000Z",
+        "count": 135,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8619,
+            "comment": "老師非常有料，會用很多本教科書一起上，補充很多醫學訊號的知識，用MATLAB實作跟出作業。期中考期末考出題非常活躍，但只要平常有唸書並不會很難寫，高機率會開書考或帶一頁A4。我個人非常喜歡這種考試。但有一個缺點是老師上課常常跳來跳去，聽課沒辦法很有效率的吸收，但如果有自己複習會覺得收穫很多。",
+            "semester": "110-1"
+        },
         {
             "id": 6499,
             "comment": "老師人很好，只是上課常常會中英夾雜然後夾帶著很可愛的手勢，所以常常會聽不懂，得很認真的上課。\n功課部分，會有Matlab跟手寫的部分，其實作業蠻難的要自己學Matlab然後找答案。\n考試的部分，可以開書考，可是這也代表有些不會出現在課本，可能是尚可有講的重點。",
@@ -54,6 +60,21 @@
             "cold": 5,
             "user_id": 1841,
             "post_id": 6499,
+            "course_name": "訊號與系統",
+            "teacher": "陳家進",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5832,
+            "got": 10,
+            "sweet": 9,
+            "cold": 8,
+            "user_id": 3433,
+            "post_id": 8619,
             "course_name": "訊號與系統",
             "teacher": "陳家進",
             "like": 0,

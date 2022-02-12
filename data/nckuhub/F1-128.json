@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 8,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1533",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-20T07:19:19.000Z",
-        "count": 25,
+        "remain_update_time": "2022-01-26T06:28:41.000Z",
+        "count": 29,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8595,
+            "comment": "考試都考平常上課筆記 建議將筆記寫在課本上\n考試開書考 如果你平常上課有聽 應該沒什麼問題\n\n兩次作業\n兩次段考\n一次畫lines 上網找offsets\n另一次畫船舶靜水性能曲線\n老師上課會說明每個數據的來由\n\n應該沒什麼大問題\n\n分數普通 不過可以學到蠻多造船入門基礎\n",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5808,
+            "got": 7,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 5472,
+            "post_id": 8595,
+            "course_name": "船舶靜力學",
+            "teacher": "林忠宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

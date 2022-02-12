@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "8.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": 7,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1698",
         "系所名稱": "測量系 GM",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-01-18T23:26:53.000Z",
-        "count": 41,
+        "remain_update_time": "2022-01-23T21:50:44.000Z",
+        "count": 51,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8459,
+            "comment": "上課涼，老師會點名當作認識同學的方式(不會算分數)。前兩個小時用PPT講解對空間資料作統計分析，最後一小時會請助教操作arcmap/arcgis/R產出前兩個小時課程的成果，建議至少要有操作過arcmap的經驗。期中期末皆為上機考，用助教在最後一小時上課的操作產出題目要的成果，會有一兩題P考PPT上的內容。可以跟老師要資料來作期末報告。",
+            "semester": "110-1"
+        },
         {
             "id": 7410,
             "comment": "上課特別涼\n但建議外系先有一定的gis基礎再來修\n可以先去修地圖學或gis基礎\n期末有小組報告\n期中期末上機考\n老師人蠻好的但是是臉盲\n上課會點同學回答問題（特定記得的幾個，或者以特殊穿著或髮色）",
@@ -54,6 +60,21 @@
             "cold": 8,
             "user_id": 6404,
             "post_id": 7410,
+            "course_name": "地理資訊空間分析與應用",
+            "teacher": "郭佩棻",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5672,
+            "got": 8,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 4954,
+            "post_id": 8459,
             "course_name": "地理資訊空間分析與應用",
             "teacher": "郭佩棻",
             "like": 0,

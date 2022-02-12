@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "4.0",
+    "cold": "9.0",
+    "sweet": "5.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "8213",
         "系所名稱": "文學院學士班 CLA",
@@ -30,23 +30,32 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-18T22:30:46.000Z",
-        "count": 26,
+        "comment_num": 1,
+        "remain_update_time": "2022-02-09T04:53:47.000Z",
+        "count": 46,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
-    "comment": [
+    "comment": [],
+    "rates": [
         {
-            "id": 8334,
-            "comment": "五天的課程，每天大概有3個不同領域的老師演講，下午分配到的導師會協助學生做特定人物寫作（自己選），最後一天要做ppt發表，因為疫情線上上課，所以幾乎整天的演講看自己興趣選擇要不要聽，人物寫作的部分自己從校友裡面選，本來是希望可以用採訪的模式，但一個禮拜的時間太短，所以多數還是從網路上找資料再整理，沒記錯的話2000字以上。整體下來沒有收穫太多寫作或資料統整上面的新知，來演講的老師大多都在說自己的成果或成大的事，而導師輔導的部分非常關心同學進度，但也不多資料整理的內容，上下來感覺跟宣傳的有出入，老師之間有點訊息不同步的感覺。說課堂發言可以加分，我只發言不超過5次、文章發表時老師也說寫得不錯，最後也有補上說不足的地方，最後7開頭..",
-            "semester": "110-1"
+            "id": 5547,
+            "got": 4,
+            "sweet": 5,
+            "cold": 9,
+            "user_id": 6458,
+            "post_id": 8334,
+            "course_name": "產學人才貢獻寫作營隊",
+            "teacher": "陳文松*,陳玉女,邱文泰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
         }
     ],
-    "rates": [],
     "courserate_id": 0
 }

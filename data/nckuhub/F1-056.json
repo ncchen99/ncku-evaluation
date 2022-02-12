@@ -1,8 +1,8 @@
 {
-    "got": "7.0",
-    "cold": "4.0",
-    "sweet": "5.0",
-    "rate_count": 1,
+    "got": 8,
+    "cold": 4.5,
+    "sweet": 5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1526",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-19T10:30:35.000Z",
-        "count": 91,
+        "remain_update_time": "2022-01-25T19:31:01.000Z",
+        "count": 98,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 3,
+        "course_style": 1,
+        "report_hw": 1,
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 8570,
+            "comment": "上課形式: 板書，教材用老師的自編講義，多看會漸漸習慣講義的字，老師上課認真\n上課要求: 不要求出席，自動自發\n評分方式: 考期中、期末決定總成績，助教改考卷大方，老師會視情況調分\n",
+            "semester": "110-1"
+        },
         {
             "id": 7002,
             "comment": "老師上課認真，同學有問題也會盡力幫忙\n\n不過教的東西本身就不是很容易懂，只能各憑本事\n\n有人能拿90以上，也不少人被當\n\n分數主要是期中期末，最後應該都會調分\n",
@@ -64,6 +72,21 @@
             "cold": 4,
             "user_id": 259,
             "post_id": 7002,
+            "course_name": "熱力學（一）",
+            "teacher": "張始偉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5783,
+            "got": 9,
+            "sweet": 5,
+            "cold": 5,
+            "user_id": 5713,
+            "post_id": 8570,
             "course_name": "熱力學（一）",
             "teacher": "張始偉",
             "like": 0,

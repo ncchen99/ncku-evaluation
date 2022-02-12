@@ -1,17 +1,17 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 6,
+    "cold": 3,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "835",
-        "系所名稱": "生科系 LS",
-        "系號": "C5",
-        "選課序號": "C5018",
+        "系所名稱": "化學系 CHEM",
+        "系號": "C3",
+        "選課序號": "C3064",
         "課程碼": "C320600",
         "分班碼": "",
         "班別": "",
-        "年級": "1",
+        "年級": "2",
         "類別": "講義",
         "組別": null,
         "英語授課": "N",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "邱顯泰",
-        "已選課人數": 21,
-        "餘額": 67,
+        "已選課人數": 46,
+        "餘額": 42,
         "時間": "[3]6~8 ",
         "教室": "理學教學大樓 36202",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T22:25:26.000Z",
-        "count": 56,
+        "remain_update_time": "2022-01-25T21:07:59.000Z",
+        "count": 184,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8575,
+            "comment": "會蠻常需要點名的\n但老師上課生動活潑\n考試只要有讀分數不會太差\n可以感覺的出老師的認真與用心\n個人覺得蠻推的",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5788,
+            "got": 6,
+            "sweet": 8,
+            "cold": 3,
+            "user_id": 7670,
+            "post_id": 8575,
+            "course_name": "化學生物學",
+            "teacher": "邱顯泰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

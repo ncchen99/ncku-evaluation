@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 6,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "814",
         "系所名稱": "地科系 EARS",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "游鎮烽",
-        "已選課人數": 11,
-        "餘額": 39,
+        "已選課人數": 31,
+        "餘額": 19,
         "時間": "[3]3~4 [5]2 ",
         "教室": "地科系館 3035",
         "備註": "與地科系合開",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T08:39:43.000Z",
-        "count": 118,
+        "remain_update_time": "2022-01-27T17:28:22.000Z",
+        "count": 169,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8651,
+            "comment": "每次上課都會點名，這些點名都算分，而且必須盡量要準時到教室(因為有小考，但小考的題目都不難)。有期中跟期末考，期中只要有認真念書考題都不難，但是為英文出題，期末有小組報告，需要選一個地球化學相關議題報告，盡可能挑選範圍小且精細的，期末考會在每組報告的內容抽一題出來考試，整理來說用心準備分數都不會太差。",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5864,
+            "got": 9,
+            "sweet": 9,
+            "cold": 6,
+            "user_id": 6622,
+            "post_id": 8651,
+            "course_name": "地球化學",
+            "teacher": "游鎮烽",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

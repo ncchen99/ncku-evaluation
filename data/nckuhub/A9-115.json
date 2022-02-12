@@ -1,8 +1,8 @@
 {
-    "got": "5.2",
-    "cold": "7.2",
-    "sweet": "4.2",
-    "rate_count": 5,
+    "got": 5.333333333333333,
+    "cold": 7.5,
+    "sweet": 4.5,
+    "rate_count": 6,
     "courseInfo": {
         "id": "389",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 6,
-        "remain_update_time": "2022-01-18T10:27:29.000Z",
-        "count": 1963,
+        "remain_update_time": "2022-01-25T05:59:43.000Z",
+        "count": 2020,
         "admit": null,
-        "comment": 0,
+        "comment": 7,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8543,
+            "comment": "一開始老師會給課程安排\n有四次需要觀看影片交心得（至少500字）\n課堂最後會有發言時間\n整學期只要發言超過兩次就不用考期末考\n上課不會點名\n我常睡過頭（老師對不起qq）\n基本上只有需要觀看影片的課才出現\n影片包含各種議題\n心得不用寫的多高深\n老師想看到的是同學的看法（吧？\n我發言次數大概四次\n學期成績81 免強還行拉\n",
+            "semester": "110-1"
+        },
         {
             "id": 5386,
             "comment": "第一次上課會公布整學期進度表，每週換一個議題，每次上課下課前會討論問題，如果整學期起碼有答出一題就不用考期末考，一定會有四堂課看電影，看完當天要交500字心得，只有最後一堂課要點名，我一次舉手回答，四次心得全交，最後72",
@@ -139,6 +145,21 @@
             "cold": 8,
             "user_id": 3360,
             "post_id": 5530,
+            "course_name": "社會學概論",
+            "teacher": "李承機",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5756,
+            "got": 6,
+            "sweet": 6,
+            "cold": 9,
+            "user_id": 8111,
+            "post_id": 8543,
             "course_name": "社會學概論",
             "teacher": "李承機",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "5.2",
-    "cold": "9.2",
-    "sweet": "7.9",
-    "rate_count": 31,
+    "got": 5.21875,
+    "cold": 9.1875,
+    "sweet": 7.96875,
+    "rate_count": 32,
     "courseInfo": {
         "id": "434",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "張凌昇",
-        "已選課人數": 0,
-        "餘額": 90,
+        "已選課人數": 90,
+        "餘額": 0,
         "時間": "[2]7~8 ",
         "教室": "電機系館 靄雲廳",
         "備註": "",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 37,
-        "remain_update_time": "2022-01-18T09:33:36.000Z",
-        "count": 2794,
+        "remain_update_time": "2022-01-24T04:01:13.000Z",
+        "count": 3281,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 38,
+        "course_style": 3,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 3,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -54,6 +57,11 @@
             "id": 8167,
             "comment": "教授實體上課的時候，一直講當兵的故事，讓人聽不下去。不過後來改成遠距後，廢話突然變少了，發現其實課講得不錯。\n\n評分方式:期中考+期末考\n期中期末考的內容都是上課ppt和影片，期中考就是高中化學的氧化還原，期末考就是一些環保議題，然後教授是素食主義者。",
             "semester": "109-2"
+        },
+        {
+            "id": 8468,
+            "comment": "上課老師會講他自己準備的ppt，有某幾天會請講師來演講，必須寫心得，分數就從心得和期中期末考打，期中期末只要看老師的ppt或是考古基本上分數90起跳",
+            "semester": "109-1"
         },
         {
             "id": 7452,
@@ -696,6 +704,21 @@
             "cold": 9,
             "user_id": 4457,
             "post_id": 8167,
+            "course_name": "應用電學",
+            "teacher": "張凌昇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5681,
+            "got": 5,
+            "sweet": 9,
+            "cold": 10,
+            "user_id": 8099,
+            "post_id": 8468,
             "course_name": "應用電學",
             "teacher": "張凌昇",
             "like": 0,

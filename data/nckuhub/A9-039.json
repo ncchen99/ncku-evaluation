@@ -1,8 +1,8 @@
 {
-    "got": "7.9",
-    "cold": "8.9",
-    "sweet": "9.7",
-    "rate_count": 7,
+    "got": 0,
+    "cold": 0,
+    "sweet": 0,
+    "rate_count": 0,
     "courseInfo": {
         "id": "356",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "楊佳翰*,劉南芳,陳明惠",
-        "已選課人數": 0,
-        "餘額": 170,
+        "已選課人數": 170,
+        "餘額": 0,
         "時間": "[3]7~8 ",
         "教室": "生科院大樓南側 893S1",
         "備註": "104學年度(含)以前入學生為「哲學與藝術」",
@@ -31,15 +31,26 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 8,
-        "remain_update_time": "2022-01-18T09:31:07.000Z",
-        "count": 3768,
+        "remain_update_time": "2022-02-09T23:50:56.000Z",
+        "count": 4678,
         "admit": null,
-        "comment": 0,
+        "comment": 10,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8481,
+            "comment": "每次上課都會請到不同領域的大師來演講\n認真聽可以學到很多東西\n非常推薦給喜歡參加藝文活動&想要了解藝術的人\n老師們都很用心準備課程，上課內容很豐富\n可以深入認識、了解藝術，並得到許多藝文活動資訊\n\n\n",
+            "semester": "110-1"
+        },
+        {
+            "id": 8675,
+            "comment": "分數極甜，只要該完成的東西有完成幾乎是快滿分，每次上課一百字左右的心得，期中期末各交兩篇八百字的報告，平常去看展、看表演、聽講座抵藝術參與，還有期末的回饋。講座的領域很廣，碰到有興趣的主題會聽的蠻開心的，有些講師也真的蠻不錯。",
+            "semester": "110-1"
+        },
         {
             "id": 8005,
             "comment": "課程的作業主要有四份不同主題限定800字以上的心得報告以及每次課程後的心得繳交單（50-100字之間）。\n期中期末沒有考試。而且課堂上可以透過舉手詢問講者來加分之餘，也有藝術參與的加分部分（去外面參觀相關藝術展覽、演唱、講座等等寫回饋單繳交）。最多加20分。\n總之一句話---甜到爆 100過～",
@@ -81,112 +92,6 @@
             "semester": "108-1"
         }
     ],
-    "rates": [
-        {
-            "id": 4149,
-            "got": 8,
-            "sweet": 9,
-            "cold": 10,
-            "user_id": 3822,
-            "post_id": 6778,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4215,
-            "got": 7,
-            "sweet": 10,
-            "cold": 10,
-            "user_id": 2862,
-            "post_id": 6844,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4833,
-            "got": 6,
-            "sweet": 10,
-            "cold": 10,
-            "user_id": 1615,
-            "post_id": 7583,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*,劉南芳,陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4969,
-            "got": 8,
-            "sweet": 9,
-            "cold": 4,
-            "user_id": 3552,
-            "post_id": 7719,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*,劉南芳,陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5117,
-            "got": 7,
-            "sweet": 10,
-            "cold": 9,
-            "user_id": 6800,
-            "post_id": 7867,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*,劉南芳,陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5118,
-            "got": 10,
-            "sweet": 10,
-            "cold": 10,
-            "user_id": 6106,
-            "post_id": 7868,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*,劉南芳,陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5218,
-            "got": 9,
-            "sweet": 10,
-            "cold": 9,
-            "user_id": 5698,
-            "post_id": 8005,
-            "course_name": "藝術叩門",
-            "teacher": "楊佳翰*,劉南芳,陳明惠",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "rates": [],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 6,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1695",
         "系所名稱": "測量系 GM",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T07:08:13.000Z",
-        "count": 34,
+        "remain_update_time": "2022-01-23T21:34:51.000Z",
+        "count": 43,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8458,
+            "comment": "老師上課內容講解很清楚，講課不會讓你想睡覺(而且讓人感覺他是個紳士)。雖然上課有不少公式，但是會提供已經寫好的matlab程式讓大家了解如何利用定位公式來求解所在座標和座標精度。學期會有4次作業，內容就是前面提到的程式略作修改與定位成果分析，考試有期中期末，很多題目考古有出現。這學期因為疫情所以原定的期末報告取消。期末分數分布有一半的人80分以上。",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5671,
+            "got": 10,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 4954,
+            "post_id": 8458,
+            "course_name": "衛星定位",
+            "teacher": "楊名",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

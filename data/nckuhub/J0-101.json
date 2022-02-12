@@ -1,8 +1,8 @@
 {
-    "got": "9.0",
-    "cold": "8.5",
-    "sweet": "9.5",
-    "rate_count": 2,
+    "got": 9.333333333333334,
+    "cold": 7.666666666666667,
+    "sweet": 9,
+    "rate_count": 3,
     "courseInfo": {
         "id": "2276",
         "系所名稱": "敏求學院學士班 SOC",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-18T17:20:28.000Z",
-        "count": 273,
+        "remain_update_time": "2022-01-22T08:28:34.000Z",
+        "count": 279,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8448,
+            "comment": "這學期基本上都是線上上課（有興趣到現場的同學可以跟老師一起在鏡頭中討論）\n老師很有氣質而且帶起上課內容也有一定深度\n如果是樂於在課堂中發表意見這堂課非常適合\n沒有考試和報告\n大約每兩週就有一份作業（多為閱讀文本並針對議題寫下見解）\n很推薦的一門課！",
+            "semester": "110-1"
+        },
         {
             "id": 8259,
             "comment": "老師人很好，會配合時事解說法律議題，認真學可以學到很多東西，上課會問問題，但也不會給同學太大壓力，作業份量適中，有認真寫分數不會低",
@@ -76,6 +82,21 @@
             "post_id": 8259,
             "course_name": "人工智慧法律與政策",
             "teacher": "李韶曼*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5661,
+            "got": 10,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 4437,
+            "post_id": 8448,
+            "course_name": "人工智慧法律與政策",
+            "teacher": "李韶曼",
             "like": 0,
             "dislike": 0,
             "give": 1,

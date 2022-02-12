@@ -1,8 +1,8 @@
 {
-    "got": "7.0",
-    "cold": "6.0",
-    "sweet": "5.7",
-    "rate_count": 3,
+    "got": 7.5,
+    "cold": 6,
+    "sweet": 6.5,
+    "rate_count": 4,
     "courseInfo": {
         "id": "561",
         "系所名稱": "中文系 CL",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-01-18T19:59:16.000Z",
-        "count": 689,
+        "remain_update_time": "2022-01-21T05:10:09.000Z",
+        "count": 721,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8387,
+            "comment": "老師上課會補充一些日本近期的新聞（大部分跟棒球有關），課本是用日本語gogogo，但進度偏慢。\n期中期末考就考課本內容，基本上背熟就沒問題，滿分都超過100，所以可以錯一些地方。\n有一個期中報告，跟日本文化有關，是小組互評，所以盡量選同儕間比較有興趣的題目比較吃香。\n評分方式：小考10％ 期中、期末、報告30％\n",
+            "semester": "110-1"
+        },
         {
             "id": 6798,
             "comment": "老師是東大學佛回來的尼姑\n滿關心學生的 對禮貌、守時之類的也很要求\n教材是日本語gogogo 要自己去買\n有期中考期末考和期中分組報告\n考試的內容是課本 認真背熟就會高分\n報告主題自己選 只要和日本有關就好\n會採用分組互評的方式\n我們還有小考平假片假 但不知道有沒有算分\n偶爾點名但很少 但沒到的話老師似乎滿介意的\n最後91過 覺得還可以 只是有時候老師脾氣滿怪的XD\n",
@@ -94,6 +100,21 @@
             "cold": 6,
             "user_id": 4992,
             "post_id": 6798,
+            "course_name": "日文（一）",
+            "teacher": "王翠玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5600,
+            "got": 9,
+            "sweet": 9,
+            "cold": 6,
+            "user_id": 6126,
+            "post_id": 8387,
             "course_name": "日文（一）",
             "teacher": "王翠玲",
             "like": 0,

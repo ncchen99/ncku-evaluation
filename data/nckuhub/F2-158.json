@@ -1,13 +1,13 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8982",
-        "系所名稱": "都計系 UP",
-        "系號": "F2",
-        "選課序號": "F2158",
+        "系所名稱": "地科系 EARS",
+        "系號": "C4",
+        "選課序號": "C4162",
         "課程碼": "C447200",
         "分班碼": "",
         "班別": "",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "林冠瑋",
-        "已選課人數": 18,
-        "餘額": 32,
+        "已選課人數": 50,
+        "餘額": 0,
         "時間": "[1]7~9 ",
         "教室": "地科系館 3017",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T11:15:35.000Z",
-        "count": 10,
+        "remain_update_time": "2022-01-27T17:32:48.000Z",
+        "count": 66,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8652,
+            "comment": "該學期沒有期中跟期末，但每次都有回家作業，有時會採用看影片填表單回答問題，只要專心聽講便可以收穫非常多，可以詳細的了解到一些地質災害、礦物資源、水文地質等等豐富的內容，有一次期末報告，需要看PAPER的題目做PPT錄影片來進行解說，教授上課非常認真且用心，是非常推薦的一堂課程。",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5865,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 6622,
+            "post_id": 8652,
+            "course_name": "環境地質學",
+            "teacher": "林冠瑋",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

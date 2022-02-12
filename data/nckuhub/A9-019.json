@@ -1,8 +1,8 @@
 {
-    "got": "7.9",
-    "cold": "8.8",
-    "sweet": "8.3",
-    "rate_count": 8,
+    "got": 7.888888888888889,
+    "cold": 8.777777777777779,
+    "sweet": 8.222222222222221,
+    "rate_count": 9,
     "courseInfo": {
         "id": "337",
         "系所名稱": "通識中心 GE",
@@ -31,18 +31,24 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 8,
-        "remain_update_time": "2022-01-18T10:24:52.000Z",
-        "count": 1954,
+        "remain_update_time": "2022-01-25T17:32:12.000Z",
+        "count": 2032,
         "admit": null,
-        "comment": 0,
+        "comment": 9,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
             "id": 8208,
             "comment": "陳欣白我的愛❤️\n\n上課以ppt為主，評分完全依照課程大綱所載\n反正就是你做多少就得多少分\n但老師很看重你的思考過程\n比如說我的A9哲概整理我的哲學思想，89過\n\n分數不會讓你爽爽90up\n但是很難低於80\n然後詮釋學很難，沒有哲學底去上很有可能死去\n（應該也不會死去啦頂多聽不懂）\n\n老師超優的\n她在德國杜賓根大學跟近代康德學者Höffe，學習康德哲學近12年\n而且是位阿珠媽",
+            "semester": "109-2"
+        },
+        {
+            "id": 8559,
+            "comment": "算是個不錯的涼課，老師說你能翹課但別太常因爲他自己年輕也愛翹課，作業就報告一份但不能遲交，老師上課氣氛很歡樂，整體內容也蠻發人深省",
             "semester": "109-2"
         },
         {
@@ -194,6 +200,21 @@
             "cold": 7,
             "user_id": 5430,
             "post_id": 8208,
+            "course_name": "哲學概論",
+            "teacher": "陳欣白",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5772,
+            "got": 8,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 8115,
+            "post_id": 8559,
             "course_name": "哲學概論",
             "teacher": "陳欣白",
             "like": 0,

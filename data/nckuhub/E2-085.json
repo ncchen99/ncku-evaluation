@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "9.7",
-    "sweet": "9.0",
-    "rate_count": 3,
+    "got": 8.5,
+    "cold": 8.166666666666666,
+    "sweet": 9,
+    "rate_count": 6,
     "courseInfo": {
         "id": "1131",
         "系所名稱": "電機系 EE",
@@ -31,15 +31,31 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2022-01-19T06:21:47.000Z",
-        "count": 479,
+        "remain_update_time": "2022-01-27T09:42:23.000Z",
+        "count": 529,
         "admit": null,
-        "comment": 0,
+        "comment": 7,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8502,
+            "comment": "<上課方式> 這學期是全線上非同步上課，老師會預錄教學影片，上課仔細也會關心學生的學習狀況做進度與難度的調整。\n<點名方式> 完全不點名。\n<評分方式> 整學期考了五次段考，取四次高分的平均作為學期成績，考試難度不會太難，有認真上課，功課自己練習一下就能夠考高分了。",
+            "semester": "110-1"
+        },
+        {
+            "id": 8663,
+            "comment": "老師人很好，雖然這學期變成五次考試，但因為每次考試範圍變小，所以準備起來相對輕鬆，只是每隔兩周就要考一次試，學期成績為所有考試取四次較高再平均，不會造成太大負擔的選修課。",
+            "semester": "110-1"
+        },
+        {
+            "id": 8433,
+            "comment": "這學期因為疫情關係，教授以預錄影片方式上課。\n教授上課幽默風趣，且觀念講解非常清楚。\n這學期變成4次期中與1次期末，成績則5選4（取4次平均）。",
+            "semester": "110-1"
+        },
         {
             "id": 8086,
             "comment": "上課輕鬆、考試輕鬆、報告(和數學有關主題，我報告21點)也輕鬆。四次作業，會出現在段考題。不常點名，有時會上課洩段考題。",
@@ -99,6 +115,51 @@
             "cold": 9,
             "user_id": 5615,
             "post_id": 8086,
+            "course_name": "離散數學",
+            "teacher": "解巽評",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5646,
+            "got": 10,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 7877,
+            "post_id": 8433,
+            "course_name": "離散數學",
+            "teacher": "解巽評",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5715,
+            "got": 10,
+            "sweet": 10,
+            "cold": 6,
+            "user_id": 5247,
+            "post_id": 8502,
+            "course_name": "離散數學",
+            "teacher": "解巽評",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5876,
+            "got": 7,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 4700,
+            "post_id": 8663,
             "course_name": "離散數學",
             "teacher": "解巽評",
             "like": 0,

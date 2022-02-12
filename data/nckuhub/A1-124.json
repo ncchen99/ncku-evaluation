@@ -1,8 +1,8 @@
 {
-    "got": "8.1",
-    "cold": "7.2",
-    "sweet": "8.7",
-    "rate_count": 9,
+    "got": 7.9,
+    "cold": 6.9,
+    "sweet": 8.7,
+    "rate_count": 10,
     "courseInfo": {
         "id": "24",
         "系所名稱": "外語中心 FLC",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "辛佳玲",
-        "已選課人數": 0,
-        "餘額": 39,
+        "已選課人數": 39,
+        "餘額": 0,
         "時間": "[3]3~4 ",
         "教室": "修齊大樓 26103",
         "備註": "模組一",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 10,
-        "remain_update_time": "2022-01-18T09:47:58.000Z",
-        "count": 507,
+        "remain_update_time": "2022-01-25T21:12:36.000Z",
+        "count": 713,
         "admit": null,
-        "comment": 0,
+        "comment": 11,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8577,
+            "comment": "老師人超好\n和藹可親也很給問問題\n期中期末滿分都超過110\n小考直接給題庫只要有讀隨便都很高分\n十分推薦的一門英文課",
+            "semester": "110-1"
+        },
         {
             "id": 7642,
             "comment": "老師人很好，作業偏多，英文基礎不好，上起來很吃力。\n我有私底下找過老師聊聊，老師很樂意跟學生談，有寫作文老師也很樂意幫學生批改，是很棒的好老師。\n課程氣氛很活潑，老師也很認真備課，推推。",
@@ -219,6 +225,21 @@
             "cold": 5,
             "user_id": 5327,
             "post_id": 7642,
+            "course_name": "基礎學術英文",
+            "teacher": "辛佳玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5790,
+            "got": 6,
+            "sweet": 9,
+            "cold": 4,
+            "user_id": 7670,
+            "post_id": 8577,
             "course_name": "基礎學術英文",
             "teacher": "辛佳玲",
             "like": 0,

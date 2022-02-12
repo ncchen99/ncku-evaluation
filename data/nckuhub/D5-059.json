@@ -1,8 +1,8 @@
 {
-    "got": "9.0",
-    "cold": "3.3",
-    "sweet": "5.0",
-    "rate_count": 3,
+    "got": 8.75,
+    "cold": 4.5,
+    "sweet": 4.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "971",
         "系所名稱": "經濟系 ECON",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-01-18T11:18:27.000Z",
-        "count": 245,
+        "remain_update_time": "2022-01-24T21:03:04.000Z",
+        "count": 264,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8505,
+            "comment": "老師上課很悶，會要求學生一定要到，每個章節都會有回家作業，期中期末選擇非選都有，偏難，下課可以去前面問老師問題，老師會很努力想要把每個學生都記住，上課的時候也會抽點學生回答問題",
+            "semester": "109-1"
+        },
         {
             "id": 6761,
             "comment": "整學期固定座位\n基本上第一堂課坐在哪就是哪了\n每次上課必點名\n期中考和期末考一次\n還有每章節有回家作業\n考試比重占很大\n上課很充實但很不涼和不甜",
@@ -94,6 +100,21 @@
             "cold": 6,
             "user_id": 6241,
             "post_id": 7287,
+            "course_name": "總體經濟學（一）",
+            "teacher": "許永河",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5718,
+            "got": 8,
+            "sweet": 2,
+            "cold": 8,
+            "user_id": 8105,
+            "post_id": 8505,
             "course_name": "總體經濟學（一）",
             "teacher": "許永河",
             "like": 0,

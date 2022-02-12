@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 5,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8765",
         "系所名稱": "電機系 EE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T07:51:21.000Z",
-        "count": 1,
+        "remain_update_time": "2022-01-21T00:17:40.000Z",
+        "count": 2,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8479,
+            "comment": "實驗多半是擷取自電子一二，大多是RCL network相關內容。\n通常預報會需要用PSpice跑一次模擬。\n實驗會操作到示波器、波形產生器、電源供應器等等\n內容不會到太難",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5692,
+            "got": 7,
+            "sweet": 7,
+            "cold": 5,
+            "user_id": 4485,
+            "post_id": 8479,
+            "course_name": "電子電路實驗（一）",
+            "teacher": "劉文超",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

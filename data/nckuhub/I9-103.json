@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
+    "got": 0,
+    "cold": 0,
+    "sweet": 0,
     "rate_count": 0,
     "courseInfo": {
-        "id": 2267,
+        "id": "2267",
         "系所名稱": "牙醫系 DEN",
         "系號": "I9",
         "選課序號": "I9103",
@@ -34,12 +34,19 @@
         "remain_update_time": "2022-01-21T00:18:22.000Z",
         "count": 22,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
+    "comment": [
+        {
+            "id": 8473,
+            "comment": "涼，上課用每個老師的ppt，有些老師會用zuvio問問題，但好像答錯影響不大，課程內容滿實用的，學完可以當成平常的小常識用，但也有可能因為這學期都是線上所以課堂參與容易比較少。有加分報告可以交，最多加10分，胡老師人也很好，最後有加長期限讓一些人可以爭取到加分。最後分數出來98比我通識還高，滿推",
+            "semester": "110-1"
+        }
+    ],
     "rates": [],
     "courserate_id": 0
 }

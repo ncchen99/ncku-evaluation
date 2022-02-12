@@ -1,8 +1,8 @@
 {
-    "got": "8.3",
-    "cold": "8.7",
-    "sweet": "7.3",
-    "rate_count": 3,
+    "got": 8.25,
+    "cold": 8.5,
+    "sweet": 7.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "758",
         "系所名稱": "物理系 PHYS",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-01-18T19:05:31.000Z",
-        "count": 34,
+        "remain_update_time": "2022-01-24T18:21:48.000Z",
+        "count": 56,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8494,
+            "comment": "每堂課幾乎都會慶不同的老師來講課，主要都是講太空工程有關的主題，如果對天文有興趣的同學非常建議來修，每堂課都會小考，但是都是一些答案很不受限的問答題，大概都是2題，期末還交報告，沒有期中期末真的很涼，大家上課也幾乎沒什麼聽，只要期末報告寫好一點其實就可以很高分了。",
+            "semester": "109-2"
+        },
         {
             "id": 6517,
             "comment": "每堂課都是不同的老師來演講，課後的小考成績和期末報告成績的計算方式是課後的小考成績和期末報告，有些演講很好聽，對太空方面有興趣的同學可以試試看。",
@@ -96,6 +102,21 @@
             "post_id": 6517,
             "course_name": "太空科學與工程導論",
             "teacher": "楊毅 陳炳志*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5707,
+            "got": 8,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 4856,
+            "post_id": 8494,
+            "course_name": "太空科學與工程導論",
+            "teacher": "陳炳志",
             "like": 0,
             "dislike": 0,
             "give": 1,

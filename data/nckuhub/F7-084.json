@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "6.5",
-    "sweet": "8.5",
-    "rate_count": 2,
+    "got": 6.75,
+    "cold": 6.75,
+    "sweet": 7.5,
+    "rate_count": 4,
     "courseInfo": {
         "id": "1725",
         "系所名稱": "資訊系 CSIE",
@@ -31,15 +31,26 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-01-18T19:39:20.000Z",
-        "count": 519,
+        "remain_update_time": "2022-01-25T06:21:58.000Z",
+        "count": 551,
         "admit": null,
-        "comment": 0,
+        "comment": 5,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8469,
+            "comment": "一開始教C，然後教Unity，最後是SQL，課程內容蠻簡單的，但是每堂課後都有兩個程式的作業要在一個禮拜內寫完，Loading有點重，但是分數很甜，期末要分組製作一個Unity專案，基本上大家分數都差不多",
+            "semester": "110-1"
+        },
+        {
+            "id": 8546,
+            "comment": "不知道哪個該死的評價說，只要努力做作業，就可以拿高分，整個學期忙成狗，給我79，我要吐血了。\n上大學到現在，覺得最爛的一門課。",
+            "semester": "110-1"
+        },
         {
             "id": 3921,
             "comment": "評分方式:\n    出席+練習: 20% 作業: 15% 期中考: 25% 小組project: 40%\n\n上課教材:\n    老師自己的ppt、助教的 ppt\n\n上課方式:\n    大概花2節半的課教ppt內容，但大致上都是照著ppt念而已，偶爾會實際打開 visual studio 實地操作，不過只是將已經寫好的程式碼執行解釋給學生聽而已。教完後會出練習，練習有時簡單有時難(有時很多練習)，在課堂內完成並上傳至 moodle 會有較高的分數，但頂多9X而已，若是回家後才完成則大概8X(會有幾天的時間限制)，分數差異並不大。期中後會有大概3個禮拜是由助教教學 unity ，教學步伐超級快，沒有底子去聽會很痛苦，而且也會出 unity 練習，教完 unity 後會出 unity的小組作業， 我們的作業是製作類似 minecraft 的遊戲， 如果組員夠 carry 應該不會是什麼難題，但如果大家都不太會的話那就需要花很多時間。期末 project 必須與 unity 的小組練習同步進行，不然進度會很趕(大概只有2~3個禮拜)。整體課程緊湊(期中之後特別趕)，作業練習很多，不過似乎調分很多。\n\n點名方式:\n    平常的練習就當點名，最後一堂上課是以填表單當點名。\n\n報告方式:\n    期中後，大家自己找組別(2人一組)，並且將所有組別切成好幾的主題(醫療、校園、遊戲...)，依照主題要想出要做的project，每組都需要製作 ppt 介紹自己想做的主題(idea pitch)。Idea pitch 過後幾周，需要再次製作 ppt 介紹進度和一些程式的功能，最後的期末 project 還要再製作 ppt 介紹完整的程式功能和一些詳細資訊。\n\n作業方式:\n    期中考前作業就是上課未完成的練習，期中後有一個 unity 的小組作業(要寫description)，大概給你2~3禮拜完成。\n\n考試方式:\n    期中考為上機考，除非是有程式的底子，不然是很困難。不過後來老師加全班成績15分，所以也還好。",
@@ -81,6 +92,36 @@
             "post_id": 4971,
             "course_name": "視窗程式設計",
             "teacher": "張瑞紘 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5682,
+            "got": 10,
+            "sweet": 10,
+            "cold": 4,
+            "user_id": 8099,
+            "post_id": 8469,
+            "course_name": "視窗程式設計",
+            "teacher": "張瑞紘",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5759,
+            "got": 1,
+            "sweet": 3,
+            "cold": 10,
+            "user_id": 5898,
+            "post_id": 8546,
+            "course_name": "視窗程式設計",
+            "teacher": "張瑞紘",
             "like": 0,
             "dislike": 0,
             "give": 1,

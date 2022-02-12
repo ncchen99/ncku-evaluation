@@ -1,7 +1,7 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
+    "got": 0,
+    "cold": 0,
+    "sweet": 0,
     "rate_count": 0,
     "courseInfo": {
         "id": "3158",
@@ -31,15 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T17:29:21.000Z",
-        "count": 34,
+        "remain_update_time": "2022-01-24T17:08:05.000Z",
+        "count": 40,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
+    "comment": [
+        {
+            "id": 8482,
+            "comment": "使用的程式語言為 Python\n整門課以自然語言處理為主，小組(1-3人)設計一個LineBot聊天機器人\n期中報告會被老師問很多問題，但一一修正之後期末大家就都做得很棒\n\n上課沒什麼壓力，就是跟老師討論一些跟聊天機器人相關的主題，很有趣\n6次作業，都不難，助教的打字解釋看完就基本會懂\n期中考、期末考、小考三者皆無",
+            "semester": "110-1"
+        }
+    ],
     "rates": [],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 4,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "657",
         "系所名稱": "歷史系 HIS",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T07:30:02.000Z",
-        "count": 326,
+        "remain_update_time": "2022-01-27T07:26:36.000Z",
+        "count": 355,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8680,
+            "comment": "老師上課用ppt講解，雖然ppt是英文的，但老師會用中文講解\n這學期沒有期中考，但有四次作業，每次字數約為1000~2000字左右，期末考大約5000字\n作業主要是閱讀文本，回答老師的問題\n基本上上課認真聽，作業好好寫，分數就不會太難看！\n推薦大家來修這門課～（而且嘉聲老師很可愛＾＾）",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5893,
+            "got": 8,
+            "sweet": 8,
+            "cold": 4,
+            "user_id": 6603,
+            "post_id": 8680,
+            "course_name": "希臘古典時期歷史",
+            "teacher": "翁嘉聲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

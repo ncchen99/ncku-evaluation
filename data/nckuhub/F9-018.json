@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 9,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1770",
         "系所名稱": "醫工系 BME",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T06:47:43.000Z",
-        "count": 127,
+        "remain_update_time": "2022-01-24T09:58:04.000Z",
+        "count": 131,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8654,
+            "comment": "全學期線上教學。期中線上考，期末實體考試，還有一次期中報告。考試基本上都是作業的題型然後改數字，只要認真寫作業基本上不會太難啦！學期末有平移調分，平移後未滿56的會被當掉（但基本上被當的人很少啦）推推展其物理！\n\n配分：\n期中考25%\n期中報告15%\n期末考30%\n作業25%\n點名5%",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5867,
+            "got": 8,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 6737,
+            "post_id": 8654,
+            "course_name": "普通物理學（一）",
+            "teacher": "楊展其",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 6,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1592,
+        "id": "1592",
         "系所名稱": "工設系 ID",
         "系號": "F3",
         "選課序號": "F3067",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-21T00:17:38.000Z",
-        "count": 38,
+        "remain_update_time": "2022-01-26T04:17:11.000Z",
+        "count": 39,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8678,
+            "comment": "整個學期以三個專案循序漸進進行，以講課搭配實作的方式進行，會蠻需要課外時間的投入。前兩個專案是老師指定的主題，會以學校附近有的店家為對象，進行田野調查、盤點並重新設計服務，主要是在練習操作使用者旅程地圖、服務藍圖等服務設計的工具。第三個專案是小組自行訂定感興趣的主題，以之前學習到的工具和流程進行一個完整的服務設計。\n整體如果認真投入的話可以學習到很多，但同時也要求小組合作的高度投入，如果都保持認真參與的話分數也自然不低。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5891,
+            "got": 9,
+            "sweet": 9,
+            "cold": 6,
+            "user_id": 3419,
+            "post_id": 8678,
+            "course_name": "服務設計",
+            "teacher": "黃仲菁*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

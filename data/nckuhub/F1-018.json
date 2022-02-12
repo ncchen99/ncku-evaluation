@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "3.0",
-    "sweet": "4.0",
-    "rate_count": 1,
+    "got": 6,
+    "cold": 4.5,
+    "sweet": 4,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1522",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-01-19T22:55:06.000Z",
-        "count": 143,
+        "remain_update_time": "2022-01-21T05:17:26.000Z",
+        "count": 146,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8391,
+            "comment": "上一個古老的程式語言FORTRAN\n課本外面好像找不到，可能要跟著班上買，老師上課也有講義，我只有印講義沒買課本，要看課本題目的話就跟旁邊有課本的看一下\n老師有時候上課上到一半會開始點名\n有時候也會叫人上台回答問題，達不出來應該沒甚麼關係，會繼續找下一個人XD\n期中考(筆試)*1\n上機考*1\n期末考(筆試)*1\n作業約10份\n兩節上課最後一節寫作業，有時候一節課寫不完(幾乎都寫不完)，看助教要延繳交時間到什麼時候，通常都滿充裕的，有時候會趕課，三節都上課，那就不會有作業。\n考試加作業各佔約四分之一，基本上考試分數都不會太高\n\n這次班上總成績最高分85給大家參考",
+            "semester": "110-1"
+        },
         {
             "id": 6459,
             "comment": "上課會需要一本祖傳的fortran課本\n老師上課基本上也是上課本的內容(一些計概理論、基本的邏輯判斷、迴圈......\n課本很古老大概買不到(可能要跟直屬要要看拉\n考試吃重考古題\n作業不能放掉加一加其實佔頗多分數的\n用心學分數大概8X\n學弟妹們加油!",
@@ -54,6 +60,21 @@
             "cold": 3,
             "user_id": 3126,
             "post_id": 6459,
+            "course_name": "計算機程式設計",
+            "teacher": "吳鴻文",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5604,
+            "got": 6,
+            "sweet": 4,
+            "cold": 6,
+            "user_id": 6708,
+            "post_id": 8391,
             "course_name": "計算機程式設計",
             "teacher": "吳鴻文",
             "like": 0,

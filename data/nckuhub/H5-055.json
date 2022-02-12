@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 7,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1909,
+        "id": "1909",
         "系所名稱": "交管系 TCM",
         "系號": "H5",
         "選課序號": "H5055",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-21T00:17:55.000Z",
-        "count": 39,
+        "remain_update_time": "2022-01-21T05:21:51.000Z",
+        "count": 40,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8388,
+            "comment": "標準系上必修課，不用怕老師給低分，期中期末考盡量寫都會有分數，上課才moodle防疫點名的方式，不過助教也會在後面現場點名，不太建議翹課，最後95過，推推！",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5601,
+            "got": 8,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 5257,
+            "post_id": 8388,
+            "course_name": "運輸工程",
+            "teacher": "鄭永祥",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

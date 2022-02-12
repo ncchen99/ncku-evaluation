@@ -1,8 +1,8 @@
 {
-    "got": "10.0",
-    "cold": "9.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": 9,
+    "cold": 8.5,
+    "sweet": 7.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1177",
         "系所名稱": "電機系 EE",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-19T00:14:22.000Z",
-        "count": 180,
+        "remain_update_time": "2022-01-26T23:51:32.000Z",
+        "count": 188,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 3,
+        "course_style": 1,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 8638,
+            "comment": "上課需要帶筆電或手機，隨堂考 = 點名\n出席很重要，但請假一律准假，不需要理由，下課前到moodle留言請假就可以了\n\n分組報告 30% + 期末考 30% + 課堂參與 40%\n\n分組報告部分：\n5人一組，由moodle分組\n每組選擇一個產業和產業中的一家公司，報告的內容包含財報分析、五力分析、市場的結構分析、產品分析、自問自答或辯論等\n老師會把相同的產業放在同一周互相辯論，如果都沒有相同的產業就會自問自答\n有組內互評\n\n期末考部分：\n可以帶A4大抄一張，需要簽名交回\n考前可以去翻翻messenger的群組\n會從上課的PPT、分組報告的內容出題，介於難與不難之間\n\n上課的內容很實際也很容易懂，蠻建議修的",
+            "semester": "110-1"
+        },
         {
             "id": 3766,
             "comment": "基本上都是簽到點名，老師很好很認真在教。\nPPT要搭配上課不然只有一堆名詞，期末會讀的蠻辛苦的。\n會有兩三次作業+一次報告，只有報告要稍微花點時間其他loading都不大。\n不過外系好像必較加簽得到，除非你是妹紙，要平衡一下所以聽說會給外系妹紙加簽XD",
@@ -63,6 +71,21 @@
             "cold": 9,
             "user_id": 1408,
             "post_id": 3766,
+            "course_name": "科技產業分析",
+            "teacher": "卜令楷",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5851,
+            "got": 8,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 4382,
+            "post_id": 8638,
             "course_name": "科技產業分析",
             "teacher": "卜令楷",
             "like": 0,

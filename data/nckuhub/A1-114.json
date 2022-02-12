@@ -1,8 +1,8 @@
 {
-    "got": "8.5",
-    "cold": "4.5",
-    "sweet": "8.0",
-    "rate_count": 2,
+    "got": 8.333333333333334,
+    "cold": 5.333333333333333,
+    "sweet": 7.333333333333333,
+    "rate_count": 3,
     "courseInfo": {
         "id": "14",
         "系所名稱": "外語中心 FLC",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "陳冠云",
-        "已選課人數": 0,
-        "餘額": 25,
+        "已選課人數": 25,
+        "餘額": 0,
         "時間": "[2]3~4 ",
         "教室": "修齊大樓 26202",
         "備註": "模組三",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-18T10:47:50.000Z",
-        "count": 616,
+        "remain_update_time": "2022-01-21T22:39:50.000Z",
+        "count": 779,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8423,
+            "comment": "沒有期中期末\n上課偶爾會出線上作業，用國家地理的網站平台作答\n個人覺得不會到很簡單，但畢竟是模組三\n然後會有三次大功課\n我們這學期是narrative essay, academic essay, 和 argumentative essay\n每一次都會交outline, first draft, 和 second draft\n一稿完還會有和老師一對一輔導時間\n不過最後一份作業是團體作業，所以是一對三輔導\n上課認真聽課其實可以學到蠻多的\n但分數真的給的不高QQ\n最後85過",
+            "semester": "110-1"
+        },
         {
             "id": 7705,
             "comment": "老師人超好也超級用心，很多模三的課都是要開口講話的，但這堂課不用!!上課氛圍輕鬆，老師也不會強迫你用英文回答(但偶爾有一些小組討論，記得一兩次而已)\n一個學期寫三次作文，每次作文都要交outline、交一稿、跟老師一對一meeting(檢討一稿的概念，但如果寫不好或寫錯老師也不會批評，是用引導的方式去帶領你完成更好的文章)、交二稿\n反正好課一堂啦，推爆!!",
@@ -74,6 +80,21 @@
             "cold": 1,
             "user_id": 6627,
             "post_id": 8290,
+            "course_name": "學術英文寫作",
+            "teacher": "陳冠云",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5636,
+            "got": 8,
+            "sweet": 6,
+            "cold": 7,
+            "user_id": 7070,
+            "post_id": 8423,
             "course_name": "學術英文寫作",
             "teacher": "陳冠云",
             "like": 0,

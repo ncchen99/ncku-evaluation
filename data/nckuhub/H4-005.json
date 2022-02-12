@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1876",
         "系所名稱": "企管系 BA",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T18:05:22.000Z",
-        "count": 113,
+        "remain_update_time": "2022-01-21T17:55:08.000Z",
+        "count": 118,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8442,
+            "comment": "上課形式：線上實體任君挑選，不點名\n上課內容：老師上的進度在四個老師中比較慢，感覺他希望大家都能聽懂，你可以po問題上moodle，助教都會幫你解答\n評量：今年用線上平台測驗，上幾個小節後就會有小測驗，一個測驗佔學期成績5%，有些題目有提示，一題有10次作答機　會，這學期沒有期中考，但有兩次期末考(25%)，期末考前有期末考模擬考，這些都是線上測驗，沒有提示，但每題有5次作答機會，期末考後有一個bonus加分考，滿分10分直接加入學期成績. 因為分數太好拿所以大部分人都100分，只要漏交作業排名就會下去. \n*這學期因為期初遠距的關係,所以老師表示要好好善用線上平台,而造就了這樣的制度,以後會不會這樣我無法保證,但這老師真的很棒*",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5655,
+            "got": 9,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 8088,
+            "post_id": 8442,
+            "course_name": "微積分（一）",
+            "teacher": "劉聚仁",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

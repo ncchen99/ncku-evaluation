@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 4,
+    "sweet": 6,
+    "rate_count": 1,
     "courseInfo": {
         "id": "700",
         "系所名稱": "台文系 TWL",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T10:06:49.000Z",
-        "count": 231,
+        "remain_update_time": "2022-01-21T23:23:22.000Z",
+        "count": 235,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8441,
+            "comment": "一學期有4篇1500字的閱讀心得報告(期中期末各兩篇)，老師會提供十本指定閱讀的書單，\n自己選四本閱讀並寫報告，老師會針對文本出題目；\n最後還有一篇3500字的小論文，需要自己找關於世界文學想研究的議題作探討。\n作業量十分多，但寫完會覺得對世界文學有更深刻的了解；\n也可能是因為作業量多，所以最後只剩不到十個人選修。\n老師講課非常認真，會從各國的歷史背景講起，談到政治、經濟等層面來剖析文學的誕生。\n這學期全線上，老師常常留後面15分鐘讓大家交流討論，發表本堂課的心得感想。\n我作業全都有交，也自認寫得算認真，最後87分過；\n但我是選修者中唯一的外系生，不確定老師是不是有對我比較寬容。提供給大家參考。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5654,
+            "got": 8,
+            "sweet": 6,
+            "cold": 4,
+            "user_id": 8090,
+            "post_id": 8441,
+            "course_name": "世界文學（一）",
+            "teacher": "鍾秀梅",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
