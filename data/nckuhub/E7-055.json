@@ -1,8 +1,8 @@
 {
-    "got": "6.5",
-    "cold": "8.0",
-    "sweet": "4.0",
-    "rate_count": 2,
+    "got": 7,
+    "cold": 6,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1413",
         "系所名稱": "建築系 ARCH",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-19T00:13:25.000Z",
-        "count": 154,
+        "remain_update_time": "2022-02-13T17:59:33.000Z",
+        "count": 174,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8681,
+            "comment": "點名都要到，期中期末各佔50趴，點名不到用2的次方扣。期中期末考名詞解釋，要背的很多，分數不會太高，但期末無情調分，我期中期末加起來差不多100，最後74過，爽。外系建議去要考古，幫助很大。",
+            "semester": "110-1"
+        },
         {
             "id": 4212,
             "comment": "｜上課形式：100% 老師講課本 (他自己寫的 人居熱環境)\n　　　　　　上課內容都寫在課本裡了，上課睡覺回去自己看也還行\n\n｜評分方式：期中考、期末考、點名\n　　　　　　期中期末考找到考古題背熟的話，分數大概60~70左右\n           90%都是背誦題，但課本要背的東西太多，根本不知道從何準備起\n　　　　　　！點名一定要到！\n　　　　　　點名沒到，第一次扣學期總分2分，第二次4分，第三次8分...以此類推\n　　　　　　老師表示一定會當人。\n\n\n我上課都在睡覺，點名一次沒到，期中期末有考古，68過，我覺得不太甜。",
@@ -53,29 +59,14 @@
     ],
     "rates": [
         {
-            "id": 1493,
-            "got": 10,
-            "sweet": 5,
-            "cold": 9,
-            "user_id": 2099,
-            "post_id": 4074,
+            "id": 5894,
+            "got": 7,
+            "sweet": 9,
+            "cold": 6,
+            "user_id": 8157,
+            "post_id": 8681,
             "course_name": "建築物理環境（一）",
-            "teacher": "林憲德",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 1631,
-            "got": 3,
-            "sweet": 3,
-            "cold": 7,
-            "user_id": 1721,
-            "post_id": 4212,
-            "course_name": "建築物理環境（一）",
-            "teacher": "林憲德",
+            "teacher": "林憲德*",
             "like": 0,
             "dislike": 0,
             "give": 1,
