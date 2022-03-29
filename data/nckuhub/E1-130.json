@@ -1,8 +1,8 @@
 {
     "got": 7,
-    "cold": 5,
+    "cold": 4.5,
     "sweet": 7,
-    "rate_count": 1,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1078",
         "系所名稱": "機械系 ME",
@@ -30,17 +30,22 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-24T20:56:56.000Z",
-        "count": 51,
+        "comment_num": 1,
+        "remain_update_time": "2022-02-21T00:21:10.000Z",
+        "count": 60,
         "admit": null,
-        "comment": 1,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
         "semester": null
     },
     "comment": [
+        {
+            "id": 8734,
+            "comment": "這學期有四次作業，份量不少，但是寫完就等於讀完一遍了，期中期末兩次考試，都是開書考，考前老師都有做大概的重點整理，如果都有搞懂內容和例題，考試不算難。\n老師上課速度偏快，但是都是照著課本進度上，例題每一題也都會講，所以當堂課上完如果馬上複習課本還是可以跟得上進度。\n我作業都準時交，考前再大概複習一下重點，剩下的就看考試當場翻書了，最後86過。\n",
+            "semester": "110-1"
+        },
         {
             "id": 8509,
             "comment": "整體來說是一門優質的好課\n老師上課速度偏快，但只要有跟上收穫都不少，考試前的重點提示也要認真複習\n我作業亂寫但最後還有87分給各位參考",
@@ -55,6 +60,21 @@
             "cold": 5,
             "user_id": 6110,
             "post_id": 8509,
+            "course_name": "高等工程數學",
+            "teacher": "王逸君",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5947,
+            "got": 7,
+            "sweet": 7,
+            "cold": 4,
+            "user_id": 4216,
+            "post_id": 8734,
             "course_name": "高等工程數學",
             "teacher": "王逸君",
             "like": 0,

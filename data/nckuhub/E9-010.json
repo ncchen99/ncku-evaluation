@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 1,
+    "cold": 1,
+    "sweet": 1,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1469",
         "系所名稱": "工科系 ES",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "劉立偉",
-        "已選課人數": 91,
-        "餘額": 0,
+        "已選課人數": 104,
+        "餘額": 2,
         "時間": "[3]2 [4]2~3 ",
         "教室": "工科系館 41107",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T11:01:03.000Z",
-        "count": 178,
+        "remain_update_time": "2022-02-16T18:04:37.000Z",
+        "count": 203,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8695,
+            "comment": "每週一小考，上課一堆學習單，教很爛，卻要花很多時間在課堂上，但是學不到東西，學期初跟你說平時成績佔總共佔80%包含了小考、出席、學習單…等你被當之後才跟你說出席和上課花一堆時間的學習單佔平時成績的0.067",
+            "semester": "108-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5908,
+            "got": 1,
+            "sweet": 1,
+            "cold": 1,
+            "user_id": 8169,
+            "post_id": 8695,
+            "course_name": "工程動力學",
+            "teacher": "劉立偉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

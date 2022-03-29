@@ -1,8 +1,8 @@
 {
-    "got": 8.25,
-    "cold": 8.583333333333334,
-    "sweet": 9.5,
-    "rate_count": 12,
+    "got": 8.23076923076923,
+    "cold": 8.461538461538462,
+    "sweet": 9.538461538461538,
+    "rate_count": 13,
     "courseInfo": {
         "id": "387",
         "系所名稱": "通識中心 GE",
@@ -30,11 +30,11 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 12,
-        "remain_update_time": "2022-01-21T05:26:32.000Z",
-        "count": 4823,
+        "comment_num": 13,
+        "remain_update_time": "2022-02-21T00:36:53.000Z",
+        "count": 5383,
         "admit": null,
-        "comment": 13,
+        "comment": 14,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -50,6 +50,11 @@
             "id": 7797,
             "comment": "學期有2個報告(我家的餐桌、Podacast、1000字的家庭故事)\n\n這門課很甜又很涼，超級推，老師也很溫柔，我都當作是放鬆壓力的一門課",
             "semester": "109-2"
+        },
+        {
+            "id": 8737,
+            "comment": "老師人很好，作業量不多，又很好寫～\n但比較麻煩的是要去南美里跟長輩們錄podcast，我看其他組都蠻開心，但我這組氣氛比較尷尬⋯⋯\n分數很甜，如果不怕跑那麼遠的話，蠻推！",
+            "semester": "109-1"
         },
         {
             "id": 7891,
@@ -280,6 +285,21 @@
             "cold": 6,
             "user_id": 8070,
             "post_id": 8392,
+            "course_name": "家庭關係",
+            "teacher": "鄭淑惠",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5950,
+            "got": 8,
+            "sweet": 10,
+            "cold": 7,
+            "user_id": 8181,
+            "post_id": 8737,
             "course_name": "家庭關係",
             "teacher": "鄭淑惠",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": 6.5,
-    "cold": 5.5,
-    "sweet": 2,
-    "rate_count": 2,
+    "got": 7.666666666666667,
+    "cold": 4.666666666666667,
+    "sweet": 3.6666666666666665,
+    "rate_count": 3,
     "courseInfo": {
         "id": "1722",
         "系所名稱": "資訊系 CSIE",
@@ -30,11 +30,11 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-22T20:36:59.000Z",
-        "count": 358,
+        "comment_num": 2,
+        "remain_update_time": "2022-02-16T04:19:21.000Z",
+        "count": 384,
         "admit": null,
-        "comment": 2,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -49,6 +49,11 @@
         {
             "id": 8470,
             "comment": "不管你點到哪一堂課，看到這個老師就先不要選，或是直接退掉，教的不差算普通，但是分數非常不甜，資料結構的考試方式為作業選5~10題手寫全部的C code(含輸入輸出)，他的課肯定會讓你學到很多，因為壓力大到你不得不學",
+            "semester": "110-1"
+        },
+        {
+            "id": 8693,
+            "comment": "上課方法:\n老師用投影片上課，投影片應該是那本聖經提供的。\n點了兩次名。\n作業:\n有30題的資料結構用C寫，還有一些報告關於寫的程式碼(包括計算時間複雜度，比較一些演算法效能...)\n段考:\n期中 作業20題抽10題\n期末 作業10題抽5題\n個人認為這堂課是付出多少努力就會得到多少分",
             "semester": "110-1"
         }
     ],
@@ -75,6 +80,21 @@
             "cold": 10,
             "user_id": 8099,
             "post_id": 8470,
+            "course_name": "資料結構",
+            "teacher": "蕭宏章",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5906,
+            "got": 10,
+            "sweet": 7,
+            "cold": 3,
+            "user_id": 8149,
+            "post_id": 8693,
             "course_name": "資料結構",
             "teacher": "蕭宏章",
             "like": 0,

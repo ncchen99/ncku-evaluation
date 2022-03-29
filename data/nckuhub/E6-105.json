@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 9,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1380",
         "系所名稱": "土木系 CE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-21T00:17:50.000Z",
-        "count": 28,
+        "remain_update_time": "2022-02-16T18:56:21.000Z",
+        "count": 36,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8697,
+            "comment": "老師講解軟體操作非常仔細和用心，真的是從零開始慢慢教起，對於想學SAP2000但對軟體操作不熟悉的人非常推薦，期末就是自己找一些材料力學或結構學的題目，然後用SAP2000解題(至少5題)，成績基本是從60分起跳，我挑了4題材力、一題結構(都是老師上課教過的觀念)，最後95過",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5910,
+            "got": 10,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 6233,
+            "post_id": 8697,
+            "course_name": "電腦輔助結構分析與設計快速入門",
+            "teacher": "劉光晏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

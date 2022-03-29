@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "817",
         "系所名稱": "地科系 EARS",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "宋偉國",
-        "已選課人數": 22,
-        "餘額": 28,
+        "已選課人數": 56,
+        "餘額": 0,
         "時間": "[5]3~N ",
         "教室": "地科系館 3035",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T16:39:58.000Z",
-        "count": 211,
+        "remain_update_time": "2022-02-20T18:27:01.000Z",
+        "count": 372,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8731,
+            "comment": "這學期是採線上上課，老師上課生動有趣，會有一些實用的天氣知識，考試也蠻簡單的，期中期末是考簡答題，每堂課都有小考，推薦對於天氣學有興趣的人修。",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5944,
+            "got": 9,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 6589,
+            "post_id": 8731,
+            "course_name": "天氣學",
+            "teacher": "宋偉國",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
