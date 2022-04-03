@@ -42,8 +42,8 @@
     },
     "comment": [
         {
-            "id": 7602,
-            "comment": "管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。管理 API 好難。",
+            "id": 7607,
+            "comment": "UPDATE course_new SET comment_num=0 WHERE id=1953UPDATE course_new SET comment_num=0 WHERE id=1953UPDATE course_new SET comment_num=0 WHERE id=1953",
             "semester": "109-1"
         },
         {
@@ -69,12 +69,12 @@
             "hard": 1
         },
         {
-            "id": 4747,
+            "id": 4752,
             "got": 5,
             "sweet": 5,
             "cold": 5,
             "user_id": 6468,
-            "post_id": 7602,
+            "post_id": 7607,
             "course_name": "電機機械設計",
             "teacher": "謝旻甫",
             "like": 0,

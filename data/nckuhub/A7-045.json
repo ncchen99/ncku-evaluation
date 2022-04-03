@@ -1,8 +1,8 @@
 {
-    "got": 9,
-    "cold": 8.5,
+    "got": 8.666666666666666,
+    "cold": 8.333333333333334,
     "sweet": 8,
-    "rate_count": 2,
+    "rate_count": 3,
     "courseInfo": {
         "id": "8276",
         "系所名稱": "大學國文 CL",
@@ -31,10 +31,10 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-02-15T22:28:12.000Z",
-        "count": 854,
+        "remain_update_time": "2022-02-16T23:26:43.000Z",
+        "count": 867,
         "admit": null,
-        "comment": 2,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -49,6 +49,11 @@
         {
             "id": 8690,
             "comment": "期中跟期末都是開書考，都是申論題。除此之外沒什麼作業，上課就跟聽故事一樣，沒有太艱澀的文言文，大部分都是像西遊記之類的白話小說。",
+            "semester": "110-1"
+        },
+        {
+            "id": 8699,
+            "comment": "老師人超好，很混還有80分過\n上課內容很讚，內容豐富，期中期末都是上課有講過的內容，是申論題\n偶爾有課間作業，沒有回家作業",
             "semester": "110-1"
         }
     ],
@@ -75,6 +80,21 @@
             "cold": 9,
             "user_id": 7996,
             "post_id": 8690,
+            "course_name": "大學國文-古典小說選讀",
+            "teacher": "李淑如",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5912,
+            "got": 8,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 7859,
+            "post_id": 8699,
             "course_name": "大學國文-古典小說選讀",
             "teacher": "李淑如",
             "like": 0,

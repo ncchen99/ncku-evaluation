@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 6,
+    "cold": 8,
+    "sweet": 5,
+    "rate_count": 1,
     "courseInfo": {
         "id": "555",
         "系所名稱": "中文系 CL",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T01:26:14.000Z",
-        "count": 219,
+        "remain_update_time": "2022-02-22T01:20:27.000Z",
+        "count": 273,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8753,
+            "comment": "☑老師偏好歌仔戲，建議喜歡戲曲的可以來上，沒有考試，只有期末作業，就是寫出劇本，但特別的是要加上唱調，像是歌仔戲的角色一樣要在台詞之間唱個幾句詩詞，不會太難，老師不會當人，很輕鬆的一堂課\n\n\n☑不過因為是在早九，讓人昏昏欲睡，其實我聽不進去什麼，但是老師人很好，有一次給我們吃肉桂捲，推薦給缺學分的外系仔。\n",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5966,
+            "got": 6,
+            "sweet": 5,
+            "cold": 8,
+            "user_id": 8191,
+            "post_id": 8753,
+            "course_name": "現代戲劇欣賞及習作（二）",
+            "teacher": "林幸慧",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

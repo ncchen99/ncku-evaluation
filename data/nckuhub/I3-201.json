@@ -1,7 +1,7 @@
 {
-    "got": 8.333333333333334,
+    "got": 7.333333333333333,
     "cold": 6.666666666666667,
-    "sweet": 8,
+    "sweet": 6.666666666666667,
     "rate_count": 3,
     "courseInfo": {
         "id": "2054",
@@ -42,8 +42,8 @@
     },
     "comment": [
         {
-            "id": 7605,
-            "comment": "願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單願望清單",
+            "id": 7608,
+            "comment": "console.log(送出心得response:  + res);console.log(送出心得response:  + res);console.log(送出心得response:  + res);console.log(送出心得response:  + res);console.log(送出心得response:  + res);console.log(送出心得response:  + res);console.log(送出心得response:  + res);",
             "semester": "109-1"
         },
         {
@@ -89,12 +89,12 @@
             "hard": 1
         },
         {
-            "id": 4750,
-            "got": 8,
-            "sweet": 9,
+            "id": 4753,
+            "got": 5,
+            "sweet": 5,
             "cold": 5,
             "user_id": 6468,
-            "post_id": 7605,
+            "post_id": 7608,
             "course_name": "機器學習",
             "teacher": "鄭順林",
             "like": 0,

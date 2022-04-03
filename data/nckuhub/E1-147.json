@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "6.5",
-    "sweet": "8.5",
-    "rate_count": 2,
+    "got": 5.666666666666667,
+    "cold": 6,
+    "sweet": 8.333333333333334,
+    "rate_count": 3,
     "courseInfo": {
         "id": "1084",
         "系所名稱": "機械系 ME",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-01-21T00:17:21.000Z",
-        "count": 334,
+        "remain_update_time": "2022-02-16T07:38:05.000Z",
+        "count": 351,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8770,
+            "comment": "每次上課都有報告，不過不難做，考試的部分只有期末考，算是沒什麼負擔的一堂課。\n收穫的部分我是覺得不算很好，老師放的影片都蠻有趣，但他本人上的課就不是那麼回事了。",
+            "semester": "110-1"
+        },
         {
             "id": 8214,
             "comment": "教授很鼓勵人發言，討論各種有趣的議題。一開始要適應與組員準備報告會有一點壓力，不過會定期換組員認識不同的人是蠻有趣的。每個星期需要寫些上課的心得，只要格式符合，寫什麼內容皆可。算是統整一整個星期的思考也不錯，最後會有一個團體拍影片的主題，整體算是有啟發性、有趣而且負擔不會太大的課程，推!",
@@ -74,6 +80,21 @@
             "cold": 8,
             "user_id": 1402,
             "post_id": 8214,
+            "course_name": "第三次工業革命之工程專業技能",
+            "teacher": "吳馬丁",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5983,
+            "got": 1,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 8198,
+            "post_id": 8770,
             "course_name": "第三次工業革命之工程專業技能",
             "teacher": "吳馬丁",
             "like": 0,

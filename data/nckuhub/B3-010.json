@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 6,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "645",
         "系所名稱": "歷史系 HIS",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-18T17:37:46.000Z",
-        "count": 231,
+        "remain_update_time": "2022-02-20T20:18:29.000Z",
+        "count": 282,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8749,
+            "comment": "阿拉伯文很難但老師和同學都還不錯，有興趣的可以試看看，就算語言的學習能力不好也不用擔心，老師給分也很大方，一學期兩次期中測驗但都不會有寫分數，真的只是測驗不會有壓力，算是輕鬆又很紮實有趣的課程",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5962,
+            "got": 10,
+            "sweet": 10,
+            "cold": 6,
+            "user_id": 6843,
+            "post_id": 8749,
+            "course_name": "阿拉伯語言與文化（一）",
+            "teacher": "林長寬",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

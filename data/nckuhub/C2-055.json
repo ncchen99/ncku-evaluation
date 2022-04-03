@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 6,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "744",
         "系所名稱": "物理系 PHYS",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T02:54:41.000Z",
-        "count": 71,
+        "remain_update_time": "2022-02-16T21:09:49.000Z",
+        "count": 87,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8698,
+            "comment": "整堂課板書上課，\n講解很注重讓學生好理解，\n敘述方法也很有趣，\n但是內容一點也不輕鬆簡單。\n\n一學期兩次大考，\n有一半題目會從課本出幾乎一樣的題目，\n另一半教授會發揮創意出爆幹難的題型，\n但這部分題目底下會附上Hint，\n如果能看懂Hint基本上能完成答題。\n\n期末會調分，\n通常都在八十以上，\n教授不太會當人。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5911,
+            "got": 10,
+            "sweet": 10,
+            "cold": 6,
+            "user_id": 6271,
+            "post_id": 8698,
+            "course_name": "力學（一）",
+            "teacher": "張泰榕",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
