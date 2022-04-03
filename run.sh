@@ -3,3 +3,4 @@ python3 ./collection/urschool.py
 git add .
 git commit -m "🆗"
 git push
+date
