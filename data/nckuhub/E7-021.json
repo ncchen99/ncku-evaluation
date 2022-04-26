@@ -1,7 +1,7 @@
 {
-    "got": "5.0",
-    "cold": "9.0",
-    "sweet": "6.0",
+    "got": 5,
+    "cold": 7,
+    "sweet": 5,
     "rate_count": 1,
     "courseInfo": {
         "id": "8895",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "鍾育霖*",
-        "已選課人數": 68,
-        "餘額": 7,
+        "已選課人數": 79,
+        "餘額": 1,
         "時間": "[1]2~3 [4]9 ",
         "教室": "地震建築科技中心大樓 5172",
         "備註": "",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-01-19T21:47:22.000Z",
-        "count": 2,
+        "remain_update_time": "2022-04-24T17:25:47.000Z",
+        "count": 66,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8774,
+            "comment": "講得還算清楚  但是上課品質非常差  教室這麼大但是堅持不拿麥克風   坐後面根本聽不到  線上課程從很遠的地方拍黑板看不清楚也聽不清楚",
+            "semester": "109-2"
+        },
         {
             "id": 5973,
             "comment": "老師上課一直抄英文筆記，等同學結束後再稍微講解，進度非常緩慢，又平常上課不點名因此我都缺席，但老師是個好人還蠻認真的。\n有期中期末和作業約三份，期中老師送50分，但有同學拿40幾不知道怎麼回事。",
@@ -48,14 +54,14 @@
     ],
     "rates": [
         {
-            "id": 3344,
+            "id": 5987,
             "got": 5,
-            "sweet": 6,
-            "cold": 9,
-            "user_id": 2255,
-            "post_id": 5973,
+            "sweet": 5,
+            "cold": 7,
+            "user_id": 6765,
+            "post_id": 8774,
             "course_name": "工程力學",
-            "teacher": "鍾育霖",
+            "teacher": "鍾育霖*",
             "like": 0,
             "dislike": 0,
             "give": 1,
