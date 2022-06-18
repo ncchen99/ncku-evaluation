@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "6.0",
+    "cold": "7.0",
+    "sweet": "7.3",
+    "rate_count": 4,
     "courseInfo": {
         "id": "1119",
         "系所名稱": "電機系 EE",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2022-01-25T19:51:09.000Z",
-        "count": 263,
+        "comment_num": 3,
+        "remain_update_time": "2022-05-31T00:28:15.000Z",
+        "count": 342,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -57,6 +56,67 @@
             "semester": "109-1"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 621,
+            "got": 6,
+            "sweet": 7,
+            "cold": 7,
+            "user_id": 1673,
+            "post_id": 3202,
+            "course_name": "普通化學（一）",
+            "teacher": "林榮良 宋光生*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 4585,
+            "got": 6,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 5595,
+            "post_id": 7335,
+            "course_name": "普通化學",
+            "teacher": "吳欣倫*,宋光生,邱顯泰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 4591,
+            "got": 8,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 6275,
+            "post_id": 7341,
+            "course_name": "普通化學",
+            "teacher": "吳欣倫*,宋光生,邱顯泰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5789,
+            "got": 4,
+            "sweet": 6,
+            "cold": 4,
+            "user_id": 7670,
+            "post_id": 8576,
+            "course_name": "普通化學",
+            "teacher": "宋光生*,許桂芳,邱顯泰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

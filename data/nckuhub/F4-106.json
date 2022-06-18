@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "6.0",
+    "cold": "10.0",
+    "sweet": "8.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "1627",
         "系所名稱": "航太系 AA",
@@ -30,16 +30,38 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-20T23:37:18.000Z",
-        "count": 11,
+        "comment_num": 1,
+        "remain_update_time": "2022-06-11T05:52:50.000Z",
+        "count": 60,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8366,
+            "comment": "課程前半由老師分別講授有關實驗之課程內容，後半分組進行實驗，總共大概會有10個小實驗(但是有一兩個因為設備損壞無法進行)，分成五個禮拜進行，實驗順序依照組別進行，如果沒有輪到你的組別當週就是不用上課。\n實驗內容主要涵蓋熱力、流力、熱傳...，通常都蠻簡單的，只有少數一兩個實驗會做到下課時間，其他大部分都能提早做完，評分方式全部靠出席與結報，結報也不難，實驗用心做一定寫得出來，最後大部分人都是8*分，少部分90。\n\n整體而言算是堂很涼的實驗。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5579,
+            "got": 6,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 5589,
+            "post_id": 8366,
+            "course_name": "熱流實驗",
+            "teacher": "王偉成*,鄭金祥",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

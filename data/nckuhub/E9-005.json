@@ -1,8 +1,8 @@
 {
-    "got": 5,
-    "cold": 7.833333333333333,
-    "sweet": 7.916666666666667,
-    "rate_count": 12,
+    "got": "4.9",
+    "cold": "8.0",
+    "sweet": "7.8",
+    "rate_count": 13,
     "courseInfo": {
         "id": "1465",
         "系所名稱": "工科系 ES",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 3,
-        "remain_update_time": "2022-01-21T21:06:00.000Z",
-        "count": 261,
+        "comment_num": 4,
+        "remain_update_time": "2022-06-01T17:25:50.000Z",
+        "count": 352,
         "admit": null,
-        "comment": 4,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -236,6 +235,21 @@
             "user_id": 7070,
             "post_id": 8421,
             "course_name": "普通物理學",
+            "teacher": "蔡永東",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5786,
+            "got": 4,
+            "sweet": 7,
+            "cold": 10,
+            "user_id": 7102,
+            "post_id": 8573,
+            "course_name": "普通物理學（一）",
             "teacher": "蔡永東",
             "like": 0,
             "dislike": 0,

@@ -1,7 +1,7 @@
 {
-    "got": 1,
-    "cold": 1,
-    "sweet": 1,
+    "got": "1.0",
+    "cold": "1.0",
+    "sweet": "1.0",
     "rate_count": 1,
     "courseInfo": {
         "id": "1469",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "劉立偉",
-        "已選課人數": 104,
-        "餘額": 2,
+        "已選課人數": 99,
+        "餘額": 5,
         "時間": "[3]2 [4]2~3 ",
         "教室": "工科系館 41107",
         "備註": "",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-02-16T18:04:37.000Z",
-        "count": 203,
+        "comment_num": 1,
+        "remain_update_time": "2022-06-07T01:33:53.000Z",
+        "count": 266,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

@@ -1,8 +1,8 @@
 {
-    "got": 5,
-    "cold": 7,
-    "sweet": 5,
-    "rate_count": 1,
+    "got": "5.0",
+    "cold": "8.0",
+    "sweet": "5.5",
+    "rate_count": 2,
     "courseInfo": {
         "id": "8895",
         "系所名稱": "建築系 ARCH",
@@ -22,7 +22,7 @@
         "已選課人數": 79,
         "餘額": 1,
         "時間": "[1]2~3 [4]9 ",
-        "教室": "地震建築科技中心大樓 5172",
+        "教室": "建築科技大樓 5172",
         "備註": "",
         "限選條件": "",
         "業界參與": "否",
@@ -31,14 +31,13 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-04-24T17:25:47.000Z",
-        "count": 66,
+        "remain_update_time": "2022-06-10T04:23:49.000Z",
+        "count": 70,
         "admit": null,
-        "comment": 2,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -53,6 +52,21 @@
         }
     ],
     "rates": [
+        {
+            "id": 3344,
+            "got": 5,
+            "sweet": 6,
+            "cold": 9,
+            "user_id": 2255,
+            "post_id": 5973,
+            "course_name": "工程力學",
+            "teacher": "鍾育霖",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
         {
             "id": 5987,
             "got": 5,

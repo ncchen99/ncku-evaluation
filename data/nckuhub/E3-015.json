@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "7.5",
+    "cold": "9.0",
+    "sweet": "7.5",
+    "rate_count": 2,
     "courseInfo": {
         "id": "1189",
         "系所名稱": "化工系 CHE",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-01-26T20:27:15.000Z",
-        "count": 91,
+        "comment_num": 2,
+        "remain_update_time": "2022-05-31T23:11:33.000Z",
+        "count": 143,
         "admit": null,
-        "comment": 2,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -52,6 +51,37 @@
             "semester": "107-1"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 2867,
+            "got": 8,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 1587,
+            "post_id": 5496,
+            "course_name": "計算機概論",
+            "teacher": "邱繼正 黃世宏*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5869,
+            "got": 7,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 6737,
+            "post_id": 8656,
+            "course_name": "計算機概論",
+            "teacher": "黃世宏*,邱繼正",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

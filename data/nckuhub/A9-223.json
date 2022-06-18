@@ -1,7 +1,7 @@
 {
-    "got": 5,
-    "cold": 9,
-    "sweet": 3.5,
+    "got": "5.0",
+    "cold": "9.0",
+    "sweet": "3.5",
     "rate_count": 2,
     "courseInfo": {
         "id": "411",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "盧豐華",
-        "已選課人數": 105,
-        "餘額": 95,
+        "已選課人數": 142,
+        "餘額": 58,
         "時間": "[1]7~8 ",
         "教室": "醫學院 第四講堂",
         "備註": "",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-02-23T02:59:29.000Z",
-        "count": 4741,
+        "comment_num": 2,
+        "remain_update_time": "2022-06-01T08:36:50.000Z",
+        "count": 4874,
         "admit": null,
-        "comment": 2,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

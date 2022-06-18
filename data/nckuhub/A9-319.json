@@ -1,7 +1,7 @@
 {
-    "got": 5.015873015873016,
-    "cold": 9.11111111111111,
-    "sweet": 8,
+    "got": "5.0",
+    "cold": "9.1",
+    "sweet": "8.0",
     "rate_count": 63,
     "courseInfo": {
         "id": "435",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "郭文良",
-        "已選課人數": 57,
-        "餘額": 3,
+        "已選課人數": 59,
+        "餘額": 1,
         "時間": "[3]1~2 ",
         "教室": "雲平大樓 27103(通識中心",
         "備註": "",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 68,
-        "remain_update_time": "2022-01-26T18:33:02.000Z",
-        "count": 5097,
+        "comment_num": 69,
+        "remain_update_time": "2022-05-29T01:17:24.000Z",
+        "count": 5732,
         "admit": null,
-        "comment": 69,
-        "course_style": 4,
-        "report_hw": 3,
-        "score_style": 3,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

@@ -1,7 +1,7 @@
 {
-    "got": 8.666666666666666,
-    "cold": 5.666666666666667,
-    "sweet": 4.666666666666667,
+    "got": "8.7",
+    "cold": "5.7",
+    "sweet": "4.7",
     "rate_count": 3,
     "courseInfo": {
         "id": "1764",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "太空科學與工程學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-01-25T07:39:42.000Z",
-        "count": 83,
+        "comment_num": 3,
+        "remain_update_time": "2022-06-05T01:49:55.000Z",
+        "count": 159,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

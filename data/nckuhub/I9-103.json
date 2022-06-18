@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "7.0",
+    "cold": "7.0",
+    "sweet": "8.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "2267",
         "系所名稱": "牙醫系 DEN",
@@ -18,27 +18,26 @@
         "課程名稱": "公共衛生學概論",
         "選必修": "必修",
         "學分": 2,
-        "老師": "簡玉雯*,呂宗學,胡淑貞,王榮德,古鯉榕,余聰",
-        "已選課人數": 23,
-        "餘額": 0,
+        "老師": "簡玉雯*,呂宗學,胡淑貞,古鯉榕,余聰",
+        "已選課人數": 0,
+        "餘額": 30,
         "時間": "[5]5~6 ",
         "教室": "醫學院 第四講堂",
         "備註": "限醫學系、藥學系、牙醫學系學生選修。",
-        "限選條件": "",
+        "限選條件": "限醫學院",
         "業界參與": "否",
         "屬性碼": "DEN2105",
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-21T00:18:22.000Z",
-        "count": 22,
+        "comment_num": 1,
+        "remain_update_time": "2022-06-18T01:36:10.000Z",
+        "count": 74,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -47,6 +46,22 @@
             "semester": "110-1"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 5686,
+            "got": 7,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 7937,
+            "post_id": 8473,
+            "course_name": "公共衛生學概論",
+            "teacher": "簡玉雯*,呂宗學,胡淑貞,王榮德,古鯉榕,余聰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

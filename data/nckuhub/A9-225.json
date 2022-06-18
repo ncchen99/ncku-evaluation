@@ -1,7 +1,7 @@
 {
-    "got": 7.545454545454546,
-    "cold": 8.272727272727273,
-    "sweet": 8.636363636363637,
+    "got": "7.5",
+    "cold": "8.3",
+    "sweet": "8.6",
     "rate_count": 11,
     "courseInfo": {
         "id": "413",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 13,
-        "remain_update_time": "2022-01-27T21:01:16.000Z",
-        "count": 2775,
+        "comment_num": 14,
+        "remain_update_time": "2022-05-31T16:57:03.000Z",
+        "count": 2876,
         "admit": null,
-        "comment": 14,
-        "course_style": 3,
+        "comment": 0,
+        "course_style": 0,
         "report_hw": 0,
-        "score_style": 3,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "score_style": 0
     },
     "comment": [
         {

@@ -1,7 +1,7 @@
 {
-    "got": 9.142857142857142,
-    "cold": 4.571428571428571,
-    "sweet": 6.714285714285714,
+    "got": "9.1",
+    "cold": "4.6",
+    "sweet": "6.7",
     "rate_count": 7,
     "courseInfo": {
         "id": "8752",
@@ -19,8 +19,8 @@
         "選必修": "必選",
         "學分": 3,
         "老師": "陳中和",
-        "已選課人數": 55,
-        "餘額": 15,
+        "已選課人數": 71,
+        "餘額": 6,
         "時間": "[5]5~7 ",
         "教室": "電機系館 92177",
         "備註": "本系必選",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 5,
-        "remain_update_time": "2022-01-24T21:10:41.000Z",
-        "count": 60,
+        "comment_num": 6,
+        "remain_update_time": "2022-05-30T00:02:55.000Z",
+        "count": 296,
         "admit": null,
-        "comment": 6,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

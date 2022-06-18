@@ -1,7 +1,7 @@
 {
-    "got": 9.333333333333334,
-    "cold": 7.666666666666667,
-    "sweet": 9,
+    "got": "9.3",
+    "cold": "7.7",
+    "sweet": "9.0",
     "rate_count": 3,
     "courseInfo": {
         "id": "2276",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "智慧運算學分學程,社會資料科學學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2022-01-22T08:28:34.000Z",
-        "count": 279,
+        "comment_num": 3,
+        "remain_update_time": "2022-06-01T00:43:35.000Z",
+        "count": 357,
         "admit": null,
-        "comment": 3,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

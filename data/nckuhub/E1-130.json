@@ -1,7 +1,7 @@
 {
-    "got": 7,
-    "cold": 4.5,
-    "sweet": 7,
+    "got": "7.0",
+    "cold": "4.5",
+    "sweet": "7.0",
     "rate_count": 2,
     "courseInfo": {
         "id": "1078",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "王逸君",
-        "已選課人數": 26,
-        "餘額": 46,
+        "已選課人數": 0,
+        "餘額": 65,
         "時間": "[2]7~8 [5]7 ",
         "教室": "機械系館 91205",
         "備註": "大四可修",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-02-21T00:21:10.000Z",
-        "count": 60,
+        "comment_num": 2,
+        "remain_update_time": "2022-06-15T21:35:14.000Z",
+        "count": 104,
         "admit": null,
-        "comment": 2,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

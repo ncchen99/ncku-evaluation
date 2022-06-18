@@ -1,8 +1,8 @@
 {
-    "got": 7,
-    "cold": 7,
-    "sweet": 9,
-    "rate_count": 1,
+    "got": "8.2",
+    "cold": "6.4",
+    "sweet": "8.4",
+    "rate_count": 5,
     "courseInfo": {
         "id": "512",
         "系所名稱": "不分系學程 CCEP",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 4,
-        "remain_update_time": "2022-01-24T22:56:12.000Z",
-        "count": 923,
+        "comment_num": 5,
+        "remain_update_time": "2022-06-03T06:09:48.000Z",
+        "count": 1052,
         "admit": null,
-        "comment": 5,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -68,6 +67,66 @@
         }
     ],
     "rates": [
+        {
+            "id": 4847,
+            "got": 7,
+            "sweet": 6,
+            "cold": 5,
+            "user_id": 6559,
+            "post_id": 7597,
+            "course_name": "東亞妖怪誌",
+            "teacher": "劉家幸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 4877,
+            "got": 7,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 6348,
+            "post_id": 7627,
+            "course_name": "東亞妖怪誌",
+            "teacher": "劉家幸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5266,
+            "got": 10,
+            "sweet": 9,
+            "cold": 6,
+            "user_id": 3419,
+            "post_id": 8053,
+            "course_name": "東亞妖怪誌",
+            "teacher": "劉家幸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5358,
+            "got": 10,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 7516,
+            "post_id": 8145,
+            "course_name": "東亞妖怪誌",
+            "teacher": "劉家幸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
         {
             "id": 5743,
             "got": 7,

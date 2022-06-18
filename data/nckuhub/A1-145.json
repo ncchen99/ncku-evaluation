@@ -1,7 +1,7 @@
 {
-    "got": 8.375,
-    "cold": 6.6875,
-    "sweet": 8.5625,
+    "got": "8.4",
+    "cold": "6.7",
+    "sweet": "8.6",
     "rate_count": 16,
     "courseInfo": {
         "id": "45",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "吳少方",
-        "已選課人數": 39,
-        "餘額": 0,
+        "已選課人數": 38,
+        "餘額": 1,
         "時間": "[4]5~6 ",
         "教室": "修齊大樓 26304",
         "備註": "模組二",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 20,
-        "remain_update_time": "2022-02-20T19:02:26.000Z",
-        "count": 591,
+        "comment_num": 21,
+        "remain_update_time": "2022-06-01T01:34:21.000Z",
+        "count": 675,
         "admit": null,
-        "comment": 21,
-        "course_style": 4,
-        "report_hw": 2,
-        "score_style": 4,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

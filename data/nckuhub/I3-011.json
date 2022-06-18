@@ -1,8 +1,8 @@
 {
-    "got": "5.2",
+    "got": "5.3",
     "cold": "7.0",
-    "sweet": "5.5",
-    "rate_count": 6,
+    "sweet": "5.9",
+    "rate_count": 7,
     "courseInfo": {
         "id": "1956",
         "系所名稱": "醫技系 MLSB",
@@ -30,9 +30,9 @@
         "跨領域學分學程": "醫學、科技與社會學程(STM)",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 8,
-        "remain_update_time": "2022-01-19T00:52:49.000Z",
-        "count": 336,
+        "comment_num": 9,
+        "remain_update_time": "2022-06-09T21:40:12.000Z",
+        "count": 500,
         "admit": null,
         "comment": 0,
         "course_style": 0,
@@ -40,6 +40,11 @@
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 8712,
+            "comment": "本來沒有選到課，好像是因為太多人想要教授加簽，所以教授直接多加200個名額，全部轉線上，每節課需要用zuvio回答問題，當點名，其他都蠻涼的，最後94過",
+            "semester": "110-1"
+        },
         {
             "id": 7870,
             "comment": "這堂課是可以輕鬆過關pass的課,如果不求多高分的話,有時候不太明白老師想要考什麼,也不太有重點,ppt非常多頁,但是把考古題看熟就對了,如果還是怕被當,那就寫他指定的閱讀心得就可以加很多分數了!",
@@ -175,6 +180,21 @@
             "post_id": 7870,
             "course_name": "公共衛生概論",
             "teacher": "胡淑貞*,吳政龍,李俊璋,呂宗學,王亮懿,王榮德,古鯉榕,莊佳蓉,簡玉雯,余聰,劉立凡,邱靜如",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5925,
+            "got": 6,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 6232,
+            "post_id": 8712,
+            "course_name": "公共衛生概論",
+            "teacher": "胡淑貞*,呂宗學",
             "like": 0,
             "dislike": 0,
             "give": 1,

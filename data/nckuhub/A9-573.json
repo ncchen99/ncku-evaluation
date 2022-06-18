@@ -1,7 +1,7 @@
 {
-    "got": 6.2727272727272725,
-    "cold": 7.954545454545454,
-    "sweet": 8.636363636363637,
+    "got": "6.3",
+    "cold": "8.0",
+    "sweet": "8.6",
     "rate_count": 22,
     "courseInfo": {
         "id": "471",
@@ -25,22 +25,19 @@
         "教室": "化工系館 華立廳",
         "備註": "限大一修習",
         "限選條件": "限大一新生",
-        "業界參與": "否",
+        "業界參與": "是",
         "屬性碼": "GE3108",
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 24,
-        "remain_update_time": "2022-02-21T00:10:05.000Z",
-        "count": 2753,
+        "comment_num": 26,
+        "remain_update_time": "2022-05-29T08:16:02.000Z",
+        "count": 2889,
         "admit": null,
-        "comment": 26,
-        "course_style": 4,
-        "report_hw": 1,
-        "score_style": 4,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

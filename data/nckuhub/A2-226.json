@@ -1,7 +1,7 @@
 {
-    "got": 7,
-    "cold": 5,
-    "sweet": 8,
+    "got": "7.0",
+    "cold": "5.0",
+    "sweet": "8.0",
     "rate_count": 2,
     "courseInfo": {
         "id": "149",
@@ -20,7 +20,7 @@
         "學分": 0,
         "老師": "黃鴻鈞",
         "已選課人數": 23,
-        "餘額": 0,
+        "餘額": 1,
         "時間": "[5]3~4 ",
         "教室": "成大綜合體育館 體育館羽球場",
         "備註": "【男女合班】自備3米手綁帶及拳擊手套",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-01-21T22:56:44.000Z",
-        "count": 362,
+        "comment_num": 2,
+        "remain_update_time": "2022-06-16T06:00:32.000Z",
+        "count": 417,
         "admit": null,
-        "comment": 2,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

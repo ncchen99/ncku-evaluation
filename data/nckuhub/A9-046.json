@@ -1,7 +1,7 @@
 {
-    "got": 6.481012658227848,
-    "cold": 7.518987341772152,
-    "sweet": 8.063291139240507,
+    "got": "6.5",
+    "cold": "7.5",
+    "sweet": "8.1",
     "rate_count": 79,
     "courseInfo": {
         "id": "363",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "林怡薇",
-        "已選課人數": 166,
-        "餘額": 9,
+        "已選課人數": 164,
+        "餘額": 11,
         "時間": "[2]3~4 ",
         "教室": "資訊大樓 格致廳小講堂",
         "備註": "104學年度(含)以前學生為哲學與藝術",
@@ -30,17 +30,14 @@
         "跨領域學分學程": "美學與藝術跨域學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 93,
-        "remain_update_time": "2022-03-09T18:52:44.000Z",
-        "count": 9649,
+        "comment_num": 94,
+        "remain_update_time": "2022-05-29T01:22:47.000Z",
+        "count": 9941,
         "admit": null,
-        "comment": 94,
-        "course_style": 10,
-        "report_hw": 3,
-        "score_style": 10,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

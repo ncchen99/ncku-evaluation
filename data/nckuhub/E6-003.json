@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 10,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1348",
         "系所名稱": "土木系 CE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T06:42:32.000Z",
-        "count": 89,
+        "remain_update_time": "2022-06-03T08:55:41.000Z",
+        "count": 136,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8784,
+            "comment": "這學期課程小考全線上，期中考2次期末考1次都實體。作業一定要寫，或想辦法跟別人要到，因為小考題目全部從作業出，很容易拿到接近滿分。期中期末考通常也會有一半題目會從作業出。老師不太會調分，但好像會救一些快被當掉的人拉到60。期中期末不會很難，稍微念要考80以上很簡單。阿上課其實非同步線上所以可以不用去看影片，自己念就好。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 5997,
+            "got": 9,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 8219,
+            "post_id": 8784,
+            "course_name": "普通物理學（一）",
+            "teacher": "朱淑君",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

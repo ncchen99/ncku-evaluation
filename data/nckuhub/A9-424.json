@@ -1,7 +1,7 @@
 {
-    "got": 7.25,
-    "cold": 5.75,
-    "sweet": 5.5,
+    "got": "7.3",
+    "cold": "5.8",
+    "sweet": "5.5",
     "rate_count": 4,
     "courseInfo": {
         "id": "457",
@@ -30,16 +30,14 @@
         "跨領域學分學程": "醫學、科技與社會學程(STM)",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 6,
-        "remain_update_time": "2022-03-09T18:41:00.000Z",
-        "count": 2224,
+        "comment_num": 7,
+        "remain_update_time": "2022-05-29T07:57:46.000Z",
+        "count": 2265,
         "admit": null,
-        "comment": 7,
-        "course_style": 2,
-        "report_hw": 1,
-        "score_style": 1,
-        "semester": null,
-        "course_need": null
+        "comment": 0,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0
     },
     "comment": [
         {

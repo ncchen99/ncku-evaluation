@@ -1,7 +1,7 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
     "rate_count": 0,
     "courseInfo": {
         "id": "461",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "郭耀昌",
-        "已選課人數": 169,
-        "餘額": 9,
+        "已選課人數": 172,
+        "餘額": 6,
         "時間": "[3]3~4 ",
         "教室": "資訊大樓 格致廳小講堂",
         "備註": "科：社、生",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 19,
-        "remain_update_time": "2022-02-23T02:10:54.000Z",
-        "count": 4654,
+        "comment_num": 20,
+        "remain_update_time": "2022-05-30T21:09:40.000Z",
+        "count": 4817,
         "admit": null,
-        "comment": 20,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

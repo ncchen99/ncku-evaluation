@@ -1,7 +1,7 @@
 {
-    "got": 10,
-    "cold": 7,
-    "sweet": 7,
+    "got": "10.0",
+    "cold": "7.0",
+    "sweet": "7.0",
     "rate_count": 1,
     "courseInfo": {
         "id": "6",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "陳冠云",
-        "已選課人數": 35,
-        "餘額": 0,
+        "已選課人數": 29,
+        "餘額": 6,
         "時間": "[1]5~6 ",
         "教室": "修齊大樓 26104",
         "備註": "模組三",
@@ -30,15 +30,14 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-01-26T00:09:47.000Z",
-        "count": 1536,
+        "comment_num": 1,
+        "remain_update_time": "2022-06-12T09:27:29.000Z",
+        "count": 1656,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

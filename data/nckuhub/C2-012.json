@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "8.0",
+    "sweet": "6.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "741",
         "系所名稱": "物理系 PHYS",
@@ -18,9 +18,9 @@
         "課程名稱": "普通物理學（一）",
         "選必修": "必修",
         "學分": 4,
-        "老師": "陳則銘",
+        "老師": "許祖斌",
         "已選課人數": 0,
-        "餘額": 0,
+        "餘額": 80,
         "時間": "[2]3~4 [4]3~4 ",
         "教室": "理學教學大樓 36204",
         "備註": "",
@@ -31,15 +31,37 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-01-19T05:20:56.000Z",
-        "count": 46,
+        "remain_update_time": "2022-06-18T01:37:43.000Z",
+        "count": 114,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 7650,
+            "comment": "這學期是上英授的 老師真的整堂都沒出現過中文英文不好想上應受的要三思 老師英文超溜 聽不懂下課可以去問老師可以用中文在跟你解釋一次 小考都開書 期中期末也可以帶一張A4大抄 所以其實蠻涼 老師會看出席 翹太多課他好像會不太開心(?) (然後好像會偷偷觀察學生有沒有認真上課 ",
+            "semester": "109-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 4900,
+            "got": 8,
+            "sweet": 6,
+            "cold": 8,
+            "user_id": 5272,
+            "post_id": 7650,
+            "course_name": "普通物理學（一）",
+            "teacher": "許祖斌",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

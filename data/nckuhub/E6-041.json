@@ -1,8 +1,8 @@
 {
-    "got": "10.0",
-    "cold": "5.0",
-    "sweet": "10.0",
-    "rate_count": 1,
+    "got": "5.5",
+    "cold": "3.0",
+    "sweet": "5.5",
+    "rate_count": 2,
     "courseInfo": {
         "id": "1361",
         "系所名稱": "土木系 CE",
@@ -30,9 +30,9 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-01-19T13:40:11.000Z",
-        "count": 114,
+        "comment_num": 2,
+        "remain_update_time": "2022-06-14T22:36:13.000Z",
+        "count": 172,
         "admit": null,
         "comment": 0,
         "course_style": 0,
@@ -40,6 +40,11 @@
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 8477,
+            "comment": "這門課如果不是初學者千萬不要修\n課不僅教得快還難\n期中考平均21分...\n然後朱教授看到這個成績\n結果下半學期教得更難\n而且下半學期李教授的功課作業變得一大堆\n你如果不把讀其他科的時間拿來讀計概根本沒辦法完成他的作業\n總之就是一門爛課",
+            "semester": "110-1"
+        },
         {
             "id": 5740,
             "comment": "兩個老師分別交期中前與期中後。兩個老師都很認真，上的也算清楚。\n尤其李宇欣老師超級會教，可以把複雜的東西講得大家都能聽得懂，也會跟大家分享一些人生經驗。\n算是需要一點努力，不然越來會越跟不上，但不至於太累。\n是一門有付出有收穫的好課，很推。",
@@ -56,6 +61,21 @@
             "post_id": 5740,
             "course_name": "計算機概論",
             "teacher": "李宇欣*朱世禹 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 5690,
+            "got": 1,
+            "sweet": 1,
+            "cold": 1,
+            "user_id": 7784,
+            "post_id": 8477,
+            "course_name": "計算機概論",
+            "teacher": "朱世禹*,李宇欣",
             "like": 0,
             "dislike": 0,
             "give": 1,
