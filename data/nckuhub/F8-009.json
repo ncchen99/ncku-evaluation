@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 6,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1745",
         "系所名稱": "光電系 DPS",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "黃志嘉",
-        "已選課人數": 69,
-        "餘額": 0,
+        "已選課人數": 3,
+        "餘額": 57,
         "時間": "[2]7~8 [3]2 ",
         "教室": "綜合大樓 48218",
         "備註": "",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-12T08:33:03.000Z",
-        "count": 104,
+        "remain_update_time": "2022-06-28T06:52:36.000Z",
+        "count": 109,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8815,
+            "comment": "教學上算相對好懂，有認真聽加劃重點考前就不用辛苦讀原文找重點\n教授上課時會點人起來回答，有答就有加分（自願報告加更多）最多可以加到10分\n可能上課會有隨堂突擊小考（沒聽課或恍神嘛⋯⋯ㄏㄏ你加油）但分數甜到會回甘喔\n段考的話⋯⋯講義後面的題目跟課本例題刷一刷ㄅ（選擇題很棒喔，基本就是……你懂的爬分好工具）\n會調分喔，雖然我不是數學家，但這聽起來不錯吧\n但如果有習慣性翹課又不愛寫題目的話⋯⋯分數會很涼很消暑喔～～～\n\n",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6028,
+            "got": 7,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 8291,
+            "post_id": 8815,
+            "course_name": "普通化學（一）",
+            "teacher": "黃志嘉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "10.0",
-    "sweet": "9.0",
-    "rate_count": 1,
+    "got": 6.5,
+    "cold": 7.5,
+    "sweet": 8.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "199",
         "系所名稱": "體育室 OPE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-06-16T00:10:32.000Z",
-        "count": 123,
+        "remain_update_time": "2022-06-29T21:40:38.000Z",
+        "count": 138,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8823,
+            "comment": "這堂課早八，再加上出席率很重，對於起不來的人老實說不算友善。\n但是老師超帥，看他跳完你也會覺得自己能跳的跟他一樣帥，直到你看到自己跳舞的錄影XD。\n不過還是學到很多東西~也很好玩!\n會有一次是課是電影寫心得；期末則是將這學期的舞蹈選一種然後跳一段十幾拍的舞步，可以直接跳老師的示範也可以自己編。",
+            "semester": "110-1"
+        },
         {
             "id": 6903,
             "comment": "[上課教材]\n\n    老師示範+影片\n\n[教學方法]\n\n    老師示範，之後再讓同學跟著老師的動作練習\n不會的話老師會再次示範，讓大家問問題跟練習\n\n[點名方式]\n\n    幾乎每堂課點名(喊右)，有時候會叫同學過去排隊一個一個點名\n\n[考試方式]\n\n    期中考：個人，基本動作八組裡面自選四組，自己數拍子，可用參加三公里校園路跑抵掉\n期末考：雙人(男女)，配音樂跳，四組裡面自選兩組。\n\n[報告方式]\n\n    \n\n[作業方式]\n\n    \n\n[心得]\n\n    老師人很好，接受補考跟重考\n然後也會上傳動作影片給大家回去看\n\n[付出]\n\n    3\n\n[收穫]\n\n    4\n",
@@ -61,6 +67,21 @@
             "post_id": 4684,
             "course_name": "國際標準舞（男女）",
             "teacher": "鄭匡佑 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6036,
+            "got": 7,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 6374,
+            "post_id": 8823,
+            "course_name": "國際標準舞（男女）",
+            "teacher": "鄭匡佑",
             "like": 0,
             "dislike": 0,
             "give": 1,

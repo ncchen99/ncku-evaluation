@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 9,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8906",
         "系所名稱": "建築系 ARCH",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-15T22:43:41.000Z",
-        "count": 71,
+        "remain_update_time": "2022-06-18T02:03:17.000Z",
+        "count": 73,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8843,
+            "comment": "老師人超好，是一位會體諒學生課業壓力的老師，原本怕修這堂課會負擔很重，但一學期下來不但學到很多，做作業也很有成就感，如果想學習數位建模的人一定要來，老師很歡迎各系同學，上課不點名，會錄影可以補看，期中期末各交一份作業，作業是自己設計的房子，授課步調不會很快，落後一點老師都會重新講，基本上就是可以發揮創意，設計自己理想的建築，又學到新技巧的課! 分數也給很甜~",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6056,
+            "got": 10,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 5752,
+            "post_id": 8843,
+            "course_name": "建築資訊模型實作",
+            "teacher": "沈揚庭*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

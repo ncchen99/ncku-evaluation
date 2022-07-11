@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "1.0",
+    "cold": "1.0",
+    "sweet": "1.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "1724",
         "系所名稱": "資訊系 CSIE",
@@ -14,15 +14,15 @@
         "年級": "2",
         "類別": "講義",
         "組別": null,
-        "英語授課": "Y",
+        "英語授課": "N",
         "課程名稱": "資料結構",
         "選必修": "必修",
         "學分": 3,
         "老師": "曾繁勛",
-        "已選課人數": 102,
+        "已選課人數": 58,
         "餘額": 2,
         "時間": "[4]7~9 ",
-        "教室": "資訊系館 4204",
+        "教室": "資訊新館 65405",
         "備註": "英語授課",
         "限選條件": "",
         "業界參與": "否",
@@ -31,15 +31,37 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-05T23:48:24.000Z",
-        "count": 255,
+        "remain_update_time": "2022-06-26T21:06:05.000Z",
+        "count": 290,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8801,
+            "comment": "那就是盡力了課還那麼爛，對了，這堂課還要求點名，怕你去看開放式課程會進步太快。個人推薦中山跟交大的開放式課程XD",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6014,
+            "got": 1,
+            "sweet": 1,
+            "cold": 1,
+            "user_id": 8277,
+            "post_id": 8801,
+            "course_name": "資料結構",
+            "teacher": "曾繁勛",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

@@ -1,8 +1,8 @@
 {
-    "got": "5.5",
-    "cold": "5.0",
-    "sweet": "5.5",
-    "rate_count": 2,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
         "id": "607",
         "系所名稱": "外文系 FLL",
@@ -18,11 +18,11 @@
         "課程名稱": "體育（一）",
         "選必修": "必修",
         "學分": 0,
-        "老師": "林欣仕",
-        "已選課人數": 72,
-        "餘額": 28,
+        "老師": "莊博堯",
+        "已選課人數": 1,
+        "餘額": 249,
         "時間": "[3]7~8 ",
-        "教室": "自強韻律室 自強韻律室",
+        "教室": "自強排球場 自強排球場",
         "備註": "",
         "限選條件": "",
         "業界參與": "否",
@@ -31,57 +31,15 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-06-10T04:13:02.000Z",
-        "count": 382,
+        "remain_update_time": "2022-06-29T04:05:54.000Z",
+        "count": 391,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 7065,
-            "comment": "上課都會點名，一學期會嘗試多種運動，雖然比較不會感到無趣，但覺得能學到的有限，課不算太涼，期末是考籃球，大會考只要看熟ppt即可。",
-            "semester": "108-1"
-        },
-        {
-            "id": 4391,
-            "comment": "幾乎每次上課都會點名，老師人不錯，偶爾會提早下課，如果有參與學校某些活動可以抵上課時數。但上課幾乎都會要你運動，不算太涼，感覺像是強度低一點的高中體育。",
-            "semester": "107-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 1810,
-            "got": 6,
-            "sweet": 6,
-            "cold": 5,
-            "user_id": 2278,
-            "post_id": 4391,
-            "course_name": "體育（一）",
-            "teacher": "林欣仕",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4315,
-            "got": 5,
-            "sweet": 5,
-            "cold": 5,
-            "user_id": 3962,
-            "post_id": 7065,
-            "course_name": "體育（一）",
-            "teacher": "林欣仕",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

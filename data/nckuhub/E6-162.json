@@ -1,17 +1,17 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 9,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8194",
-        "系所名稱": "土木系 CE",
-        "系號": "E6",
-        "選課序號": "E6162",
+        "系所名稱": "土木所 CE",
+        "系號": "N6",
+        "選課序號": "N6013",
         "課程碼": "N663201",
         "分班碼": "",
-        "班別": "甲乙",
-        "年級": "4",
+        "班別": "碩",
+        "年級": "",
         "類別": "講義",
         "組別": null,
         "英語授課": "N",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-18T01:36:14.000Z",
-        "count": 56,
+        "remain_update_time": "2022-06-18T02:02:13.000Z",
+        "count": 50,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8821,
+            "comment": "老師的英文不會讓人聽不懂，上課也蠻認真的，東西都會放在網站上，不懂的話也可以跟他討論請教，總體來說收穫很多，分數也不錯。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6034,
+            "got": 9,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 8293,
+            "post_id": 8821,
+            "course_name": "商務寫作和溝通技巧",
+            "teacher": "陸喬克",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

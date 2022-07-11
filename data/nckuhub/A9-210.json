@@ -1,8 +1,8 @@
 {
-    "got": "5.3",
-    "cold": "6.7",
-    "sweet": "7.5",
-    "rate_count": 24,
+    "got": "5.5",
+    "cold": "6.8",
+    "sweet": "7.6",
+    "rate_count": 25,
     "courseInfo": {
         "id": "8550",
         "系所名稱": "通識中心 GE",
@@ -31,8 +31,8 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 29,
-        "remain_update_time": "2022-05-29T19:19:07.000Z",
-        "count": 3763,
+        "remain_update_time": "2022-06-25T22:46:12.000Z",
+        "count": 3842,
         "admit": null,
         "comment": 0,
         "course_style": 0,
@@ -43,6 +43,11 @@
         {
             "id": 7940,
             "comment": "老師用簡報上課，期中會有專題報告的milestone，期末是完整專題報告，不過老師對專題報告的要求蠻高的。課程不涼，有蠻多事情要做，常常有問卷要填，多填多加分，上課多舉手也可以加分。我專題報告都有做事，問卷一個不漏地填完，上課沒舉手過，最後93過。",
+            "semester": "109-2"
+        },
+        {
+            "id": 8804,
+            "comment": "好課一生推，上課沒發言過，只有回各組專題幾句話\n專題建議選日常生活好發揮的主題\n不害羞的可以當班代或組長，整體滿涼的最後9x過。\n",
             "semester": "109-2"
         },
         {
@@ -547,6 +552,21 @@
             "cold": 4,
             "user_id": 7640,
             "post_id": 8181,
+            "course_name": "家庭與健康",
+            "teacher": "張文芸",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6017,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 8281,
+            "post_id": 8804,
             "course_name": "家庭與健康",
             "teacher": "張文芸",
             "like": 0,

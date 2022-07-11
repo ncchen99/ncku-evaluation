@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "8.0",
+    "sweet": "8.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "8473",
         "系所名稱": "體育室 OPE",
@@ -31,15 +31,37 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-17T09:51:53.000Z",
-        "count": 187,
+        "remain_update_time": "2022-06-28T07:38:38.000Z",
+        "count": 193,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8803,
+            "comment": "***我是110-1學期修的!!!(不知道為甚麼系統只能選108-2)***\n老師人真的很好也很親民，助教們(都是校隊的學長)也都很親切很有趣!\n上課沒有甚麼負擔，大家幾乎都是第一次接觸橄欖球，老師跟助教都會很有耐心教。會教丟球、接球、踢球等，也會分組玩一些小遊戲。太陽很大但是老師會讓我們在樹蔭下進行活動，通常也都會提早一點下課。如果是線上上課的話就會帶大家看橄欖球比賽的影片，老師會適時講解。\n沒有考試，每堂課都會點名，線上也會，但出席率常常不高QQ老師人真的很耐斯啦，大家要記得去上課!",
+            "semester": "108-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6016,
+            "got": 8,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 6992,
+            "post_id": 8803,
+            "course_name": "橄欖球與健康體能",
+            "teacher": "莊博堯",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

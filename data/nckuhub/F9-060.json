@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "8.0",
+    "sweet": "10.0",
+    "rate_count": 1,
     "courseInfo": {
         "id": "9088",
         "系所名稱": "醫工系 BME",
@@ -30,16 +30,38 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-06-18T01:37:07.000Z",
-        "count": 58,
+        "comment_num": 1,
+        "remain_update_time": "2022-07-06T06:47:13.000Z",
+        "count": 61,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8800,
+            "comment": "使用Solidworks，作業和考試都是從老師教的技法出\n期中主要是靜態模型的基礎製作，期末著重在動態\n期中考題目是做一個模型，還算輕鬆，期末小組報告，需要發揮巧思。往年會印出專題的3D模型並實際操作。但礙於疫情，今年直接交模型電子檔，附上一篇期末心得(包含對課程的看法和建議，不能寫客套、敷衍的話)\n上課不會點名，老師非常鼓勵學生發言、問問題，有時會加分(每回答一次就加總成績一分)\n但似乎缺人，故沒有助教，如果遇到問題要當面問、留moodle message、問同學等等\n上課的知識雖然聽不懂，但感覺和考試和作業無關\n(我是外系同學，對工程不是很了解，反正作業和考試會寫就好XD)\n分數非常甜，我的最後97過(但其實些瑕疵)\n",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6013,
+            "got": 8,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 5595,
+            "post_id": 8800,
+            "course_name": "工程圖學",
+            "teacher": "張志涵",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

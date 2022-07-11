@@ -1,8 +1,8 @@
 {
-    "got": "8.7",
-    "cold": "6.7",
-    "sweet": "8.0",
-    "rate_count": 3,
+    "got": 8.5,
+    "cold": 7,
+    "sweet": 8.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "348",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "顧盼",
-        "已選課人數": 88,
-        "餘額": 2,
+        "已選課人數": 0,
+        "餘額": 65,
         "時間": "[1]7~8 ",
         "教室": "生科院大樓南側 892S1",
         "備註": "",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-05-31T19:08:06.000Z",
-        "count": 4898,
+        "remain_update_time": "2022-07-07T20:47:05.000Z",
+        "count": 5113,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8851,
+            "comment": "全部都是線上上課\n幾乎每周都要寫快1000字的心得\n但基本上只要上課有聽一下、加上自己的想法\n就會有不錯的分數\n但認真上課是真的有收穫\n最後94過~",
+            "semester": "110-1"
+        },
         {
             "id": 8253,
             "comment": "老師上課很認真，如果有認真上課的話，收穫會很多。\n評量方式：每堂課繳交摘要及心得\n我的成績一開始有點錯誤，和老師反應後，老師也是很有耐心地替我修改。\n 好課，好老師推推",
@@ -94,6 +100,21 @@
             "cold": 4,
             "user_id": 7807,
             "post_id": 8253,
+            "course_name": "日本的歷史文化與藝術",
+            "teacher": "顧盼",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6064,
+            "got": 8,
+            "sweet": 9,
+            "cold": 8,
+            "user_id": 6946,
+            "post_id": 8851,
             "course_name": "日本的歷史文化與藝術",
             "teacher": "顧盼",
             "like": 0,

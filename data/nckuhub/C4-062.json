@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 6,
+    "cold": 7,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "809",
         "系所名稱": "地科系 EARS",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-16T03:07:37.000Z",
-        "count": 319,
+        "remain_update_time": "2022-06-27T00:39:34.000Z",
+        "count": 339,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8812,
+            "comment": "這堂課大多數同學 (包括我) 都是外系生，不過老師上課內容不會太過艱澀。上課PPT是全中文，不過老師的講話方式蠻催眠的XD，有時也會由校外講者上課，每堂課結束會以Kahoot測驗當做平時成績。每一兩周就要繪製化石標本，一次要畫6個樣本，個人覺得蠻花時間，所以對科學繪圖沒熱情的人要慎重考慮一下。整學期除了兩次期中，期末還有一次分組報告，老師會從中挑幾組內容作為期末考題。總之分數還算好拿，但有時會以為自己在上通識課。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6025,
+            "got": 6,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 5596,
+            "post_id": 8812,
+            "course_name": "古生物學",
+            "teacher": "梁碧清",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

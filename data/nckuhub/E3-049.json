@@ -1,8 +1,8 @@
 {
-    "got": "5.0",
-    "cold": "9.0",
-    "sweet": "5.0",
-    "rate_count": 1,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
         "id": "1202",
         "系所名稱": "化工系 CHE",
@@ -18,9 +18,9 @@
         "課程名稱": "化工概論",
         "選必修": "必修",
         "學分": 0,
-        "老師": "姚少凌*,田弘康",
-        "已選課人數": 159,
-        "餘額": 22,
+        "老師": "未定",
+        "已選課人數": 16,
+        "餘額": 145,
         "時間": "[3]3~4 ",
         "教室": "化工系館 柏林講堂",
         "備註": "93152.93156.93256(防疫備用)",
@@ -31,37 +31,15 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-06-13T00:29:43.000Z",
-        "count": 119,
+        "remain_update_time": "2022-06-29T01:44:09.000Z",
+        "count": 132,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 8677,
-            "comment": "每次上課都會有一個教授介紹自己的研究領域，這堂課是要化工系的學生對化工能幹什麼有認識的課。\n\n每次要交一篇300字心得，不要太水就不會太低分。\n可以缺席1次，\"兩次以上\"是指包含兩次，要注意。\n",
-            "semester": "110-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 5890,
-            "got": 5,
-            "sweet": 5,
-            "cold": 9,
-            "user_id": 7052,
-            "post_id": 8677,
-            "course_name": "化工概論",
-            "teacher": "姚少凌*,田弘康",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

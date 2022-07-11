@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "6.0",
-    "sweet": "9.0",
-    "rate_count": 1,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
         "id": "1319",
         "系所名稱": "材料系 MSE",
@@ -18,9 +18,9 @@
         "課程名稱": "工程數學（一）",
         "選必修": "必修",
         "學分": 3,
-        "老師": "賴怡璇",
-        "已選課人數": 48,
-        "餘額": 1,
+        "老師": "李旺龍",
+        "已選課人數": 53,
+        "餘額": 0,
         "時間": "[1]2~3 [3]2 ",
         "教室": "材料新館 44122",
         "備註": "",
@@ -31,37 +31,15 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-05-31T19:13:48.000Z",
-        "count": 103,
+        "remain_update_time": "2022-06-26T20:19:42.000Z",
+        "count": 113,
         "admit": null,
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 8319,
-            "comment": "老師上課教的大部分是從課本整理出來的，作業有三次都不難，考試題型跟作業蠻像的，考前一週老師也會稍稍暗示考試會考什麼",
-            "semester": "109-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 5532,
-            "got": 8,
-            "sweet": 9,
-            "cold": 6,
-            "user_id": 6126,
-            "post_id": 8319,
-            "course_name": "工程數學（一）",
-            "teacher": "賴怡璇",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

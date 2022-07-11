@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 6,
+    "sweet": 6,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9508",
         "系所名稱": "資源所 RE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-18T01:36:31.000Z",
-        "count": 48,
+        "remain_update_time": "2022-06-28T09:46:53.000Z",
+        "count": 51,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8819,
+            "comment": "主要是用投影片教學，內容幾乎和課本差不多，最後會教gams，平常會出作業，都在課本裡面那種，作業內容上課會教到，回家一般來說都會寫，期中考比較有挑戰性，但上課都會教過。",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6032,
+            "got": 9,
+            "sweet": 6,
+            "cold": 6,
+            "user_id": 8293,
+            "post_id": 8819,
+            "course_name": "決策分析方法",
+            "teacher": "黃韻勳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
