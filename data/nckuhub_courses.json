@@ -34451,6 +34451,19 @@
             "課程碼": "Q151200"
         },
         {
+            "id": 11575,
+            "系號": "SC",
+            "選課序號": "019",
+            "課程名稱": "化學品風險評估與管理工具應用",
+            "老師": "陳秀玲",
+            "時間": "[1]8~9 ",
+            "學分": 2,
+            "選必修": "選修",
+            "系所名稱": "食安所 ",
+            "comment_num": 0,
+            "課程碼": "SC81000"
+        },
+        {
             "id": 56,
             "系號": "A1",
             "選課序號": "156",
@@ -56335,7 +56348,7 @@
             "選課序號": "099",
             "課程名稱": "前瞻與社會（一）",
             "老師": "林常青*,葉婉如,蒙志成,郭彥廉,蕭富仁,胡中凡",
-            "時間": "[1]<div style='cursor: pointer;' class='flex_time' data-tkey='D0099' data-mkey='DTxcNFVkXTNaVgc5WwFSSwdlB1dSN1NuBT0='><i class=\"fas fa-bell\"></i>上課時間</div>",
+            "時間": "[1]<div style='cursor: pointer;' class='flex_time' data-tkey='D0099' data-mkey='DD0MZAc2CmRXW1ZoBV9SS1EzBlYGYwY7Umo='><i class=\"fas fa-bell\"></i>上課時間</div>",
             "學分": 1,
             "選必修": "選修",
             "系所名稱": "社會科學院 ",
@@ -88094,7 +88107,7 @@
             "選課序號": "003",
             "課程名稱": "領導與行動",
             "老師": "林常青*,葉婉如,蒙志成,郭彥廉,蕭富仁,胡中凡",
-            "時間": "[5]<div style='cursor: pointer;' class='flex_time' data-tkey='D0003' data-mkey='CDkOZlRlD2FUWA8xAFoAGQFjVARXMl1pBDY='><i class=\"fas fa-bell\"></i>上課時間</div>",
+            "時間": "[5]<div style='cursor: pointer;' class='flex_time' data-tkey='D0003' data-mkey='ATBaMlZnCmQADFNtUghdRFQ2VwcGYwE1UGI='><i class=\"fas fa-bell\"></i>上課時間</div>",
             "學分": 1,
             "選必修": "選修",
             "系所名稱": "社會科學院 ",
