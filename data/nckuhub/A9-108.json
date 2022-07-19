@@ -1,8 +1,8 @@
 {
-    "got": "7.5",
-    "cold": "8.6",
-    "sweet": "8.1",
-    "rate_count": 45,
+    "got": 7.521739130434782,
+    "cold": 8.543478260869565,
+    "sweet": 8.08695652173913,
+    "rate_count": 46,
     "courseInfo": {
         "id": "382",
         "系所名稱": "通識中心 GE",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 53,
-        "remain_update_time": "2022-06-25T20:10:08.000Z",
-        "count": 8532,
+        "remain_update_time": "2022-07-14T06:20:05.000Z",
+        "count": 9442,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 54,
+        "course_style": 8,
+        "report_hw": 5,
+        "score_style": 6,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -48,6 +51,11 @@
         {
             "id": 7947,
             "comment": "基本上整個學期就是看台灣一些重要事件的影片，有時候老師會請人來演講，期末交兩個主題的心得報告，不能玩手機，但影片都很不錯，都是蠻值得思考的內容。\n期末報告打了10頁，92過，個人推。",
+            "semester": "109-2"
+        },
+        {
+            "id": 8893,
+            "comment": "蠻推薦這門課，可以了解許多以前發生的事情，教授和助教人都很好，看完電影後寫心得也不至於有太大的負擔，分數報酬也不錯!",
             "semester": "109-2"
         },
         {
@@ -996,6 +1004,21 @@
             "cold": 10,
             "user_id": 6633,
             "post_id": 8461,
+            "course_name": "社會與電影",
+            "teacher": "王金壽",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6106,
+            "got": 8,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 4210,
+            "post_id": 8893,
             "course_name": "社會與電影",
             "teacher": "王金壽",
             "like": 0,

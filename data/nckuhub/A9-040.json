@@ -1,8 +1,8 @@
 {
-    "got": "7.5",
-    "cold": "5.5",
-    "sweet": "8.5",
-    "rate_count": 2,
+    "got": 7,
+    "cold": 6.333333333333333,
+    "sweet": 8.333333333333334,
+    "rate_count": 3,
     "courseInfo": {
         "id": "357",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-06-25T23:05:33.000Z",
-        "count": 3254,
+        "remain_update_time": "2022-07-14T04:49:47.000Z",
+        "count": 3569,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8890,
+            "comment": "要求課堂前交出三篇八百字讀書摘要（預習老師上課內容\n期中一千五百字讀書心得\n期末三千字讀書心得\n\n老師給的作業分大多落在八五到一百分之間\n要拿高分要心得的內容打動老師的心\n\n作業都有做 全勤 最後88分過",
+            "semester": "110-1"
+        },
         {
             "id": 7424,
             "comment": "每週上課都要寫反思日誌，期末還要交一篇總反思日誌&期末報告一篇（2000字以上）。老師上課會針對幾個大問題思考（例如：快樂是什麼？）之類的，然後會一直跟學生互動，對這些哲學問題有興趣的人會上得很快樂，但是對哲學問題沒興趣的就不推，點名方式是每堂課傳簽名單，缺席三次教授就直接給你學期分數0分，不輕鬆的課但是分數頗甜，基本上作業好好寫就都80、90分以上。",
@@ -76,6 +82,21 @@
             "post_id": 7424,
             "course_name": "生命哲學與批判性思考-生、死、價值、意義",
             "teacher": "林從一*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6103,
+            "got": 6,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 7116,
+            "post_id": 8890,
+            "course_name": "生命哲學與批判性思考-生、死、價值、意義",
+            "teacher": "林從一",
             "like": 0,
             "dislike": 0,
             "give": 1,

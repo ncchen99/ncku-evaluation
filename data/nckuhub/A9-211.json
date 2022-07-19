@@ -1,8 +1,8 @@
 {
-    "got": "5.0",
-    "cold": "8.3",
-    "sweet": "3.7",
-    "rate_count": 3,
+    "got": 5.5,
+    "cold": 8.75,
+    "sweet": 4.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "400",
         "系所名稱": "通識中心 GE",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2022-06-26T08:18:20.000Z",
-        "count": 5955,
+        "remain_update_time": "2022-07-18T07:01:24.000Z",
+        "count": 6725,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 5,
+        "course_style": 1,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -53,6 +56,11 @@
         {
             "id": 8374,
             "comment": "【上課形式】\n剛開始都是線上課程，高三選修生物會有的內容，高中是三類會比較上手。後期有實體課程，主要去報告和聽同學報告並舉手問問題。\n【評分方式】\n期中考、期末考：查資料線上考，申論題。\n分組報告：根據期中填答狀況，老師會分配1-2人一組，一人報告一人回答台下同學的問題，各五分鐘。\n課堂參與：舉手發言，問有關報告同學問題。\n【心得】\n對於三類組來說是很輕鬆的課，尤其實體課不多，也沒有出席分數，但有課堂參與分數。期末考考有關上課內容，老師說透過期末考就能了解學生的參與程度。但還沒有得到分數，不知道甜不甜，老師有分享過往年的成績分布，大概就是有能力或有努力都會有不錯的成績。",
+            "semester": "110-1"
+        },
+        {
+            "id": 8916,
+            "comment": "上課超涼，不點名考試也不考上課內容，就是報告而已。\n分數看你付出多少，最高分每學期都不是三類背景的，\n感覺主要是看你的回答問題的思維跟學習的態度，在報告盡量展現出來。\n報告算認真，最後96過。",
             "semester": "110-1"
         },
         {
@@ -103,6 +111,21 @@
             "cold": 9,
             "user_id": 7370,
             "post_id": 8460,
+            "course_name": "基因改造食品的好與壞",
+            "teacher": "邱啟洲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6129,
+            "got": 7,
+            "sweet": 6,
+            "cold": 10,
+            "user_id": 8398,
+            "post_id": 8916,
             "course_name": "基因改造食品的好與壞",
             "teacher": "邱啟洲",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8702",
         "系所名稱": "法律系 LAW",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-01T06:54:18.000Z",
-        "count": 137,
+        "remain_update_time": "2022-07-14T02:18:14.000Z",
+        "count": 142,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8898,
+            "comment": "真的會學到東西的課！ 期中和期末都是稅的計算，但並不會非常困難，老師的講解也淺顯易懂。不需要在這門課上花很多時間，最後的分數很甜，適合零基礎的人來修",
+            "semester": "109-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6111,
+            "got": 9,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7516,
+            "post_id": 8898,
+            "course_name": "民法在稅法上的應用",
+            "teacher": "封昌宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

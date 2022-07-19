@@ -1,7 +1,7 @@
 {
-    "got": 6,
-    "cold": 5,
-    "sweet": 6,
+    "got": "6.0",
+    "cold": "5.0",
+    "sweet": "6.0",
     "rate_count": 1,
     "courseInfo": {
         "id": "842",
@@ -31,14 +31,13 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-06-26T23:53:18.000Z",
-        "count": 253,
+        "remain_update_time": "2022-07-12T01:21:52.000Z",
+        "count": 278,
         "admit": null,
-        "comment": 1,
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

@@ -1,8 +1,8 @@
 {
-    "got": "6.7",
-    "cold": "6.3",
-    "sweet": "5.7",
-    "rate_count": 3,
+    "got": 7.25,
+    "cold": 6.5,
+    "sweet": 5.75,
+    "rate_count": 4,
     "courseInfo": {
         "id": "427",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2022-06-26T00:16:13.000Z",
-        "count": 1776,
+        "remain_update_time": "2022-07-16T18:01:15.000Z",
+        "count": 2153,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 5,
+        "course_style": 1,
+        "report_hw": 1,
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 8906,
+            "comment": "老師以簡報上課，有期中考、期末考，還有一次的分組報告作業。分組報告的組員基本上是老師來分，但若你有想要跟誰同一組也可以事先聲明。另外每一堂課都要寫心得單，不過只要簡單寫一點就可以了。\n這門課會學到基本的水汙染、空氣汙染、土壤汙染、資源不足等等的原因及影響，也會提到一些污染防治設施的運作，老師有時候會放「我們的島」給我們看，對非工學院科系的我來說真的學到很多，只不過考試不能openbook會有點小難度就是了。",
+            "semester": "109-1"
+        },
         {
             "id": 4151,
             "comment": "老師每天都會上自己製作的簡報\n內容十分詳盡且都是和現實社會很有接觸的討論\n有三次期中考\n和期末報告\n期中考都是需要努力準備的\n並不輕鬆\n期末報告則是4.5人1組進行20分鐘報告\n很簡單\n每堂課都會寫心得當做點名\n不是太涼的課但是是可以學到東西的課",
@@ -106,6 +114,21 @@
             "post_id": 5003,
             "course_name": "環境污染與防治",
             "teacher": "周佩欣 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6119,
+            "got": 9,
+            "sweet": 6,
+            "cold": 7,
+            "user_id": 8384,
+            "post_id": 8906,
+            "course_name": "環境污染與防治",
+            "teacher": "周佩欣",
             "like": 0,
             "dislike": 0,
             "give": 1,

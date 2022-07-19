@@ -1,8 +1,8 @@
 {
-    "got": "9.0",
-    "cold": "5.4",
-    "sweet": "6.2",
-    "rate_count": 5,
+    "got": 9.166666666666666,
+    "cold": 6.166666666666667,
+    "sweet": 6.833333333333333,
+    "rate_count": 6,
     "courseInfo": {
         "id": "1711",
         "系所名稱": "資訊系 CSIE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "蔡孟勳",
-        "已選課人數": 14,
-        "餘額": 111,
+        "已選課人數": 12,
+        "餘額": 113,
         "時間": "[4]2~4 ",
         "教室": "資訊系館 4264",
         "備註": "額外實習課星期二5~8節, 可自由參加",
@@ -30,19 +30,25 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-06-25T19:56:01.000Z",
-        "count": 899,
+        "comment_num": 5,
+        "remain_update_time": "2022-07-13T03:40:04.000Z",
+        "count": 964,
         "admit": null,
-        "comment": 0,
+        "comment": 6,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
             "id": 8552,
             "comment": "作業和期中期末都有點難到太過分，沒有什麼辨識度，感覺就只是助教在整人而已，老師教得算認真，想學東西可以選，但是考試可能會考到很無助，我最後84",
+            "semester": "110-1"
+        },
+        {
+            "id": 8871,
+            "comment": "老師上的很好，對初學者而言，每週助教的練習題很有幫助。\n助教還會安排實習課，不會可以去問，但有時人很多，要等很久，蠻浪費時間的。\n考試有easy medium hard 各兩題。\n我都只有寫出前面四題，時間有點來不及。\n但期末會大調分，最後100過。",
             "semester": "110-1"
         },
         {
@@ -134,6 +140,21 @@
             "cold": 5,
             "user_id": 8183,
             "post_id": 8740,
+            "course_name": "程式設計（一）",
+            "teacher": "蔡孟勳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6084,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7539,
+            "post_id": 8871,
             "course_name": "程式設計（一）",
             "teacher": "蔡孟勳",
             "like": 0,

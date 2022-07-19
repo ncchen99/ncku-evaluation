@@ -1,8 +1,8 @@
 {
-    "got": "5.0",
-    "cold": "4.0",
-    "sweet": "4.5",
-    "rate_count": 2,
+    "got": 5.666666666666667,
+    "cold": 4.666666666666667,
+    "sweet": 5.333333333333333,
+    "rate_count": 3,
     "courseInfo": {
         "id": "8755",
         "系所名稱": "電機系 EE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-06-27T20:11:49.000Z",
-        "count": 171,
+        "remain_update_time": "2022-07-13T17:11:33.000Z",
+        "count": 179,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8876,
+            "comment": "分數占比\n三次段考各25%\n小考15%\n作業10%\n\n考古蠻好用\n段考常出現考古題\n三次段考 89 98 77\n最後學期成績90\n\n不過有些人覺得張簡更好\n絕對不要修電機雙ㄌ一ˇ的",
+            "semester": "109-2"
+        },
         {
             "id": 8154,
             "comment": "老師上課用ppt 上課，口齒清晰，老師人也很有耐心，每上完一個章節就會有小考，考試不難，通常都是講義的題目，期中考注重觀念，不能硬記題目",
@@ -74,6 +80,21 @@
             "cold": 6,
             "user_id": 6232,
             "post_id": 8154,
+            "course_name": "電機概論",
+            "teacher": "謝旻甫",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6089,
+            "got": 7,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 5615,
+            "post_id": 8876,
             "course_name": "電機概論",
             "teacher": "謝旻甫",
             "like": 0,

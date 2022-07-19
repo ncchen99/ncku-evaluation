@@ -1,8 +1,8 @@
 {
-    "got": "6.5",
-    "cold": "7.5",
-    "sweet": "8.1",
-    "rate_count": 79,
+    "got": 6.475,
+    "cold": 7.55,
+    "sweet": 8.0875,
+    "rate_count": 80,
     "courseInfo": {
         "id": "363",
         "系所名稱": "通識中心 GE",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 94,
-        "remain_update_time": "2022-06-25T19:13:39.000Z",
-        "count": 10185,
+        "remain_update_time": "2022-07-18T00:58:10.000Z",
+        "count": 11484,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 95,
+        "course_style": 10,
+        "report_hw": 3,
+        "score_style": 10,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -53,6 +56,11 @@
         {
             "id": 8590,
             "comment": "分數真的給得很迷==\n不推                                                                                            ",
+            "semester": "110-1"
+        },
+        {
+            "id": 8910,
+            "comment": "涼又甜的好課\n整學期只有一個分組報告加一個期末考試\n期末題目會先洩題\n再來就是上課也很多加分機會\n不管會不會跟著大家舉手就對了",
             "semester": "110-1"
         },
         {
@@ -1730,6 +1738,21 @@
             "cold": 8,
             "user_id": 8198,
             "post_id": 8767,
+            "course_name": "音樂舞蹈戲劇",
+            "teacher": "林怡薇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6123,
+            "got": 6,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7703,
+            "post_id": 8910,
             "course_name": "音樂舞蹈戲劇",
             "teacher": "林怡薇",
             "like": 0,

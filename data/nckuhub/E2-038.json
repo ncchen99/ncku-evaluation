@@ -1,8 +1,8 @@
 {
-    "got": "4.8",
-    "cold": "8.5",
-    "sweet": "8.5",
-    "rate_count": 4,
+    "got": 4.6,
+    "cold": 8.8,
+    "sweet": 8.8,
+    "rate_count": 5,
     "courseInfo": {
         "id": "1112",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "李國君",
-        "已選課人數": 10,
-        "餘額": 50,
+        "已選課人數": 9,
+        "餘額": 51,
         "時間": "[2]1 [3]7~8 ",
         "教室": "電機系館 92185",
         "備註": "",
@@ -30,16 +30,22 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-06-26T05:10:16.000Z",
-        "count": 443,
+        "comment_num": 3,
+        "remain_update_time": "2022-07-17T19:39:05.000Z",
+        "count": 483,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8909,
+            "comment": "上課內容簡單\n考試也簡單還能帶大抄\n作業也是三班內最簡單的\n上課也有很多加分機會\n但是老師脾氣有點怪\n盡量不要和他爭辯比較好\n",
+            "semester": "110-1"
+        },
         {
             "id": 8310,
             "comment": "雖然是全英文上課，但考試好過，它會讓你做一張小抄來考試，雖然有限大小，但已經足夠，而且考試很簡單，但他上全英文我真的比較難學到甚麼東西。",
@@ -109,6 +115,21 @@
             "cold": 10,
             "user_id": 7854,
             "post_id": 8311,
+            "course_name": "計算機概論（一）",
+            "teacher": "李國君",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6122,
+            "got": 4,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7703,
+            "post_id": 8909,
             "course_name": "計算機概論（一）",
             "teacher": "李國君",
             "like": 0,

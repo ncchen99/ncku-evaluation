@@ -1,8 +1,8 @@
 {
-    "got": "7.5",
-    "cold": "8.3",
-    "sweet": "8.6",
-    "rate_count": 11,
+    "got": 7.666666666666667,
+    "cold": 8.333333333333334,
+    "sweet": 8.666666666666666,
+    "rate_count": 12,
     "courseInfo": {
         "id": "413",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 14,
-        "remain_update_time": "2022-06-25T23:18:28.000Z",
-        "count": 2965,
+        "remain_update_time": "2022-07-13T19:26:45.000Z",
+        "count": 3708,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 15,
+        "course_style": 3,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 3,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 8880,
+            "comment": "因為疫情所以全線上，會逐一介紹身體各個部位常見的運動傷害，這學期期末考改成1000字報告，題目是介紹一種球類的運動傷害，學期間有6次的小作業，都很簡單，是一門學的到東西又部會負擔很重的課，最後92過。",
+            "semester": "110-1"
+        },
         {
             "id": 8660,
             "comment": "這學期是線上課，上課很輕鬆，自己在moodle上用教授提供的密碼簽到，不用開鏡頭，算是很涼的課，沒有期中考期末考。只是最後一次上課的時候老師要教實作的部分，每個人都要開鏡頭點名，因為沒有期末考就用報告代替，學期間有五次課堂作業，算沒有難度，大部分都是評估自己的身體部位適不適合運動，或是簡單介紹自己的運動傷害史...\n我上課全到，作業算滿認真做的啦，最後100過。\n（成績分布： 100：3 ; 90～100：30 ; 80～90：51)\n認真想學東西的，這堂課很有幫助，老師上課非常認真，推薦給常常在運動或有參加校隊的人。\n",
@@ -281,6 +289,21 @@
             "cold": 9,
             "user_id": 6899,
             "post_id": 8660,
+            "course_name": "運動傷害防護概論",
+            "teacher": "蔡一如",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6093,
+            "got": 9,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 8314,
+            "post_id": 8880,
             "course_name": "運動傷害防護概論",
             "teacher": "蔡一如",
             "like": 0,

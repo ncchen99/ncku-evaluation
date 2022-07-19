@@ -1,8 +1,8 @@
 {
-    "got": 0,
-    "cold": 0,
-    "sweet": 0,
-    "rate_count": 0,
+    "got": "8.3",
+    "cold": "6.8",
+    "sweet": "8.8",
+    "rate_count": 4,
     "courseInfo": {
         "id": "416",
         "系所名稱": "通識中心 GE",
@@ -31,16 +31,13 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 5,
-        "remain_update_time": "2022-07-07T23:56:10.000Z",
-        "count": 1763,
+        "remain_update_time": "2022-07-11T23:25:27.000Z",
+        "count": 1904,
         "admit": null,
-        "comment": 6,
-        "course_style": 1,
+        "comment": 0,
+        "course_style": 0,
         "report_hw": 0,
-        "score_style": 1,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "score_style": 0
     },
     "comment": [
         {
@@ -78,6 +75,67 @@
             "score_style": "出席45% 平時測驗45% 分組報告10%"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 858,
+            "got": 7,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 1664,
+            "post_id": 3439,
+            "course_name": "檢驗醫學概論",
+            "teacher": "葉才明",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 1196,
+            "got": 9,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 669,
+            "post_id": 3777,
+            "course_name": "檢驗醫學概論",
+            "teacher": "葉才明",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 1534,
+            "got": 9,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 2133,
+            "post_id": 4115,
+            "course_name": "檢驗醫學概論",
+            "teacher": "葉才明",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6065,
+            "got": 8,
+            "sweet": 8,
+            "cold": 4,
+            "user_id": 6334,
+            "post_id": 8852,
+            "course_name": "檢驗醫學概論",
+            "teacher": "葉才明*,傅子芳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

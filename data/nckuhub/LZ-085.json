@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 9,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "2594",
         "系所名稱": "理學院研究所 COS",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-26T02:58:01.000Z",
-        "count": 207,
+        "remain_update_time": "2022-07-15T00:20:20.000Z",
+        "count": 224,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8900,
+            "comment": "因為疫情改為線上上課，教學內容都是預錄影片，老師講解清晰，每個部分都有練習題，在上完一部分後可以馬上練習，助教也會協助引導跟檢查作答狀況，每天回家有作業，下課前也要小考，對於沒有程式底子的到中後段可能會稍微跟不上。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6113,
+            "got": 8,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 4327,
+            "post_id": 8900,
+            "course_name": "Python 程式設計入門",
+            "teacher": "陳培殷*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

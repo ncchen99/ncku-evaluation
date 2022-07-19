@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 9,
+    "sweet": 8.333333333333334,
+    "rate_count": 3,
     "courseInfo": {
         "id": "1555",
         "系所名稱": "都計系 UP",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "李子璋",
-        "已選課人數": 54,
-        "餘額": 0,
+        "已選課人數": 49,
+        "餘額": 1,
         "時間": "[2]2~4 ",
         "教室": "都計系館 50102",
         "備註": "",
@@ -31,15 +31,78 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-06-27T08:37:23.000Z",
-        "count": 94,
+        "remain_update_time": "2022-07-17T23:36:35.000Z",
+        "count": 120,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8889,
+            "comment": "-上課形式:PPT\n-評分方式:不點名、兩次作業佔40%、三次小考佔60%\n          +作業一次是小組作業，一次是個人作業。小組作業會配合大二實習課進行，個人作業就是交報告。\n          +考試基本上有看應該就不會太慘，老師會把PPT和上課錄影都放在MOODLE\n-老師人非常好，可以做自己的事。",
+            "semester": "110-1"
+        },
+        {
+            "id": 8895,
+            "comment": "老師是出了名的大好人 基本上考試前有讀書很難被當掉\n但也因為管得很鬆 所以不會有太多人認真聽\n不過其實上課的內容是非常清楚的 如果認真聽會學到很多東西\n老師教學講求的是應用 對他而言會用比會考還要重要\n也因此考試都不會太難",
+            "semester": "110-1"
+        },
+        {
+            "id": 8915,
+            "comment": "課程介紹多種關於都市中的重要的交通規劃理論，\n老師講解非常清楚明瞭，關於交通規畫的各種理論皆能有問必答\n\n期中期末考的題目皆為上課時的重點，各項作業也能在將來提供規劃師初步經驗，認真操作可以得到不錯的分數",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6102,
+            "got": 7,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 8378,
+            "post_id": 8889,
+            "course_name": "都市交通計劃",
+            "teacher": "李子璋",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6108,
+            "got": 9,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 6666,
+            "post_id": 8895,
+            "course_name": "都市交通計劃",
+            "teacher": "李子璋",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6128,
+            "got": 8,
+            "sweet": 7,
+            "cold": 7,
+            "user_id": 5396,
+            "post_id": 8915,
+            "course_name": "都市交通計劃",
+            "teacher": "李子璋",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

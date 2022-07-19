@@ -1,8 +1,8 @@
 {
-    "got": "5.0",
-    "cold": "5.0",
-    "sweet": "5.0",
-    "rate_count": 1,
+    "got": 6,
+    "cold": 5.5,
+    "sweet": 4.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "1130",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "郭文光",
-        "已選課人數": 0,
-        "餘額": 70,
+        "已選課人數": 61,
+        "餘額": 9,
         "時間": "[5]6~8 ",
         "教室": "電機系館 92185",
         "備註": "",
@@ -30,19 +30,25 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-06-25T23:45:21.000Z",
-        "count": 486,
+        "comment_num": 1,
+        "remain_update_time": "2022-07-13T17:17:15.000Z",
+        "count": 669,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
             "id": 8782,
             "comment": "老師很和藹可親 但是考試真的很難 \n周遭的人有人認為沒學到東西\n有人認為收穫還不錯\n如果想要比較輕鬆的考試的話\n應該要去李班",
+            "semester": "110-1"
+        },
+        {
+            "id": 8877,
+            "comment": "好老師\n固定每週開放一小時問問題\n分數占比\n五次作業   總共 20%\n前兩次期中考 各 25%\n期末考         30%\n\n推薦給要不到考古的人修\n因為有考古沒用\n題目和考古完全不一樣\n",
             "semester": "110-1"
         }
     ],
@@ -54,6 +60,21 @@
             "cold": 5,
             "user_id": 6701,
             "post_id": 8782,
+            "course_name": "機率與統計",
+            "teacher": "郭文光",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6090,
+            "got": 7,
+            "sweet": 4,
+            "cold": 6,
+            "user_id": 5615,
+            "post_id": 8877,
             "course_name": "機率與統計",
             "teacher": "郭文光",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "5.3",
-    "cold": "8.0",
-    "sweet": "6.3",
-    "rate_count": 3,
+    "got": 5.75,
+    "cold": 8,
+    "sweet": 6.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "8551",
         "系所名稱": "通識中心 GE",
@@ -31,18 +31,24 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-06-26T09:25:49.000Z",
-        "count": 1269,
+        "remain_update_time": "2022-07-14T05:19:32.000Z",
+        "count": 1306,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
             "id": 7939,
             "comment": ">>>> 上課形式：在大講堂上課，有百人，老師每週講一個主題，對著投影片說，過程中使用zuvio做問答共4題。個人實在不是很喜歡老師的上課風格，水水的，並沒有學習的紮實感，倒是可以做自己的事，不會管。\n>>>> 考試：第一次期中老師出的比較難，沒上課的情況下，自己讀投影片最後考80左右，但後來有很多同學反應，所以給了許多加分機會，期末也變成4題簡答題。前述的加分機會包含：器材心得、電影心得、實驗參與。最後9X過。",
+            "semester": "109-2"
+        },
+        {
+            "id": 8892,
+            "comment": "想要高分的不推薦修這門課，平時上課都蠻輕鬆的，可是考試我覺得蠻困難的而且都是用英文，自己是不太喜歡背科所以考試分數都不高，最後60幾分通過!",
             "semester": "109-2"
         },
         {
@@ -94,6 +100,21 @@
             "cold": 7,
             "user_id": 5399,
             "post_id": 8134,
+            "course_name": "認知神經科學導論",
+            "teacher": "龔俊嘉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6105,
+            "got": 7,
+            "sweet": 6,
+            "cold": 8,
+            "user_id": 4210,
+            "post_id": 8892,
             "course_name": "認知神經科學導論",
             "teacher": "龔俊嘉",
             "like": 0,

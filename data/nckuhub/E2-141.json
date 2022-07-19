@@ -1,8 +1,8 @@
 {
-    "got": "5.7",
-    "cold": "9.7",
-    "sweet": "9.3",
-    "rate_count": 3,
+    "got": 5.5,
+    "cold": 9.5,
+    "sweet": 9.5,
+    "rate_count": 4,
     "courseInfo": {
         "id": "1165",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "黃世杰",
-        "已選課人數": 0,
-        "餘額": 60,
+        "已選課人數": 60,
+        "餘額": 0,
         "時間": "[3]7~9 ",
         "教室": "電機系館 92383",
         "備註": "網路選課限60人",
@@ -30,16 +30,22 @@
         "跨領域學分學程": "跨維綠能材料學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-06-25T19:45:59.000Z",
-        "count": 365,
+        "comment_num": 3,
+        "remain_update_time": "2022-07-15T05:49:23.000Z",
+        "count": 490,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8901,
+            "comment": "因為疫情改線上，看不到老師表演魔術，有一次期中考跟一次期末考，都是moodle選擇題，考前還會提示考試重點，有讀書都可以拿到蠻高的分數，學期初有幾份作業，答案都是上網拼湊出來的，答案有時候不太好找，但作業成績好像不太重要，考試考高自然而然分數就滿了",
+            "semester": "110-1"
+        },
         {
             "id": 3772,
             "comment": "老師很有趣，雖然上的不太好，不過期中不難，就把講義有寫的看完被起來就好了，講義也不厚。\n只有一次期中+期末報告，報告其實比較像影片發表，拍得越好笑教授越開心XD\n上課內容不難，只是雜而已。",
@@ -96,6 +102,21 @@
             "post_id": 7520,
             "course_name": "電力設備",
             "teacher": "黃世杰 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6114,
+            "got": 5,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 4327,
+            "post_id": 8901,
+            "course_name": "電力設備",
+            "teacher": "黃世杰",
             "like": 0,
             "dislike": 0,
             "give": 1,

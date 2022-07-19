@@ -1,8 +1,8 @@
 {
-    "got": "6.9",
-    "cold": "7.8",
-    "sweet": "8.7",
-    "rate_count": 78,
+    "got": 6.886075949367089,
+    "cold": 7.7974683544303796,
+    "sweet": 8.708860759493671,
+    "rate_count": 79,
     "courseInfo": {
         "id": "365",
         "系所名稱": "通識中心 GE",
@@ -30,14 +30,17 @@
         "跨領域學分學程": "美學與藝術跨域學分學程",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 86,
-        "remain_update_time": "2022-06-26T02:05:05.000Z",
-        "count": 7943,
+        "comment_num": 87,
+        "remain_update_time": "2022-07-16T01:04:02.000Z",
+        "count": 8777,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 88,
+        "course_style": 8,
+        "report_hw": 4,
+        "score_style": 5,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -73,6 +76,11 @@
         {
             "id": 8640,
             "comment": "前幾周報告、有才藝表演、考試高分試卷有被念到，最後98過\n課程最初和最尾有小組報告，老師的上課時數不長，但上課內容挺有趣，要注意的是小組報告時，老師會默默站上台拿小本本記人",
+            "semester": "110-1"
+        },
+        {
+            "id": 8904,
+            "comment": "因疫情影響，取消實體考試，改用報告形式，我們這組我自認為沒做得很好\n我自己是有2次才藝表演，每次加分都有舉手，最後98過，但好像蠻多人都98的",
             "semester": "110-1"
         },
         {
@@ -1665,6 +1673,21 @@
             "cold": 8,
             "user_id": 6864,
             "post_id": 8796,
+            "course_name": "西方古典音樂",
+            "teacher": "林怡薇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6117,
+            "got": 5,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 3831,
+            "post_id": 8904,
             "course_name": "西方古典音樂",
             "teacher": "林怡薇",
             "like": 0,

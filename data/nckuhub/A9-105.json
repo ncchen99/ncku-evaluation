@@ -1,8 +1,8 @@
 {
-    "got": "7.4",
-    "cold": "8.4",
-    "sweet": "8.2",
-    "rate_count": 41,
+    "got": 7.465116279069767,
+    "cold": 8.30232558139535,
+    "sweet": 8.30232558139535,
+    "rate_count": 43,
     "courseInfo": {
         "id": "379",
         "系所名稱": "通識中心 GE",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 35,
-        "remain_update_time": "2022-06-26T00:21:56.000Z",
-        "count": 8549,
+        "remain_update_time": "2022-07-14T06:12:54.000Z",
+        "count": 9815,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 36,
+        "course_style": 2,
+        "report_hw": 1,
+        "score_style": 2,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -48,6 +51,11 @@
         {
             "id": 8355,
             "comment": "上課形式：線上同步或非同步\n評分：75%每週作業\n           25%影片作業\n內容：老師非常的親民，而且能用淺顯易懂的方式講解心理學，最後100分過，大推",
+            "semester": "110-1"
+        },
+        {
+            "id": 8891,
+            "comment": "75趴作業25趴期末影片發表，非常推薦想要高分的人來修，想學習心理學相關領域也非常適合，每堂課都有不同主題可以學習，或是從外面請不同老師來演講，作業都非常簡單不刁難人!",
             "semester": "110-1"
         },
         {
@@ -833,6 +841,36 @@
             "post_id": 8538,
             "course_name": "心理學",
             "teacher": "林君昱*,王駿濠",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6081,
+            "got": 8,
+            "sweet": 10,
+            "cold": 4,
+            "user_id": 6940,
+            "post_id": 8868,
+            "course_name": "拖延心理學",
+            "teacher": "林君昱",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6104,
+            "got": 9,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 4210,
+            "post_id": 8891,
+            "course_name": "心理學",
+            "teacher": "林君昱",
             "like": 0,
             "dislike": 0,
             "give": 1,

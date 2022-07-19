@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1115",
         "系所名稱": "電機系 EE",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-06-26T22:45:39.000Z",
-        "count": 229,
+        "comment_num": 0,
+        "remain_update_time": "2022-07-11T18:54:54.000Z",
+        "count": 233,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8875,
+            "comment": "※哪個老師開的課基本沒差太多\n分數曲線80:9、90:17、<80:0、>=100:0\n需要會焊接，建議先在家練習、買一支焊槍(實驗室會提供)\n需要會洗電路板的技巧，這個部分挫折感會較多\n不能翹課\n實驗報告請務必找學長姐的來參考，不然會寫得很累",
+            "semester": "107-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6088,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 8367,
+            "post_id": 8875,
+            "course_name": "電工實驗",
+            "teacher": "陳建富",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

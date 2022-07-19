@@ -1,8 +1,8 @@
 {
-    "got": "9.6",
-    "cold": "7.4",
-    "sweet": "7.6",
-    "rate_count": 8,
+    "got": 9.6,
+    "cold": 7.9,
+    "sweet": 8.1,
+    "rate_count": 10,
     "courseInfo": {
         "id": "1438",
         "系所名稱": "水利系 HOE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "郭鴻文",
-        "已選課人數": 9,
-        "餘額": 111,
+        "已選課人數": 8,
+        "餘額": 112,
         "時間": "[2]5~6 [5]3 ",
         "教室": "共同教室 A1307(資源後)",
         "備註": "演習課教室與分班資訊，老師或助教將於第一堂微積分公布，請選課同學多加留意",
@@ -31,13 +31,14 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 7,
-        "remain_update_time": "2022-07-04T07:27:47.000Z",
-        "count": 180,
+        "remain_update_time": "2022-07-18T00:16:53.000Z",
+        "count": 206,
         "admit": null,
-        "comment": 0,
+        "comment": 9,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
@@ -46,8 +47,18 @@
             "semester": "110-1"
         },
         {
+            "id": 8867,
+            "comment": "因為疫情，課程影片會錄影上傳moodle，老師觀念講得很清晰。\n考試的部分，全部都是老師勾的例題，沒有變化題，很簡單大家都考很高。\n最後95過，推這堂微積分。\n",
+            "semester": "110-1"
+        },
+        {
             "id": 8614,
             "comment": "小考30%\n期中30%\n期末30%\n作業10%\n老師教得不錯 共4次小考 都是老師勾的題目 數字不會變 有準備就能拿不錯的成績\n期中期末都不難 也幾乎都是老師勾的題目 部分變動數字 部分不變 \n作業每周十題 老師只會取幾次拿來算作業成績\n最後91過",
+            "semester": "110-1"
+        },
+        {
+            "id": 8911,
+            "comment": "老師算是很會教\n小考期中期末也都是從作業出\n另外就是因為這學期都是錄影片\n所以老師進度變得比較快\n整體而言很推薦",
             "semester": "110-1"
         },
         {
@@ -189,6 +200,36 @@
             "cold": 6,
             "user_id": 7335,
             "post_id": 8742,
+            "course_name": "微積分（一）",
+            "teacher": "郭鴻文",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6080,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7539,
+            "post_id": 8867,
+            "course_name": "微積分（一）",
+            "teacher": "郭鴻文",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6124,
+            "got": 9,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7703,
+            "post_id": 8911,
             "course_name": "微積分（一）",
             "teacher": "郭鴻文",
             "like": 0,
