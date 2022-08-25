@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 9,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9119",
         "系所名稱": "統計系 STAT",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-12T23:20:26.000Z",
-        "count": 204,
+        "remain_update_time": "2022-07-18T19:22:07.000Z",
+        "count": 208,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8937,
+            "comment": "評分方式:\n\n出席20% 期中考40% 期末考40%\n\n教材:\n\n商事法, 鄭玉波教授, 弘揚\n\n上課方式:\n\n前期實體上課，後期因疫情轉線上，老師會用投影片上課，之後會把ppt傳到moodle\n\n點名方式:\n\n實體時會傳座位表讓大家簽名\n\n考試方式:\n\n期中考採實體，申論題，總共五題，有好好看ppt就能回答，但真的要用心背專有名詞及部分法條。期末因疫情取消考試改用書面報告方式回答問題。\n\n報告方式:\n\n無\n\n作業方式:\n\n無\n\n心得:\n\n老師人很好，上課會展現幽默的一面，考試也會調分，只要同學有努力老師就不太會去當人。不過，因為之後會變成必修課程，所以難度應該會提高。",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6150,
+            "got": 8,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 6296,
+            "post_id": 8937,
+            "course_name": "商事法",
+            "teacher": "林佑鴻",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

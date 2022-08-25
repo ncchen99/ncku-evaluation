@@ -1,8 +1,8 @@
 {
-    "got": "8.7",
-    "cold": "3.0",
-    "sweet": "7.0",
-    "rate_count": 3,
+    "got": 8,
+    "cold": 4,
+    "sweet": 7.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "9194",
         "系所名稱": "醫學系 MED",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-07-13T06:24:37.000Z",
-        "count": 108,
+        "remain_update_time": "2022-07-22T21:38:07.000Z",
+        "count": 114,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 4,
+        "course_style": 1,
+        "report_hw": 1,
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8966,
+            "comment": "一個學期總共有三個大演講。老師會在上課的時候分享演講的技巧，也會提供自製的簡報，很好用。課堂間也有許多遊戲式互動。",
+            "semester": "110-2"
+        },
         {
             "id": 3131,
             "comment": "形式:老師授課+學生presentation\n作業:三次大演講\n考試:一次期中考\n心得:頗硬的，講稿要自己寫自己背，每次要上台前壓力都超級大，而且老師評分項目很細，很可怕很可怕很可怕。但是收穫很大，可以逼自己勇敢站在台上，面對觀眾大聲講話，而且直接跳一級用英文講。後來其他課程必須上台講話完全是小case哈哈",
@@ -75,29 +81,14 @@
             "hard": 1
         },
         {
-            "id": 550,
-            "got": 10,
-            "sweet": 7,
-            "cold": 2,
-            "user_id": 1742,
-            "post_id": 3131,
-            "course_name": "英語演說",
-            "teacher": "石明人",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 598,
+            "id": 6179,
             "got": 7,
-            "sweet": 6,
-            "cold": 6,
-            "user_id": 1777,
-            "post_id": 3179,
+            "sweet": 7,
+            "cold": 7,
+            "user_id": 6129,
+            "post_id": 8966,
             "course_name": "英語演說",
-            "teacher": "石明人",
+            "teacher": "石明人*",
             "like": 0,
             "dislike": 0,
             "give": 1,

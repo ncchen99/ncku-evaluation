@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "6.0",
-    "sweet": "6.0",
-    "rate_count": 1,
+    "got": 9.333333333333334,
+    "cold": 6,
+    "sweet": 7,
+    "rate_count": 3,
     "courseInfo": {
         "id": "8963",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,26 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-12T05:52:36.000Z",
-        "count": 115,
+        "remain_update_time": "2022-08-15T02:15:06.000Z",
+        "count": 129,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9011,
+            "comment": "教授教的非常的好，不過有時候會教太快，這個時候，可以按「暫停鍵」將教授暫停，然後請教授再講一次，\n考兩次期中，一次期末，每個禮拜會有作業，都要寫，不會的話可以跟同學討論。",
+            "semester": "110-2"
+        },
+        {
+            "id": 9004,
+            "comment": "老師人很好，教得也很仔細。\n上課有不懂的地方都可以直接舉手問老師，\n覺得哪個地方講太快了和老師反應，老師會立刻放慢語速，\n平時作業都有自己寫絕對跟得上進度，\n也可以額外約時間問教授問題，\n期中期末基本上都是出原文書上的題目，\n只要把題目寫完，細心作答90分以上不是問題，\n老師不會調分，但也不會刻意刁難把考卷出很難，\n所以有認真上課、發問、做題目，90UP不是問題。\n",
+            "semester": "110-1"
+        },
         {
             "id": 8813,
             "comment": "這堂課教的內容是電路學1-6章，考三次考試，配分是期中25%*2+期末30%+作業20%，因為不調分，所以分數沒有很甜，90分大概第三名而已。每堂課都會點名，但不算在學期分數內，可能是老師用來參考是否要救及格邊緣的同學，整體算一門有收穫的課程。",
@@ -54,6 +65,36 @@
             "cold": 6,
             "user_id": 8065,
             "post_id": 8813,
+            "course_name": "電路學",
+            "teacher": "江佩如",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6217,
+            "got": 10,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 8571,
+            "post_id": 9004,
+            "course_name": "電路學",
+            "teacher": "江佩如",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6224,
+            "got": 10,
+            "sweet": 7,
+            "cold": 5,
+            "user_id": 7618,
+            "post_id": 9011,
             "course_name": "電路學",
             "teacher": "江佩如",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "8.4",
-    "cold": "5.9",
-    "sweet": "8.1",
-    "rate_count": 15,
+    "got": 8.5,
+    "cold": 6,
+    "sweet": 8.1875,
+    "rate_count": 16,
     "courseInfo": {
         "id": "385",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 21,
-        "remain_update_time": "2022-07-11T23:41:45.000Z",
-        "count": 3907,
+        "remain_update_time": "2022-08-23T17:14:14.000Z",
+        "count": 4398,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 22,
+        "course_style": 5,
+        "report_hw": 1,
+        "score_style": 4,
+        "semester": null,
+        "exam_style": null,
+        "course_need": null
     },
     "comment": [
+        {
+            "id": 9071,
+            "comment": "因為疫情有一半是線上，\n不過都是用PPT講解，所以上課方式差不多。\n成績計算為一次期中考、一次期末考和期末英文分組報告。\n考試方面只要上課大概聽懂和考前複習一下即可。\n期末報告也蠻簡單的。\n上課回答問題就可加分，不強制。",
+            "semester": "110-2"
+        },
         {
             "id": 7633,
             "comment": "老師上課認真，可以學到很多東西，有辦法從不同的角度觀看這個世界，學習如何跟人溝通，修完這堂課真的讓自己的EQ增加了不少，老師人也很好，分數給的很優質，很涼，上課可以睡覺沒關係，冷氣也很舒服，不過每堂課結束有小考試，但是不難，我每題都答對。",
@@ -380,6 +388,21 @@
             "cold": 10,
             "user_id": 6620,
             "post_id": 7633,
+            "course_name": "經濟學概論",
+            "teacher": "翁明宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6284,
+            "got": 10,
+            "sweet": 10,
+            "cold": 7,
+            "user_id": 3519,
+            "post_id": 9071,
             "course_name": "經濟學概論",
             "teacher": "翁明宏",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "9.0",
-    "cold": "7.0",
-    "sweet": "7.0",
-    "rate_count": 1,
+    "got": 8.5,
+    "cold": 6.5,
+    "sweet": 7.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "9095",
         "系所名稱": "醫工系 BME",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-12T10:56:55.000Z",
-        "count": 85,
+        "remain_update_time": "2022-08-23T07:46:31.000Z",
+        "count": 93,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9077,
+            "comment": "開給醫工系學生修的嵌入式系統，就是一直實作嵌入式系統的各式元件，主要都是在arduino上進行，講課極少，若有上過數位邏輯或計算機組織會輕鬆很多",
+            "semester": "110-2"
+        },
         {
             "id": 7199,
             "comment": "總共會作約莫10個實驗，以及一個final project，會以小組的形式進行，分數還不錯，也能學到蠻多東西的。",
@@ -54,6 +60,21 @@
             "cold": 7,
             "user_id": 5751,
             "post_id": 7199,
+            "course_name": "嵌入式系統",
+            "teacher": "林哲偉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6290,
+            "got": 8,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 3433,
+            "post_id": 9077,
             "course_name": "嵌入式系統",
             "teacher": "林哲偉",
             "like": 0,

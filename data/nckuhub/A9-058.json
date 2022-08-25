@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "8.0",
-    "sweet": "7.0",
-    "rate_count": 3,
+    "got": 8.25,
+    "cold": 8.25,
+    "sweet": 7.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "8542",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-07-11T23:50:02.000Z",
-        "count": 1461,
+        "remain_update_time": "2022-07-23T12:32:26.000Z",
+        "count": 1498,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8963,
+            "comment": "老師人很好，上課很涼不要玩手機就好。對於台灣電影的介紹很透徹，也可以看很多台灣有趣的電影。老師很強調出席但實際點名沒有幾次。報告要好好準備。期末考很難（但自己不會知道分數）所以其他部分的分數要想辦法都拿到。",
+            "semester": "110-2"
+        },
         {
             "id": 4233,
             "comment": "上課每2週會播放一次電影，隔週小組上台報告，這是期中成績，期末則是考播映過的電影的申論題（兩部電影的比較之類的），不定時點名但未到3次平時成績0分",
@@ -94,6 +100,21 @@
             "cold": 10,
             "user_id": 3057,
             "post_id": 5319,
+            "course_name": "解碼台灣當代電影",
+            "teacher": "劉乃慈",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6176,
+            "got": 9,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 6129,
+            "post_id": 8963,
             "course_name": "解碼台灣當代電影",
             "teacher": "劉乃慈",
             "like": 0,

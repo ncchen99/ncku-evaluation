@@ -1,8 +1,8 @@
 {
-    "got": "6.3",
-    "cold": "8.0",
-    "sweet": "8.6",
-    "rate_count": 22,
+    "got": 6.3478260869565215,
+    "cold": 8,
+    "sweet": 8.608695652173912,
+    "rate_count": 23,
     "courseInfo": {
         "id": "471",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "古承宗",
-        "已選課人數": 0,
-        "餘額": 219,
+        "已選課人數": 1,
+        "餘額": 218,
         "時間": "[3]3~4 ",
         "教室": "資訊大樓 格致廳大講堂",
         "備註": "限大一修習",
@@ -31,13 +31,16 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 26,
-        "remain_update_time": "2022-07-11T22:38:38.000Z",
-        "count": 3007,
+        "remain_update_time": "2022-08-14T23:32:11.000Z",
+        "count": 3186,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 27,
+        "course_style": 4,
+        "report_hw": 1,
+        "score_style": 4,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
         {
@@ -48,6 +51,11 @@
         {
             "id": 8732,
             "comment": "遠距要記得點名，心得要寫四個，密集作業三個，都有寫分數不會差～\n有時候認真聽可以學到一些東西！\n個人覺得心得寫上課聽到的東西分數還蠻高的～\n要養成寫心得的習慣，不然期末要連寫四篇！",
+            "semester": "110-1"
+        },
+        {
+            "id": 9006,
+            "comment": "每個禮拜聽一堂演講課，一堂兩小時，\n內容包含各個層面，聽完之後回家寫一篇800字的心得，\n然後盡量是要全勤，全勤分數佔10趴，給分算甜，\n因為我最後一堂課睡過頭，沒拿到全勤分，最後82分過。",
             "semester": "110-1"
         },
         {
@@ -509,6 +517,21 @@
             "cold": 7,
             "user_id": 7617,
             "post_id": 8732,
+            "course_name": "通識專題講座-大學導航",
+            "teacher": "古承宗",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6219,
+            "got": 8,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 7618,
+            "post_id": 9006,
             "course_name": "通識專題講座-大學導航",
             "teacher": "古承宗",
             "like": 0,

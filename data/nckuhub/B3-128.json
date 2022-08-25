@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 9,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
-        "id": 8600,
+        "id": "8600",
         "系所名稱": "歷史系 HIS",
         "系號": "B3",
         "選課序號": "B3128",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-18T19:22:06.000Z",
-        "count": 144,
+        "remain_update_time": "2022-07-20T18:03:43.000Z",
+        "count": 146,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 8940,
+            "comment": "評分方式:\n\n三次作業加期末書面報告的分數平均起來\n\n教材:\n\nThe Landmark Thucydides (1996, NY) 及其他文獻，還有老師的ppt\n\n上課方式:\n\n實體上課，後期因疫情轉線上，用投影片上課。\n\n點名方式:\n\n無\n\n考試方式:\n\n無\n\n報告方式:\n\n期末書面報告，有四個大題各自分成數個小題，每個大題都有限字數，大致上加起來會在7500字左右。\n\n作業方式:\n\n共三次，第一、二次有三個題目，字數2000左右；第三次有六個題目，字數約2500上下。\n\n心得:\n\n老師的講話速度偏快，但注意聽還是可以聽的懂，有問題老師也很樂意回答。老師期末也會調分，所以只要別太混就不太會被當。",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6153,
+            "got": 9,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 6296,
+            "post_id": 8940,
+            "course_name": "修昔底德與伯羅奔尼撒戰爭",
+            "teacher": "翁嘉聲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

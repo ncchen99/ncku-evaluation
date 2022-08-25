@@ -1,10 +1,10 @@
 {
-    "got": "8.0",
-    "cold": "5.0",
-    "sweet": "9.0",
-    "rate_count": 1,
+    "got": 8,
+    "cold": 6,
+    "sweet": 9,
+    "rate_count": 2,
     "courseInfo": {
-        "id": 8419,
+        "id": "8419",
         "系所名稱": "體育室 OPE",
         "系號": "A2",
         "選課序號": "A2008",
@@ -34,12 +34,18 @@
         "remain_update_time": "2022-07-18T19:21:18.000Z",
         "count": 68,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8946,
+            "comment": "不涼 下課中間只休息五分鐘 但老師很用心\n最後九十分過\n連我這種肢體障礙都可以學會\n動作會重複做很多次，所以不用擔心\n",
+            "semester": "110-2"
+        },
         {
             "id": 3713,
             "comment": "老師會教很多國標舞的技巧，包含基本的走位、腳步和手勢等，基本動作教完後會開始帶不同舞風(ex.捷舞、紐約等)\n考試有兩次，期中考試只考基本動作，老師考前會再帶一次；期末考則是要找舞伴、跳完一首曲。(因為是一組一組考，所以可以趁別組在考試的時候偷看複習動作XD)\n國標舞很吃敏捷度，肢體不夠靈活真的會跳得很醜QQ",
@@ -56,6 +62,21 @@
             "post_id": 3713,
             "course_name": "國際標準舞與健康體能",
             "teacher": "鄭匡佑 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6159,
+            "got": 8,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 7697,
+            "post_id": 8946,
+            "course_name": "國際標準舞與健康體能",
+            "teacher": "鄭匡佑",
             "like": 0,
             "dislike": 0,
             "give": 1,

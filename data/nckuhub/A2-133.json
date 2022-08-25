@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 5,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8475",
         "系所名稱": "體育室 OPE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-17T07:31:10.000Z",
-        "count": 88,
+        "remain_update_time": "2022-07-20T03:47:39.000Z",
+        "count": 91,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9055,
+            "comment": "平常都會有小比賽練習 老師會教許多足球盤運球的基本技巧 而且只要有出席 分數都不會太低 分數給的很大方",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6268,
+            "got": 9,
+            "sweet": 9,
+            "cold": 5,
+            "user_id": 6587,
+            "post_id": 9055,
+            "course_name": "足球與健康體能",
+            "teacher": "楊書銘",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

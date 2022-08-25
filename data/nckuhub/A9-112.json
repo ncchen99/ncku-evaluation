@@ -1,8 +1,8 @@
 {
-    "got": "3.0",
-    "cold": "2.0",
-    "sweet": "5.0",
-    "rate_count": 1,
+    "got": 4,
+    "cold": 4,
+    "sweet": 6.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "386",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-12T10:29:53.000Z",
-        "count": 6898,
+        "remain_update_time": "2022-07-29T22:53:02.000Z",
+        "count": 6930,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8968,
+            "comment": "上課討論10％\n小組報告10％\n具影響力專案20％\n作業24％\n期末20％\n出席和發言16％\n\n小組成員超重要\n上課常要求小組討論\n整學期要寫5篇800字以上心得\n一個小組報告 \n一個專案(可個人或小組)\n不過上課要幹嘛老師不會管\n期末考大都可以在PPT找到 申論題大致寫一下就行\n\n這學期主要是在講性別跟運動媒體 運動制度 電競遊戲的相關\n每個主題結束後會請一個外校講者演講 再進行小組報告反思\n\n\n老實說不算涼 作業跟報告很麻煩 但給分算甜\n期末70分 上課沒發言 作業都有交 最後93過\n",
+            "semester": "110-2"
+        },
         {
             "id": 5301,
             "comment": "要下載一個叫seesaw的app\n不太推這門課\n上課時都在討論女性在運動方面受到的限制\n每堂課都會小組討論類似申論題的問題\n期中要拍一支短片\n大概佔學期成績20%\n有期末考和影片報告\n期末考大概3題申論題\n我全勤、作業報告都有交最後75分過......",
@@ -54,6 +60,21 @@
             "cold": 2,
             "user_id": 3077,
             "post_id": 5301,
+            "course_name": "性別與運動",
+            "teacher": "徐珊惠",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6181,
+            "got": 5,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 6849,
+            "post_id": 8968,
             "course_name": "性別與運動",
             "teacher": "徐珊惠",
             "like": 0,

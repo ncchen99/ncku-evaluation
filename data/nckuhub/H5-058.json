@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 9,
+    "sweet": 6,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1911",
         "系所名稱": "交管系 TCM",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "陳文字",
-        "已選課人數": 0,
-        "餘額": 40,
+        "已選課人數": 23,
+        "餘額": 17,
         "時間": "[5]5~7 ",
         "教室": "交管系館 62205",
         "備註": "電信管理領域必修",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-11T23:38:47.000Z",
-        "count": 143,
+        "remain_update_time": "2022-08-19T07:52:48.000Z",
+        "count": 165,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9042,
+            "comment": "上課會點名，內容以課本為主，不會太深入\n作業也不會太難，大多能在課堂完成\n期中考開書申論，期末考選擇+申論\n成績約8成介於80-89分，11個90分以上",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6255,
+            "got": 7,
+            "sweet": 6,
+            "cold": 9,
+            "user_id": 3962,
+            "post_id": 9042,
+            "course_name": "通訊網路",
+            "teacher": "陳文字",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

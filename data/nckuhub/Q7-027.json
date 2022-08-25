@@ -1,13 +1,13 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 9,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9773",
-        "系所名稱": "奈積碩博學程 NICE",
-        "系號": "Q7",
-        "選課序號": "Q7027",
+        "系所名稱": "電機所 EE",
+        "系號": "N2",
+        "選課序號": "N2052",
         "課程碼": "Q152200",
         "分班碼": "",
         "班別": "碩博",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-13T07:52:01.000Z",
-        "count": 110,
+        "remain_update_time": "2022-08-22T17:16:02.000Z",
+        "count": 82,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9091,
+            "comment": "一學期總共有6次小考和一次期末考，期末考的題目都是從6次小考的題目中選的，小考的題目講師會在每次上課上到會考的地方時用各種明示或暗示的方式給學生打pass，記得把ppt的內容拍下來就沒問題了。\n\n每次課前都要點名",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6304,
+            "got": 5,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 3902,
+            "post_id": 9091,
+            "course_name": "奈米世代半導體製程概論",
+            "teacher": "涂維珍",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

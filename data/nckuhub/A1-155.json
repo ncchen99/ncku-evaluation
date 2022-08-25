@@ -1,8 +1,8 @@
 {
-    "got": "6.5",
-    "cold": "9.0",
-    "sweet": "8.9",
-    "rate_count": 8,
+    "got": 6.666666666666667,
+    "cold": 9.11111111111111,
+    "sweet": 9,
+    "rate_count": 9,
     "courseInfo": {
         "id": "55",
         "系所名稱": "外語中心 FLC",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 8,
-        "remain_update_time": "2022-07-12T08:35:37.000Z",
-        "count": 833,
+        "remain_update_time": "2022-08-14T18:03:45.000Z",
+        "count": 883,
         "admit": null,
-        "comment": 0,
+        "comment": 9,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9013,
+            "comment": "很棒的一堂課，教授講話鏗鏘有力，全英語教學，\n原本會有期中期末，但因為疫情，所以整學期都沒有考試，變成交兩次作業就好，\n作業內容是一段音檔，然後把它的內容逐字打出，不會太難，最後92分過。",
+            "semester": "110-2"
+        },
         {
             "id": 8205,
             "comment": "又涼又甜的英文課~\n安純上課會分享很多的故事\n很有趣\n學期初會有自我介紹\n再來上課會放一些新聞、詩或影片\n考試很簡單\n就是上課的內容\n有聽力和選擇\n\n",
@@ -194,6 +200,21 @@
             "cold": 9,
             "user_id": 7669,
             "post_id": 8205,
+            "course_name": "聽力與摘記練習",
+            "teacher": "陳安純",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6226,
+            "got": 8,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 7618,
+            "post_id": 9013,
             "course_name": "聽力與摘記練習",
             "teacher": "陳安純",
             "like": 0,

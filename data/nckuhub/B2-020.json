@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 9,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8572",
         "系所名稱": "外文系 FLL",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-12T05:21:45.000Z",
-        "count": 143,
+        "remain_update_time": "2022-08-22T17:29:49.000Z",
+        "count": 160,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9068,
+            "comment": "完全不點名，超級涼，我的組員常常翹課去看醫生(笑\n一開始認真上課，不過教授的腔調有點浮誇，上課常常是找Youtube上的教學影片，後來發現大家都在做自己的事\n考試為多益、雅思或托福聽力，期中要分組拍英語短片，期末則是要個人的presentation\n無須擔心分數，教授給分真的甜，最後我94過\n",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6281,
+            "got": 7,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 7534,
+            "post_id": 9068,
+            "course_name": "英語聽講訓練（一）",
+            "teacher": "楊哲銘",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

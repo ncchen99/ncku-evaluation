@@ -1,8 +1,8 @@
 {
-    "got": "9.5",
-    "cold": "4.8",
-    "sweet": "9.8",
-    "rate_count": 4,
+    "got": 9.6,
+    "cold": 4.8,
+    "sweet": 9.8,
+    "rate_count": 5,
     "courseInfo": {
         "id": "519",
         "系所名稱": "不分系學程 CCEP",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2022-07-12T00:09:12.000Z",
-        "count": 820,
+        "remain_update_time": "2022-07-20T20:45:01.000Z",
+        "count": 844,
         "admit": null,
-        "comment": 0,
+        "comment": 5,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8949,
+            "comment": "超級爆炸好課一生推 老師人也很nice\n寫信約期末報告討論他一定會擠出時間跟你討論(晚上十點也願意的那種)\n能學到word excel power BI IBM SPSS 的各種軟體使用\n雖然每周都要花兩小時寫作業 但能學到很多東西\n",
+            "semester": "110-2"
+        },
         {
             "id": 8597,
             "comment": "每個禮拜都有作業嗚嗚，孟學真的是地獄派來的使者耶！\n但是又真的學到很多東西，我現在打報告和做資料分析都更有效率，然後最愛老師的一句話是：你不要一下就想把東西做到完美再交，而是應該先完整做完一份，之後有機會在慢慢修改和改善。對每次都在死線前打滾的我來說，說得真好：）\n基本上有交作業就有不錯的分數，然後對word,excel,powerbi等等軟體更熟悉，資料處理也會有很多練習機會（就是作業qq)。\n總之我對孟學是又愛又恨：）如果想要學東西，課又比較閒，那就來修吧！",
@@ -114,6 +120,21 @@
             "cold": 5,
             "user_id": 6879,
             "post_id": 8597,
+            "course_name": "資料素人之旅",
+            "teacher": "李孟學*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6162,
+            "got": 10,
+            "sweet": 10,
+            "cold": 5,
+            "user_id": 7697,
+            "post_id": 8949,
             "course_name": "資料素人之旅",
             "teacher": "李孟學*",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7.5,
+    "cold": 9.5,
+    "sweet": 8,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8269",
         "系所名稱": "大學國文 CL",
@@ -30,16 +30,59 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-12T08:07:21.000Z",
-        "count": 833,
+        "comment_num": 1,
+        "remain_update_time": "2022-08-19T01:57:28.000Z",
+        "count": 948,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9037,
+            "comment": "因為疫情，很多本來有的都取消掉了，比如期末報告，所以意見參考建好\n期末考是翻書，看刺客列傳有沒有熟讀，偏簡單\n每堂課很喜歡分組簡單報告，真的蠻簡單，老師會引導你思考，也可以上網查資料\n隱藏版甜課涼課，容易抽到\n是上下學期的連接課，不強制，所以影響不大\n個人喜歡武俠題材，這堂課聽起來就像武俠故事\n另外上課做自己事的人算多\n",
+            "semester": "110-1"
+        },
+        {
+            "id": 8925,
+            "comment": "老師非常佛系，受到疫情的影響，所以課程進度比較慢\n上課非常認真，有時候也蠻幽默的\n每次上課基本上都會點名\n一般來說會需要小組討論以及期末報告，\n不過這學期因為進度太慢，所以取消期中考和期末報告\n期末是申論題\n",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6138,
+            "got": 8,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 8402,
+            "post_id": 8925,
+            "course_name": "大學國文- 古典韻文鑑賞方法論（事件與典故",
+            "teacher": "劉威志",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6250,
+            "got": 7,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 7855,
+            "post_id": 9037,
+            "course_name": "大學國文- 古典韻文鑑賞方法論（事件與典故",
+            "teacher": "劉威志",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

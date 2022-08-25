@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "6.0",
-    "sweet": "4.0",
-    "rate_count": 1,
+    "got": 7.5,
+    "cold": 7,
+    "sweet": 5.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "9097",
         "系所名稱": "會計系 ACC",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-12T00:02:48.000Z",
-        "count": 131,
+        "remain_update_time": "2022-07-24T18:47:21.000Z",
+        "count": 151,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8967,
+            "comment": "不知道為什麼那麼多人不喜歡弘歷，我自己是很喜歡。老師上課是用自製的簡報上課，除了口音有點重以外如果聽得懂的話老師是教得很好的。只不過老師有時候會越教越難...一不小心真的會教到比經濟系本系的總經還難。成績多少完完全全是靠自己，題目很難不過有考古題可以參考。",
+            "semester": "110-2"
+        },
         {
             "id": 5139,
             "comment": "老師是位香港人所以上課有時候會不太容易理解，另外上課都不點名只要小考和期中期末到考就可以了，考試題目不太簡單但是最後會調分~",
@@ -54,6 +60,21 @@
             "cold": 6,
             "user_id": 1958,
             "post_id": 5139,
+            "course_name": "經濟學（二）",
+            "teacher": "伍弘歷",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6180,
+            "got": 9,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 6129,
+            "post_id": 8967,
             "course_name": "經濟學（二）",
             "teacher": "伍弘歷",
             "like": 0,

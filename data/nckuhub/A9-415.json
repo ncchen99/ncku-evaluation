@@ -1,8 +1,8 @@
 {
-    "got": "3.5",
-    "cold": "9.5",
-    "sweet": "9.0",
-    "rate_count": 2,
+    "got": 4.333333333333333,
+    "cold": 9.666666666666666,
+    "sweet": 8.333333333333334,
+    "rate_count": 3,
     "courseInfo": {
         "id": "8375",
         "系所名稱": "通識中心 GE",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-07-12T07:10:48.000Z",
-        "count": 1990,
+        "remain_update_time": "2022-07-20T00:00:07.000Z",
+        "count": 2022,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8931,
+            "comment": "在大講堂上課 可以做自己的事\n後半學期改線上\n回答問題跟出席有加分\n老師會先上課 後半段才會給同學回答\n每堂課老師會設計一兩題問題\n不難 回答一樣的也沒關係\n期中期末各一份報告\n建議有一點程式基礎的修\n沒有作業\n我幾乎每堂課都有出席跟回答\n最後83",
+            "semester": "110-2"
+        },
         {
             "id": 7245,
             "comment": "超級甜，上課線上點名，只有期中期末報告沒考試（報告基本上不難），如果點名都有到報告有交分數基本上90以上\n",
@@ -79,6 +85,21 @@
             "cold": 10,
             "user_id": 3827,
             "post_id": 7245,
+            "course_name": "開放資料與智慧生活",
+            "teacher": "朱宏杰",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6144,
+            "got": 6,
+            "sweet": 7,
+            "cold": 10,
+            "user_id": 8218,
+            "post_id": 8931,
             "course_name": "開放資料與智慧生活",
             "teacher": "朱宏杰",
             "like": 0,

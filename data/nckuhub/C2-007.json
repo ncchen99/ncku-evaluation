@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "8.0",
-    "sweet": "6.0",
-    "rate_count": 1,
+    "got": 7.666666666666667,
+    "cold": 8,
+    "sweet": 7.333333333333333,
+    "rate_count": 3,
     "courseInfo": {
         "id": "737",
         "系所名稱": "物理系 PHYS",
@@ -31,15 +31,26 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-13T17:15:22.000Z",
-        "count": 237,
+        "remain_update_time": "2022-07-19T19:50:22.000Z",
+        "count": 242,
         "admit": null,
-        "comment": 0,
+        "comment": 3,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9000,
+            "comment": "只有一次期中、一次期末，老師上課滿用心的，因疫情線上上課都會錄影，不會強迫一定要實體上課，\n期中期末考前的上課會講解考古題，考試題型和考古相似。",
+            "semester": "110-1"
+        },
+        {
+            "id": 9008,
+            "comment": "教授教得很好，有問題問他一定會詳細解說，嘉展助教也很棒，推推。考一次期中，一次期末，平常在線上平台會有題目可以寫。",
+            "semester": "110-1"
+        },
         {
             "id": 7318,
             "comment": "評分方式：\n\n期中考40% 期末考40% 平時測驗10% 平時成績(包含點名以及上課表現)10%\n\n教材:\n\n微積分(第七版)(Stewart 7/e) \n\n上課方式：\n\n投影片上課，依照課本內容慢慢講解\n\n點名方式：\n\n老師會給題目回家做，做完拍照拍照上傳Moodle，以此當作點名標準\n\n考試方式：\n\n期中期末各一次，內容是課本範圍，老師會給考古題，只要有看，分數就不會太難看\n\n報告方式：\n\n無\n\n作業方式：\n\n老師給的題目\n\n心得:\n\n老師上的不錯，雖然會口吃，助教也會教重點。老師不太想當人，如果被當就代表你太混了",
@@ -54,6 +65,36 @@
             "cold": 8,
             "user_id": 6296,
             "post_id": 7318,
+            "course_name": "微積分（一）",
+            "teacher": "陳旻宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6213,
+            "got": 8,
+            "sweet": 9,
+            "cold": 10,
+            "user_id": 8571,
+            "post_id": 9000,
+            "course_name": "微積分（一）",
+            "teacher": "陳旻宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6221,
+            "got": 9,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 7618,
+            "post_id": 9008,
             "course_name": "微積分（一）",
             "teacher": "陳旻宏",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "9.7",
-    "cold": "4.0",
-    "sweet": "7.7",
-    "rate_count": 3,
+    "got": 9.75,
+    "cold": 4.25,
+    "sweet": 8.25,
+    "rate_count": 4,
     "courseInfo": {
         "id": "9112",
         "系所名稱": "統計系 STAT",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-07-13T21:06:48.000Z",
-        "count": 129,
+        "remain_update_time": "2022-07-24T19:50:17.000Z",
+        "count": 138,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8964,
+            "comment": "老師很嚴格，對上課秩序的要求很高，課程的難度不輸中會。如果是真的想學東西可以來修，但要有3學分當6學分上的心理準備。",
+            "semester": "110-2"
+        },
         {
             "id": 6036,
             "comment": "統計系的會計學為二年級上下兩學期 每次三學分\n老師人很好 上課很認真 會補充很多知識\n每堂課會給很多東西 所以可能整堂上課都要認真聽講 \n不時會有加分機會\n當老師助教及幫忙擦黑板也會另外加分\n\n考試可以選要不要小考\n期中期末多為考古或課本題目\n若無考古 老師也有另外開課幫同學解題\n考試前會開放時間讓同學問問題\n應該算是有付出就會有收穫的課程\n\n整體推",
@@ -94,6 +100,21 @@
             "cold": 7,
             "user_id": 673,
             "post_id": 6036,
+            "course_name": "會計學（二）",
+            "teacher": "施坤宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6177,
+            "got": 10,
+            "sweet": 10,
+            "cold": 5,
+            "user_id": 6129,
+            "post_id": 8964,
             "course_name": "會計學（二）",
             "teacher": "施坤宏",
             "like": 0,

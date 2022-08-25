@@ -1,8 +1,8 @@
 {
-    "got": "7.8",
-    "cold": "6.8",
-    "sweet": "6.3",
-    "rate_count": 6,
+    "got": 6.857142857142857,
+    "cold": 6,
+    "sweet": 5.571428571428571,
+    "rate_count": 7,
     "courseInfo": {
         "id": "8751",
         "系所名稱": "電機系 EE",
@@ -31,13 +31,14 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 6,
-        "remain_update_time": "2022-07-12T05:31:18.000Z",
-        "count": 482,
+        "remain_update_time": "2022-08-23T17:18:17.000Z",
+        "count": 608,
         "admit": null,
-        "comment": 0,
+        "comment": 7,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
         {
@@ -58,6 +59,11 @@
         {
             "id": 6237,
             "comment": "完全不會點名，不想上課也沒關係\n教授把數學講得很抽象\n考試都是自己出題的，難度中上\n平常會有作業公佈在網頁上，遲交一天打八折\n個人覺得分數不甜，最後71過",
+            "semester": "107-2"
+        },
+        {
+            "id": 9072,
+            "comment": "不建議，有些人被當了好幾次\n建議尋找其他老師\n有教室坐不下的問題\n似乎不會調分\n考試偏難\n教課(講話)方式有時不好理解\n時常於課堂上向學生講人生大道理",
             "semester": "107-2"
         },
         {
@@ -154,6 +160,21 @@
             "cold": 5,
             "user_id": 6112,
             "post_id": 8233,
+            "course_name": "線性代數",
+            "teacher": "謝明得",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6285,
+            "got": 1,
+            "sweet": 1,
+            "cold": 1,
+            "user_id": 2267,
+            "post_id": 9072,
             "course_name": "線性代數",
             "teacher": "謝明得",
             "like": 0,

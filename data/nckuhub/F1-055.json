@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 6,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8964",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-13T07:11:16.000Z",
-        "count": 60,
+        "remain_update_time": "2022-08-19T01:12:19.000Z",
+        "count": 67,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9034,
+            "comment": "分數分成段考與作業\n作業基本上上課有大部分講解\n段考多為範例 作業延伸 少部分教科書習題\n不至於太難\n認真一下拿高分應該不難\n \n",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6247,
+            "got": 7,
+            "sweet": 8,
+            "cold": 6,
+            "user_id": 5472,
+            "post_id": 9034,
+            "course_name": "工程數學（二）",
+            "teacher": "林宇銜",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

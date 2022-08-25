@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9964",
         "系所名稱": "電子產碩 MPPE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-15T00:27:07.000Z",
-        "count": 50,
+        "remain_update_time": "2022-08-21T17:08:07.000Z",
+        "count": 52,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9054,
+            "comment": "上課方式和電子學蠻像的，不過因為是實做專題的關係，所以作業才是分數的關鍵，但是作業給的資料基本上是不足以讓你會做，比較多的時候是你照抄，然後從來就沒有人跟你說為什麼，還有在做作業的過程中很容易遇到電腦相容性的問題，沒有人知道怎麼解決，你只能用很多台電腦去試試看能不能run，否則你光debug就會花掉超多的時間",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6267,
+            "got": 5,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 3687,
+            "post_id": 9054,
+            "course_name": "數位電源控制電路與系統實作專題",
+            "teacher": "蔡建泓",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

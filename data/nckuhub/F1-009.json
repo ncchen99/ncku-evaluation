@@ -1,8 +1,8 @@
 {
-    "got": "6.0",
-    "cold": "9.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": 7,
+    "cold": 8.5,
+    "sweet": 8.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8961",
         "系所名稱": "系統系 SNME",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-13T17:40:38.000Z",
-        "count": 102,
+        "remain_update_time": "2022-08-15T01:48:58.000Z",
+        "count": 111,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9005,
+            "comment": "1次期中(40%)，1次期末(40%)占比最大，2次小考(平時測驗10%)，\n小考通常都是一半實體考、一半線上作答(微積分課程的網頁)，\n偶爾課堂會丟一些題目當作業(平時表現10%)，\n上課不點名，老師課後會丟課程錄影到moodle上，\n小考考不好，期中期末都很好的話，老師也會給高分，\n期末也會公告提醒快被當掉的同學如何補救。\n\n",
+            "semester": "110-2"
+        },
         {
             "id": 7174,
             "comment": "這學期上課都有錄影片 沒去上課點名考可以看完影片之後寫題目完傳上去\n老師上課基本上不會管下面的人在幹嘛\n期中末之前會講考古題\n助教也會講解考古題\n寫熟之後去考試有很多雷同的題目\n所以分數不會太難看\n\n",
@@ -54,6 +60,21 @@
             "cold": 9,
             "user_id": 3641,
             "post_id": 7174,
+            "course_name": "微積分（二）",
+            "teacher": "陳旻宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6218,
+            "got": 8,
+            "sweet": 9,
+            "cold": 8,
+            "user_id": 8571,
+            "post_id": 9005,
             "course_name": "微積分（二）",
             "teacher": "陳旻宏",
             "like": 0,

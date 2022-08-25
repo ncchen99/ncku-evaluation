@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
+    "got": 0,
+    "cold": 0,
+    "sweet": 0,
     "rate_count": 0,
     "courseInfo": {
-        "id": 9772,
+        "id": "9772",
         "系所名稱": "奈積碩博學程 NICE",
         "系號": "Q7",
         "選課序號": "Q7022",
@@ -34,12 +34,19 @@
         "remain_update_time": "2022-07-18T19:21:32.000Z",
         "count": 50,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
+    "comment": [
+        {
+            "id": 9031,
+            "comment": "老師很認真負責，認真聽課跟讀他的講義就很夠了\n算分方法在剛開學就會講，基本上不調分，從作業考試給分，會有另外的10%是用老師給的公式去算的",
+            "semester": "110-2"
+        }
+    ],
     "rates": [],
     "courserate_id": 0
 }

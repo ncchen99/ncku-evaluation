@@ -1,8 +1,8 @@
 {
-    "got": "8.7",
-    "cold": "6.3",
-    "sweet": "6.3",
-    "rate_count": 3,
+    "got": 9,
+    "cold": 6,
+    "sweet": 6.5,
+    "rate_count": 4,
     "courseInfo": {
         "id": "8707",
         "系所名稱": "經濟系 ECON",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-07-13T08:44:26.000Z",
-        "count": 249,
+        "remain_update_time": "2022-08-06T04:21:49.000Z",
+        "count": 260,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8988,
+            "comment": "不會每週點名，一學期大概有三次作業，不過好好上課都會寫\n上課是用老師自製的講義搭上一些課外補充，會有填空題要寫，有平板可以把檔案下載下來在平板上寫，沒平板要印出來不然考試會很慘\n一學期兩次考試（期中期末）考試前review有好康的，修課同學一定要參加\n整堂課總之就是東西超多超豐富，但是是經濟學中最基礎的東西，上下學期的東西其實可以分開來看，上學期是個經篇，下學期是總經篇比較難懂，但老師的講解可以把我這個高中公民不及格的學生拉起來到聽得懂的程度，不多說好課推推。",
+            "semester": "110-2"
+        },
         {
             "id": 7173,
             "comment": "這學期疫情上課方式是學號單雙數分開上\n一半教室上一半線上上\n老師人很好\n上課不要太明顯滑手機老師都不會管\n期中分數滿低的但學期末老師分數給的比想像中高\n期中末之前有一個可以討論的小測驗 加分用的 有些題目會在考試中出現 ",
@@ -94,6 +100,21 @@
             "cold": 8,
             "user_id": 3641,
             "post_id": 7173,
+            "course_name": "經濟學原理（二）",
+            "teacher": "區俊傑",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6201,
+            "got": 10,
+            "sweet": 7,
+            "cold": 5,
+            "user_id": 3653,
+            "post_id": 8988,
             "course_name": "經濟學原理（二）",
             "teacher": "區俊傑",
             "like": 0,

@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "10.0",
-    "sweet": "10.0",
-    "rate_count": 1,
+    "got": 7,
+    "cold": 8.666666666666666,
+    "sweet": 10,
+    "rate_count": 3,
     "courseInfo": {
         "id": "9218",
         "系所名稱": "物治系 PT",
@@ -30,16 +30,27 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2022-07-12T20:12:17.000Z",
-        "count": 218,
+        "comment_num": 3,
+        "remain_update_time": "2022-08-16T00:33:55.000Z",
+        "count": 234,
         "admit": null,
-        "comment": 0,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 8998,
+            "comment": "我是外系去修的沒問題，\n但有一些醫學專有名詞就不太懂，\n上課是用老師的ppt，\n分數只算出席率和期末報告，\n期末報告本來是團體的，但因為疫情改成個人的，\n報告就是給自己開一份運動處方即可\n",
+            "semester": "110-2"
+        },
+        {
+            "id": 9015,
+            "comment": "外系選修完全沒有問題\n成績計算方式是點名跟期末報告\n這學期因為疫情關係期末團體報告改成個人書面報告，給自己開一個運動處方就好\n而且老師人超好\n推好課",
+            "semester": "110-2"
+        },
         {
             "id": 7190,
             "comment": "到班上課，但這學期後半因為疫情改為線上課程，沒有期中期末，只有期末報告，老師人非常好，外系的去上也不會有壓力",
@@ -59,6 +70,36 @@
             "cold": 10,
             "user_id": 2009,
             "post_id": 7190,
+            "course_name": "運動處方",
+            "teacher": "蔡昆霖",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6211,
+            "got": 6,
+            "sweet": 10,
+            "cold": 7,
+            "user_id": 6928,
+            "post_id": 8998,
+            "course_name": "運動處方",
+            "teacher": "蔡昆霖",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6228,
+            "got": 7,
+            "sweet": 10,
+            "cold": 9,
+            "user_id": 5192,
+            "post_id": 9015,
             "course_name": "運動處方",
             "teacher": "蔡昆霖",
             "like": 0,

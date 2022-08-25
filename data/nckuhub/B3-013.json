@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "8.0",
-    "sweet": "6.0",
-    "rate_count": 1,
+    "got": 9,
+    "cold": 7.5,
+    "sweet": 7.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8582",
         "系所名稱": "歷史系 HIS",
@@ -31,15 +31,21 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-13T05:32:45.000Z",
-        "count": 201,
+        "remain_update_time": "2022-08-20T02:52:49.000Z",
+        "count": 211,
         "admit": null,
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9087,
+            "comment": "老師講課很有趣，台灣史二的課程更貼近現代（大約是清以後），所以會接觸到很多現在還活著的人的故事。\n老師注重維基寫作，上課會帶入一些跟維基百科有關的東西。\n小組作業、個人作業很多，很精實，有耐心寫很多字再來選課。\n\n認真上課，最後9*通過，90以上人不多。",
+            "semester": "110-2"
+        },
         {
             "id": 8038,
             "comment": "老師個性很按部就班但絕不死板。老師講話很溫和，帶點可愛跟小幽默，會跟學生互動。非常有秩序跟規劃的一堂課。作業內容有書評、論文分析分組報告、口述史報告等等。老實說我覺得作業量蠻多的，也很要求標準的學術寫作格式。",
@@ -56,6 +62,21 @@
             "post_id": 8038,
             "course_name": "台灣史（二）",
             "teacher": "許宏彬*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6300,
+            "got": 10,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 5327,
+            "post_id": 9087,
+            "course_name": "台灣史（二）",
+            "teacher": "許宏彬",
             "like": 0,
             "dislike": 0,
             "give": 1,
