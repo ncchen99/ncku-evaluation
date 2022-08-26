@@ -2,7 +2,7 @@
     "got": 10,
     "cold": 6,
     "sweet": 10,
-    "rate_count": 3,
+    "rate_count": 4,
     "courseInfo": {
         "id": "8773",
         "系所名稱": "電機系 EE",
@@ -30,11 +30,11 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 2,
-        "remain_update_time": "2022-08-23T17:14:03.000Z",
-        "count": 146,
+        "comment_num": 3,
+        "remain_update_time": "2022-08-24T20:10:26.000Z",
+        "count": 150,
         "admit": null,
-        "comment": 3,
+        "comment": 4,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -49,6 +49,11 @@
         {
             "id": 8497,
             "comment": "老師教得很好，還會補充電子一二的觀念，非常充實，但還是希望大家前面的基礎要學好，不然進度會太慢，老師會有點不開心喔，作業只有一個是要設計two stage op\n",
+            "semester": "110-1"
+        },
+        {
+            "id": 9095,
+            "comment": "老師人很好，\n老師上課會補充之前課程的觀念，\n尤其電子二後面的東西\n期中作業需要花比較多的時間，所以最後不要在做後一周再做\n考試相比電子二，老師出題比較仁慈，\n最後期末統成績98過",
             "semester": "110-1"
         },
         {
@@ -95,6 +100,21 @@
             "cold": 7,
             "user_id": 4007,
             "post_id": 9070,
+            "course_name": "電子學（三）",
+            "teacher": "張順志",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6308,
+            "got": 10,
+            "sweet": 10,
+            "cold": 6,
+            "user_id": 6262,
+            "post_id": 9095,
             "course_name": "電子學（三）",
             "teacher": "張順志",
             "like": 0,

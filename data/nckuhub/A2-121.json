@@ -1,8 +1,8 @@
 {
-    "got": "10.0",
-    "cold": "10.0",
-    "sweet": "10.0",
-    "rate_count": 1,
+    "got": 9.5,
+    "cold": 9.5,
+    "sweet": 9.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8463",
         "系所名稱": "體育室 OPE",
@@ -31,15 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 2,
-        "remain_update_time": "2022-07-13T01:51:45.000Z",
-        "count": 181,
+        "remain_update_time": "2022-08-25T02:36:27.000Z",
+        "count": 202,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "comment": 3,
+        "course_style": 1,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 1,
+        "semester": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 9102,
+            "comment": "會選游泳的通常是本來就會游泳的人\n想輕鬆的人可以慢慢游\n想練習的人也可以請老師幫忙調整姿勢\n整體來說算是很推，除了要換衣服比較麻煩以外",
+            "semester": "110-2"
+        },
         {
             "id": 6232,
             "comment": "老師人很好 考試的要求並不高 只要有游完就可以過關\n上課會用優美泳姿實際游給你看\n教我們懶人游法 可以游1000不休息 超屌~~ ",
@@ -64,6 +71,21 @@
             "post_id": 6232,
             "course_name": "游泳與健康體能",
             "teacher": "黃滄海 ",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6315,
+            "got": 9,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 6906,
+            "post_id": 9102,
+            "course_name": "游泳與健康體能",
+            "teacher": "黃滄海",
             "like": 0,
             "dislike": 0,
             "give": 1,

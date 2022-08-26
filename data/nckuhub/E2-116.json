@@ -1,8 +1,8 @@
 {
-    "got": 8.5,
-    "cold": 6.5,
-    "sweet": 6.5,
-    "rate_count": 4,
+    "got": 8.4,
+    "cold": 6.2,
+    "sweet": 6.4,
+    "rate_count": 5,
     "courseInfo": {
         "id": "1147",
         "系所名稱": "電機系 EE",
@@ -31,10 +31,10 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 3,
-        "remain_update_time": "2022-08-24T07:17:44.000Z",
-        "count": 267,
+        "remain_update_time": "2022-08-24T19:26:02.000Z",
+        "count": 271,
         "admit": null,
-        "comment": 4,
+        "comment": 5,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -44,6 +44,11 @@
         {
             "id": 9090,
             "comment": "個人認為小蔡是三個班中教的最好的老師，教材也是三個班裡面編的最好的，平均分數也是三個班最高的。\n如果是認真想學好電磁學或是本身成績夠好但想拿更高分的話，修小蔡的電磁學準沒錯；但如果本身的成績就已經在及格邊緣徘徊的話那就要好好思量一下了，因為老師不會調分，總成績剩下的那10％分數也是按考試成績給的",
+            "semester": "110-1"
+        },
+        {
+            "id": 9106,
+            "comment": "老師上課會補充自己的獨特公式,都蠻好用的,不過建議每次上課前要預習一下上課內容比較容易跟上老師的步調",
             "semester": "110-1"
         },
         {
@@ -115,6 +120,21 @@
             "cold": 4,
             "user_id": 3902,
             "post_id": 9090,
+            "course_name": "電磁學（一）",
+            "teacher": "蔡智明",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6319,
+            "got": 8,
+            "sweet": 6,
+            "cold": 5,
+            "user_id": 4424,
+            "post_id": 9106,
             "course_name": "電磁學（一）",
             "teacher": "蔡智明",
             "like": 0,

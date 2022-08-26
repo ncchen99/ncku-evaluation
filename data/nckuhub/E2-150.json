@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 9,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "1170",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "張凌昇",
-        "已選課人數": 0,
-        "餘額": 70,
+        "已選課人數": 70,
+        "餘額": 0,
         "時間": "[3]7~9 ",
         "教室": "電機系館 92277",
         "備註": "限大學部選修",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-11T22:41:37.000Z",
-        "count": 366,
+        "remain_update_time": "2022-08-24T23:29:37.000Z",
+        "count": 459,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9098,
+            "comment": "這學期上課改全線上\n平常都是聽老師講講科普的感覺\n期中跟期末會有各組報告\n每組6.7人左右\n會隨機點一個人報告\n所以每個人都要會\n整體來說很涼\n",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6311,
+            "got": 8,
+            "sweet": 8,
+            "cold": 9,
+            "user_id": 8232,
+            "post_id": 9098,
+            "course_name": "生物微機電導論",
+            "teacher": "張凌昇",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

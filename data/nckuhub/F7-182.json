@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 3,
+    "cold": 7,
+    "sweet": 6,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9072",
         "系所名稱": "資訊系 CSIE",
@@ -31,15 +31,38 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-15T08:01:37.000Z",
-        "count": 67,
+        "remain_update_time": "2022-08-24T19:26:45.000Z",
+        "count": 70,
         "admit": null,
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9104,
+            "comment": "老師人很好但是不太會教，基本上要學到東西完全要靠自己，上課的時候很輕鬆基本上老師不太會管你在做什麼，然後這門課真的很偏理論，所以如果想要實作的話建議選別門課。",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6317,
+            "got": 3,
+            "sweet": 6,
+            "cold": 7,
+            "user_id": 3838,
+            "post_id": 9104,
+            "course_name": "機器學習",
+            "teacher": "賀保羅",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

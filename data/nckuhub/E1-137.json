@@ -1,8 +1,8 @@
 {
-    "got": 7,
-    "cold": 5,
-    "sweet": 8,
-    "rate_count": 1,
+    "got": 6.5,
+    "cold": 5.5,
+    "sweet": 6.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8742",
         "系所名稱": "機械系 ME",
@@ -30,11 +30,11 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-08-23T17:22:28.000Z",
-        "count": 104,
+        "comment_num": 1,
+        "remain_update_time": "2022-08-25T02:57:43.000Z",
+        "count": 106,
         "admit": null,
-        "comment": 1,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0,
@@ -44,6 +44,11 @@
         {
             "id": 9074,
             "comment": "因為太多人選課，這學期課程採用不定期小考的方式計分。\n上課偏硬，會很快速帶過單字和文法，且用的課本也偏舊，\n小考就是背記單字和句子，要花一點時間。",
+            "semester": "110-2"
+        },
+        {
+            "id": 9103,
+            "comment": "聽說110學年之前不管怎麼樣都會有60分，但從今年開始因為老師覺得選課人數太多，所以把這個機制取消掉了，上課進度飛快，有修二外德文的同學說大概學期中左右涵蓋的範圍就會超過德文三，然後老師版書超級不清楚，而且因為進度很快所以需要認真一點唸才學得到東西，整學期有6次小考，沒記錯好像是取4次平均當學期成績，以機械系的標準來說算是比較涼的選修課，但真的要認真念不然分數不會高",
             "semester": "110-2"
         }
     ],
@@ -55,6 +60,21 @@
             "cold": 5,
             "user_id": 3519,
             "post_id": 9074,
+            "course_name": "工程德文",
+            "teacher": "李驊登",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6316,
+            "got": 6,
+            "sweet": 5,
+            "cold": 6,
+            "user_id": 3838,
+            "post_id": 9103,
             "course_name": "工程德文",
             "teacher": "李驊登",
             "like": 0,

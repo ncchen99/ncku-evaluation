@@ -1,8 +1,8 @@
 {
-    "got": 7.636363636363637,
-    "cold": 7.636363636363637,
-    "sweet": 8,
-    "rate_count": 11,
+    "got": 7.583333333333333,
+    "cold": 7.666666666666667,
+    "sweet": 7.75,
+    "rate_count": 12,
     "courseInfo": {
         "id": "46",
         "系所名稱": "外語中心 FLC",
@@ -30,11 +30,11 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 13,
-        "remain_update_time": "2022-08-20T03:54:42.000Z",
-        "count": 1536,
+        "comment_num": 14,
+        "remain_update_time": "2022-08-25T02:26:02.000Z",
+        "count": 2120,
         "admit": null,
-        "comment": 14,
+        "comment": 15,
         "course_style": 2,
         "report_hw": 1,
         "score_style": 2,
@@ -46,6 +46,11 @@
         {
             "id": 9044,
             "comment": "很涼 期末口說考試 分數給超爛(平均6X,最好都7X,少有8X) 沒有以前那麼好了\n想刷GPA的快跑,線上資源會給很多",
+            "semester": "110-2"
+        },
+        {
+            "id": 9101,
+            "comment": "上課算涼，老師不太管學生在幹嘛\n每堂都會用不同方式點名(錄一段口說之類的)\n期末口說3個題目當場抽一個，要講三分鐘\n學期成績超爛，大部分都70幾，80以上很少",
             "semester": "110-2"
         },
         {
@@ -281,6 +286,21 @@
             "cold": 8,
             "user_id": 7141,
             "post_id": 9044,
+            "course_name": "基礎學術英文",
+            "teacher": "曾惠鈴",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6314,
+            "got": 7,
+            "sweet": 5,
+            "cold": 8,
+            "user_id": 6906,
+            "post_id": 9101,
             "course_name": "基礎學術英文",
             "teacher": "曾惠鈴",
             "like": 0,
