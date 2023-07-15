@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "7.0",
+    "cold": "4.0",
+    "sweet": "6.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "9461",
+        "id": "14060",
         "系所名稱": "機械所 ME",
         "系號": "N1",
         "選課序號": "N1027",
@@ -18,11 +18,11 @@
         "課程名稱": "燃燒學",
         "選必修": "選修",
         "學分": 3,
-        "老師": "林大惠",
+        "老師": "吳明勳*,伍芳嫺",
         "已選課人數": 0,
-        "餘額": 90,
-        "時間": "[2]1~2 [4]1 ",
-        "教室": "機械系館 三星講堂",
+        "餘額": 72,
+        "時間": "[2]3~4 [3]5 ",
+        "教室": "機械系館 91303",
         "備註": "英語授課",
         "限選條件": "限4年級以上選課",
         "業界參與": "否",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T10:27:24.000Z",
-        "count": 50,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-17T02:20:41.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-16T18:33:58.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 5633,
+            "comment": "上課人數\n主要為吳教授研究室內學生，以及大四生，學生只有6個，如果未出席，會很明顯。\n\n上課形式及內容\n以簡報為主，教授希望上課可以有課本作為輔助，但沒有也沒關係。\n\n-Outline\n⚫ Introduction\n⚫ Combustion thermochemistry\n⚫ Chemical kinetics\n⚫ Homogeneous systems\n⚫ Transport properties and governing equations\n⚫ Laminar premix flames\n⚫ Laminar diffusion flames\n⚫ Pollutant emissions\n⚫ Heterogeneous combustion\n⚫ Introduction to turbulent combustion\n\n-Textbook\n⚫ S.R. Turns, An Introduction to Combustion 2nd ed., McGraw-Hill\n\n評分方式\n⚫ Total: 110 pts\n• Homeworks: 30 pts\n• Take-home Midterm Exam: 20 pts\n• Comprehensive Final Exam: 30 pts\n• Group Project: 30 pts\n⚫ NO normalization or adjustment will be made!\n⚫ For those who earn more than 100 pts, the final score will be 99.\n⚫ Grades will be announced on Moodle.",
+            "semester": "107-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 3004,
+            "got": 7,
+            "sweet": 6,
+            "cold": 4,
+            "user_id": 1798,
+            "post_id": 5633,
+            "course_name": "燃燒學",
+            "teacher": "吳明勳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

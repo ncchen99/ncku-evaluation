@@ -1,15 +1,15 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 10,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
-        "id": "350",
+        "id": "12825",
         "系所名稱": "通識中心 GE",
         "系號": "A9",
-        "選課序號": "A9032",
+        "選課序號": "A9031",
         "課程碼": "A92T400",
-        "分班碼": "2",
+        "分班碼": "1",
         "班別": "",
         "年級": "",
         "類別": "人文學",
@@ -20,9 +20,9 @@
         "學分": 2,
         "老師": "楊金峯",
         "已選課人數": 0,
-        "餘額": 25,
-        "時間": "[5]5~6 ",
-        "教室": "唯農大樓 7217",
+        "餘額": 36,
+        "時間": "[5]3~4 ",
+        "教室": "唯農大樓 7311",
         "備註": "",
         "限選條件": "",
         "業界參與": "否",
@@ -31,15 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-12T00:07:40.000Z",
-        "count": 4339,
+        "remain_update_time": "2023-07-12T22:19:19.000Z",
+        "count": 168,
         "admit": null,
-        "comment": 0,
+        "created_time": "2023-06-16T18:33:58.000Z",
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9531,
+            "comment": "老師用自己的簡報上課，\n上課內容主要就是閩南語相關的歌曲跟一些基礎知識，\n平常成績就是上課念閩南語的上課內容，\n期末考也是一樣的評分方式，\n期末還有一個加分的google表單，\n老師人很好。",
+            "semester": "111-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6744,
+            "got": 7,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 10059,
+            "post_id": 9531,
+            "course_name": "臺灣閩南語曲謠之詞曲賞析與實務",
+            "teacher": "楊金峯",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

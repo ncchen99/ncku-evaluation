@@ -1,10 +1,10 @@
 {
-    "got": "7.9",
+    "got": "7.6",
     "cold": "6.9",
-    "sweet": "8.7",
-    "rate_count": 10,
+    "sweet": "8.3",
+    "rate_count": 12,
     "courseInfo": {
-        "id": "15",
+        "id": "12443",
         "系所名稱": "外語中心 FLC",
         "系號": "A1",
         "選課序號": "A1115",
@@ -30,16 +30,27 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 11,
-        "remain_update_time": "2022-07-12T03:14:51.000Z",
-        "count": 1506,
+        "comment_num": 13,
+        "remain_update_time": "2023-06-16T23:05:30.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-16T18:33:58.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 9129,
+            "comment": "有期中期末考，還有AWL單字的考試和課堂活動。\n‌老師會用一本課本上課，要自己去生出來，老師上課很有耐心，也很鼓勵同學開口，非常推；老師會按照她的課程進度表按步就班地上課，常常會提早下課，很讚，不過我想說，上課可以不用上那麼趕，我們沒有非得提早下課不可。\n\n‌推，老師人很好，期中考70期末考86其他小考作業大多接近100，最後84過。\n",
+            "semester": "110-2"
+        },
+        {
+            "id": 9247,
+            "comment": "上課需要課本，平時並沒有作業。一開始上課時會播一段影片當作聽力練習，有學習單填空。期中是考試，期末是口頭報告，可選個人或團體，一個人三分鐘。我覺得分數給的不算甜，但的確平時上課沒有做什麼事，主要都在上一些文章的架構，例如:thesis statement、topic sentence這種東西。然後偶爾有課堂小考，包括:考AWL單字、課本的東西。我的期中考的還不錯，但期末報告不好，最後81分過。\n",
+            "semester": "110-1"
+        },
         {
             "id": 8577,
             "comment": "老師人超好\n和藹可親也很給問問題\n期中期末滿分都超過110\n小考直接給題庫只要有讀隨便都很高分\n十分推薦的一門英文課",
@@ -239,6 +250,36 @@
             "cold": 4,
             "user_id": 7670,
             "post_id": 8577,
+            "course_name": "基礎學術英文",
+            "teacher": "辛佳玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6342,
+            "got": 9,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 7298,
+            "post_id": 9129,
+            "course_name": "基礎學術英文",
+            "teacher": "辛佳玲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6460,
+            "got": 3,
+            "sweet": 5,
+            "cold": 6,
+            "user_id": 9479,
+            "post_id": 9247,
             "course_name": "基礎學術英文",
             "teacher": "辛佳玲",
             "like": 0,

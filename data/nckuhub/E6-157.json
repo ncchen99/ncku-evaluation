@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "7.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8893",
+        "id": "13403",
         "系所名稱": "土木系 CE",
         "系號": "E6",
         "選課序號": "E6157",
@@ -20,7 +20,7 @@
         "學分": 3,
         "老師": "陳建旭",
         "已選課人數": 0,
-        "餘額": 50,
+        "餘額": 30,
         "時間": "[1]2~3 [3]2 ",
         "教室": "土木系館 4501",
         "備註": "甲乙合班",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T17:18:47.000Z",
-        "count": 66,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-19T20:23:57.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-16T18:33:58.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9150,
+            "comment": "老師是有實務經驗的老師！上課時會分享很多他在現場工作過的經驗談\n上課講義內容也非常豐富（考試都從講義出）\n但老師對上課是有要求的～所以絕對不能翹課滑手機\n\n",
+            "semester": "108-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6363,
+            "got": 8,
+            "sweet": 7,
+            "cold": 7,
+            "user_id": 2062,
+            "post_id": 9150,
+            "course_name": "施工法",
+            "teacher": "陳建旭",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

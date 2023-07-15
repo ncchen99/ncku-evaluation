@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 2,
+    "cold": 9,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
-        "id": "1",
+        "id": "12429",
         "系所名稱": "外語中心 FLC",
         "系號": "A1",
         "選課序號": "A1101",
@@ -31,15 +31,24 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2022-07-11T22:59:46.000Z",
-        "count": 1511,
+        "remain_update_time": "2023-07-12T23:22:24.000Z",
+        "count": 37,
         "admit": null,
-        "comment": 0,
-        "course_style": 0,
+        "created_time": "2023-06-16T18:33:58.000Z",
+        "comment": 2,
+        "course_style": 1,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 1,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 9535,
+            "comment": "其實是111-1選的，但沒有這個選項。\n上課很涼，老師會說要買課本，主要作業會有ted talk問題和新的分享，以上課耳麥的方式錄音。另外最重的作業應該是三分鐘關於自己主修科系的主題介紹。\n兩次考試，都有單字題，印象中還有文法（印想有點模糊），還有上課上的ted talk大綱，另外期中是多益五題左右，期末是類似申論的題目，但忘記是什麼了。\n上課語調不符合我的頻率，因此都在做自己的事，沒學到什麼東西，最後80+過，供參考。",
+            "semester": "110-1"
+        },
         {
             "id": 801,
             "comment": "你覺得你在這堂課付出多少：8/10\n你覺得你在這堂課收穫多少：8/10",
@@ -50,6 +59,22 @@
             "score_style": "出席10%，平時測驗20%，期中考20%，期末考20%，小組報告20%，作業10%"
         }
     ],
-    "rates": [],
+    "rates": [
+        {
+            "id": 6748,
+            "got": 2,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 8572,
+            "post_id": 9535,
+            "course_name": "基礎學術英文",
+            "teacher": "鍾淑玫",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

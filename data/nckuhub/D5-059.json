@@ -1,10 +1,10 @@
 {
-    "got": 8.2,
-    "cold": 5,
-    "sweet": 4.2,
-    "rate_count": 5,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
-        "id": "971",
+        "id": "8649",
         "系所名稱": "經濟系 ECON",
         "系號": "D5",
         "選課序號": "D5059",
@@ -18,9 +18,9 @@
         "課程名稱": "總體經濟學（一）",
         "選必修": "必修",
         "學分": 3,
-        "老師": "許永河",
-        "已選課人數": 67,
-        "餘額": 33,
+        "老師": "伍弘歷",
+        "已選課人數": 0,
+        "餘額": 100,
         "時間": "[3]2~4 ",
         "教室": "社科院大樓 80103",
         "備註": "",
@@ -30,119 +30,17 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 4,
-        "remain_update_time": "2022-08-21T17:01:31.000Z",
-        "count": 492,
+        "comment_num": 0,
+        "remain_update_time": "2023-06-17T07:23:16.000Z",
+        "count": 4,
         "admit": null,
-        "comment": 5,
+        "created_time": "2023-06-15T18:38:06.000Z",
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
-    "comment": [
-        {
-            "id": 9053,
-            "comment": "上課方式是用ppt 平時每章結束都會有作業 作業比重還蠻高的 基本上都要繳交 考試的題型比較吃觀念 需要多加複習才能拿高分",
-            "semester": "110-1"
-        },
-        {
-            "id": 8505,
-            "comment": "老師上課很悶，會要求學生一定要到，每個章節都會有回家作業，期中期末選擇非選都有，偏難，下課可以去前面問老師問題，老師會很努力想要把每個學生都記住，上課的時候也會抽點學生回答問題",
-            "semester": "109-1"
-        },
-        {
-            "id": 6761,
-            "comment": "整學期固定座位\n基本上第一堂課坐在哪就是哪了\n每次上課必點名\n期中考和期末考一次\n還有每章節有回家作業\n考試比重占很大\n上課很充實但很不涼和不甜",
-            "semester": "108-1"
-        },
-        {
-            "id": 7287,
-            "comment": "老師上課有點沉悶，雖然會讓人有點昏昏欲睡，但會在課堂中，補充到很多課外的延伸。老師的作業也都不難，只要認真做，都能拿到不錯的成績。但期中期末的考題，就需要更深入的了解整個授課內容，但也因此學得更透徹!",
-            "semester": "108-1"
-        },
-        {
-            "id": 6137,
-            "comment": "上課形式:照PPT上課，但是有些同學不懂的地方會多做解釋。不會的問題下課可以問他，蠻和藹的老師。\n課堂要求:不可以睡覺、滑手機\n學習內容:總體經濟起源、各個總體經濟學派的觀點、各學派所衍伸出的經濟模型。\n評分方式:期中考、期末考、作業、助教課...",
-            "semester": "106-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 3508,
-            "got": 8,
-            "sweet": 4,
-            "cold": 2,
-            "user_id": 1699,
-            "post_id": 6137,
-            "course_name": "總體經濟學（一）",
-            "teacher": "許永河",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4132,
-            "got": 9,
-            "sweet": 3,
-            "cold": 2,
-            "user_id": 1329,
-            "post_id": 6761,
-            "course_name": "總體經濟學（一）",
-            "teacher": "許永河",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 4537,
-            "got": 10,
-            "sweet": 8,
-            "cold": 6,
-            "user_id": 6241,
-            "post_id": 7287,
-            "course_name": "總體經濟學（一）",
-            "teacher": "許永河",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5718,
-            "got": 8,
-            "sweet": 2,
-            "cold": 8,
-            "user_id": 8105,
-            "post_id": 8505,
-            "course_name": "總體經濟學（一）",
-            "teacher": "許永河",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 6266,
-            "got": 6,
-            "sweet": 4,
-            "cold": 7,
-            "user_id": 6587,
-            "post_id": 9053,
-            "course_name": "總體經濟學（一）",
-            "teacher": "許永河",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

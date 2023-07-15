@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "9.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8326",
+        "id": "13000",
         "系所名稱": "中文系 CL",
         "系號": "B1",
         "選課序號": "B1154",
@@ -20,7 +20,7 @@
         "學分": 2,
         "老師": "廖育正",
         "已選課人數": 0,
-        "餘額": 30,
+        "餘額": 60,
         "時間": "[5]5~6 ",
         "教室": "中文系館 21103",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-11T23:08:50.000Z",
-        "count": 716,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-16T23:43:49.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-16T18:33:58.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9288,
+            "comment": "先說真的涼，期中期末都是2500字的報告而已，平常都是老師自己台上講課\n但會點名跟偶爾抽人問問題\n名稱叫美學但其實內容上起來感覺很像哲學思辨\n認真聽課會學到很多",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6501,
+            "got": 8,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 5255,
+            "post_id": 9288,
+            "course_name": "美學概論",
+            "teacher": "廖育正",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

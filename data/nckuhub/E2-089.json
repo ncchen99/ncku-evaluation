@@ -1,10 +1,10 @@
 {
-    "got": "9.0",
-    "cold": "8.0",
-    "sweet": "10.0",
-    "rate_count": 1,
+    "got": "9.7",
+    "cold": "5.3",
+    "sweet": "9.3",
+    "rate_count": 3,
     "courseInfo": {
-        "id": "1134",
+        "id": "8701",
         "系所名稱": "電機系 EE",
         "系號": "E2",
         "選課序號": "E2089",
@@ -30,16 +30,27 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-07-11T22:47:33.000Z",
-        "count": 364,
+        "comment_num": 3,
+        "remain_update_time": "2023-06-16T19:10:07.000Z",
+        "count": 7,
         "admit": null,
+        "created_time": "2023-06-15T18:38:06.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 9309,
+            "comment": "老師上課進度有點趕，需要專心一點上課，Lab大概有5個左右，都要花上一點時間去完成，但如果每次都有好好寫，就能將上課的內容融會貫通，期中期末都是openbook但不會考得很簡單。",
+            "semester": "110-2"
+        },
+        {
+            "id": 9328,
+            "comment": "新老師非常認真，連助教們也是，這學期有非常多的LAB，每個都需要花時間，但做完都會非常有成就感，能學到很多東西。可惜得點是學期中，作業有停滯了很久，導致有些作業沒出到。",
+            "semester": "110-2"
+        },
         {
             "id": 8644,
             "comment": "是個新老師，雖然他上課相性跟我不太合，但是可以感覺老師很想讓大家聽懂。\n\n另外值得一提的是這堂課的Lab，共占學期50%，相當紮實，尤其跟另一班比，助教也是我目前遇到數一數二好。\n\n我們這次採開書考，你可能會覺得很爽。對，真的爽，剛好能跟Lab有一個完美平衡。\n\n教授人真的很好，希望大家珍惜這堂好課，來這就是學東西的，如果想靠考古+Lab輕鬆過我推隔壁班。",
@@ -54,6 +65,36 @@
             "cold": 8,
             "user_id": 5594,
             "post_id": 8644,
+            "course_name": "計算機組織",
+            "teacher": "蔡家齊",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6522,
+            "got": 10,
+            "sweet": 9,
+            "cold": 5,
+            "user_id": 9841,
+            "post_id": 9309,
+            "course_name": "計算機組織",
+            "teacher": "蔡家齊",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6541,
+            "got": 10,
+            "sweet": 9,
+            "cold": 3,
+            "user_id": 9882,
+            "post_id": 9328,
             "course_name": "計算機組織",
             "teacher": "蔡家齊",
             "like": 0,

@@ -1,10 +1,10 @@
 {
-    "got": 6.5,
-    "cold": 7.5,
-    "sweet": 8,
+    "got": "6.5",
+    "cold": "7.5",
+    "sweet": "8.0",
     "rate_count": 2,
     "courseInfo": {
-        "id": "1918",
+        "id": "9171",
         "系所名稱": "交管系 TCM",
         "系號": "H5",
         "選課序號": "H5128",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "廖俊雄",
-        "已選課人數": 28,
-        "餘額": 12,
+        "已選課人數": 0,
+        "餘額": 50,
         "時間": "[1]2~3 [3]2 ",
         "教室": "交管系館 62102",
         "備註": "電信領域必修",
@@ -30,15 +30,15 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-08-19T07:42:56.000Z",
-        "count": 167,
+        "comment_num": 2,
+        "remain_update_time": "2023-06-16T19:33:58.000Z",
+        "count": 2,
         "admit": null,
-        "comment": 2,
+        "created_time": "2023-06-15T18:38:06.000Z",
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {

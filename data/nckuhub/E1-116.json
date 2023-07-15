@@ -1,10 +1,10 @@
 {
-    "got": "8.3",
-    "cold": "5.3",
-    "sweet": "7.3",
-    "rate_count": 3,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
-        "id": "1070",
+        "id": "8677",
         "系所名稱": "機械系 ME",
         "系號": "E1",
         "選課序號": "E1116",
@@ -18,9 +18,9 @@
         "課程名稱": "電子學",
         "選必修": "必修",
         "學分": 2,
-        "老師": "施士塵",
-        "已選課人數": 49,
-        "餘額": 16,
+        "老師": "未定",
+        "已選課人數": 45,
+        "餘額": 20,
         "時間": "[4]1~2 ",
         "教室": "機械系館 91204",
         "備註": "",
@@ -30,78 +30,17 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 3,
-        "remain_update_time": "2022-07-12T23:27:16.000Z",
-        "count": 229,
+        "comment_num": 0,
+        "remain_update_time": "2023-07-15T08:31:53.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-15T18:38:06.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 8362,
-            "comment": "老師人不錯，以中文方式上課。\n通常在課堂中會提醒期中期末會考什麼。\n每次教觀念也都非常清楚。\n只要有認真上課，分數基本上不會太低。",
-            "semester": "110-1"
-        },
-        {
-            "id": 8294,
-            "comment": "主要是用用ppt跟中文課本上課\n上課方式很chill，教授不太會管你在做啥\n偶爾會小考一下（簡單的課本題目）\n期中期末共3次\n",
-            "semester": "109-1"
-        },
-        {
-            "id": 7609,
-            "comment": "老師上課講解清晰，就算不是很懂電子的我聽完也稍微比較理解！\n考試也幾乎都是從老師上課簡報或是課本例題出現。",
-            "semester": "109-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 4859,
-            "got": 7,
-            "sweet": 6,
-            "cold": 4,
-            "user_id": 4879,
-            "post_id": 7609,
-            "course_name": "電子學",
-            "teacher": "施士塵",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5507,
-            "got": 8,
-            "sweet": 7,
-            "cold": 7,
-            "user_id": 5179,
-            "post_id": 8294,
-            "course_name": "電子學",
-            "teacher": "施士塵",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        },
-        {
-            "id": 5575,
-            "got": 10,
-            "sweet": 9,
-            "cold": 5,
-            "user_id": 7877,
-            "post_id": 8362,
-            "course_name": "電子學",
-            "teacher": "施士塵",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

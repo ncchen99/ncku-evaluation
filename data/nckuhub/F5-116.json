@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "4.0",
+    "cold": "10.0",
+    "sweet": "2.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "1668",
+        "id": "9025",
         "系所名稱": "環工系 EV",
         "系號": "F5",
         "選課序號": "F5116",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "侯文哲",
-        "已選課人數": 58,
-        "餘額": 2,
+        "已選課人數": 0,
+        "餘額": 56,
         "時間": "[2]1 [4]3~4 ",
         "教室": "環工系館 47112",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-17T18:11:54.000Z",
-        "count": 67,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-18T22:24:08.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-15T18:38:06.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9236,
+            "comment": "都什麼年代了，調分還只調不及格的人，原本就60、70的直接哭暈在廁所，早知道我也不用認真準備，反正不要當墊底的都會被調到60。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6449,
+            "got": 4,
+            "sweet": 2,
+            "cold": 10,
+            "user_id": 5323,
+            "post_id": 9236,
+            "course_name": "給水工程",
+            "teacher": "侯文哲",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

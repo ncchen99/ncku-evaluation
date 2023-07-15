@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 1,
+    "cold": 1,
+    "sweet": 4,
+    "rate_count": 1,
     "courseInfo": {
-        "id": "1679",
+        "id": "13513",
         "系所名稱": "測量系 GM",
         "系號": "F6",
         "選課序號": "F6004",
@@ -19,10 +19,10 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "陳寬任",
-        "已選課人數": 4,
-        "餘額": 66,
+        "已選課人數": 0,
+        "餘額": 70,
         "時間": "[1]5~6 [5]2 ",
-        "教室": "測量系館 55250",
+        "教室": "理學教學大樓 36204",
         "備註": "",
         "限選條件": "",
         "業界參與": "否",
@@ -31,15 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2022-07-13T17:11:47.000Z",
-        "count": 167,
+        "remain_update_time": null,
+        "count": 0,
         "admit": null,
-        "comment": 0,
+        "created_time": "2023-06-16T18:33:58.000Z",
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9406,
+            "comment": "性騷擾前科教師\n上課使用英文PPT，言語空泛不知道在說什麼，要考高分很倚賴老本和自修\n老師很鼓勵同學發言，舉手回答問題會加分，再簡單的問題都有分",
+            "semester": "112-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6619,
+            "got": 1,
+            "sweet": 4,
+            "cold": 1,
+            "user_id": 8451,
+            "post_id": 9406,
+            "course_name": "普通物理學（一）",
+            "teacher": "陳寬任",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

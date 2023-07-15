@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "7.0",
+    "cold": "10.0",
+    "sweet": "10.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "1376",
+        "id": "8855",
         "系所名稱": "土木系 CE",
         "系號": "E6",
         "選課序號": "E6089",
@@ -19,7 +19,7 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "蕭志銘",
-        "已選課人數": 58,
+        "已選課人數": 56,
         "餘額": 0,
         "時間": "[2]2 [5]3~4 ",
         "教室": "土木系館 4507",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T00:08:05.000Z",
-        "count": 83,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-20T21:50:05.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-15T18:38:06.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9224,
+            "comment": "上課稍微輕鬆，有10%點名分數，若有學長姊的考古題掌握段考方向會很穩的過\n\n老師上課時會舉一些生活上的例子，需要認真聽，可能會變成加分題。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6437,
+            "got": 7,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 9738,
+            "post_id": 9224,
+            "course_name": "運輸工程學",
+            "teacher": "蕭志銘",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

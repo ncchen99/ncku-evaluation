@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "6.0",
+    "cold": "6.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "1539",
+        "id": "8958",
         "系所名稱": "系統系 SNME",
         "系號": "F1",
         "選課序號": "F1143",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "陳永裕",
-        "已選課人數": 56,
-        "餘額": 4,
+        "已選課人數": 0,
+        "餘額": 60,
         "時間": "[4]7~9 ",
         "教室": "系統系館 56111",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T21:39:43.000Z",
-        "count": 89,
+        "comment_num": 1,
+        "remain_update_time": "2023-06-17T14:41:55.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-15T18:38:06.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9250,
+            "comment": "上課形式：\n老師寫板書（抄課本），上課偶爾會突襲小考，會說考試可能考哪裡\n\n作業：\n格式應每年助教的要求都不太一樣，但我們有接放大器電路、寫Matlab程式、一般作業題目等，但答案就得主動和助教提才有可能拿到。",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6463,
+            "got": 6,
+            "sweet": 7,
+            "cold": 6,
+            "user_id": 6524,
+            "post_id": 9250,
+            "course_name": "系統工程分析",
+            "teacher": "陳永裕",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

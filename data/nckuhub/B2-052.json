@@ -1,10 +1,10 @@
 {
-    "got": "8.0",
-    "cold": "7.0",
-    "sweet": "7.0",
-    "rate_count": 1,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
-        "id": "609",
+        "id": "13013",
         "系所名稱": "外文系 FLL",
         "系號": "B2",
         "選課序號": "B2052",
@@ -18,9 +18,9 @@
         "課程名稱": "英語口語訓練（三）",
         "選必修": "必修",
         "學分": 3,
-        "老師": "金傑夫",
-        "已選課人數": 24,
-        "餘額": 0,
+        "老師": "石苓",
+        "已選課人數": 18,
+        "餘額": 2,
         "時間": "[3]2 [5]3~4 ",
         "教室": "修齊大樓 26421",
         "備註": "B組，限本系，外籍教師",
@@ -30,38 +30,17 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-07-11T22:46:57.000Z",
-        "count": 112,
+        "comment_num": 0,
+        "remain_update_time": "2023-06-22T05:38:31.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2023-06-16T18:33:58.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 7826,
-            "comment": "傑夫上課形式蠻輕鬆的\n沒有主要的syllabus\n也不用買書或任何講義\n課程內容包含role play, debate, presentation, conference等等\n然後幾乎禮拜都會有moodle post要寫 \n會有不同主題 例如：小時候的回憶、台灣這十年來的改變\n大概只需要寫100個字以內\n有寫分數都一樣 \n然後老師很鼓勵大家 每堂課一定要講至少一句話\n最後兩學期分別84跟88\n口訓給外籍老師上都還不錯\n還可以訓練聽力！",
-            "semester": "109-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 5076,
-            "got": 8,
-            "sweet": 7,
-            "cold": 7,
-            "user_id": 5178,
-            "post_id": 7826,
-            "course_name": "英語口語訓練（三）",
-            "teacher": "金傑夫",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

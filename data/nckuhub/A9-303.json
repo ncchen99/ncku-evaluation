@@ -1,10 +1,10 @@
 {
-    "got": 7.25,
-    "cold": 6.75,
-    "sweet": 7.75,
-    "rate_count": 4,
+    "got": "7.0",
+    "cold": "7.4",
+    "sweet": "7.8",
+    "rate_count": 5,
     "courseInfo": {
-        "id": "423",
+        "id": "8455",
         "系所名稱": "通識中心 GE",
         "系號": "A9",
         "選課序號": "A9303",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "陳景文",
-        "已選課人數": 40,
-        "餘額": 0,
+        "已選課人數": 0,
+        "餘額": 43,
         "時間": "[5]3~4 ",
         "教室": "雲平大樓 27103(通識中心",
         "備註": "",
@@ -30,22 +30,25 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 4,
-        "remain_update_time": "2022-08-02T01:11:56.000Z",
-        "count": 4288,
+        "comment_num": 6,
+        "remain_update_time": "2023-06-16T18:54:56.000Z",
+        "count": 12,
         "admit": null,
-        "comment": 5,
-        "course_style": 1,
+        "created_time": "2023-06-15T18:38:06.000Z",
+        "comment": 0,
+        "course_style": 0,
         "report_hw": 0,
-        "score_style": 1,
-        "semester": null,
-        "course_need": null,
-        "exam_style": null
+        "score_style": 0
     },
     "comment": [
         {
             "id": 8977,
             "comment": "這堂課程蠻適合推薦給對建築有興趣的人。\n上課老師會補充很多有關動物建築、抗震的概念。\n整理來說，這堂課很涼，值得大家來這門課。",
+            "semester": "109-1"
+        },
+        {
+            "id": 9204,
+            "comment": "上課形式：投影幕上課，內容就是和建築、建材、抗震係數有關\n考試形式：只要把講義都背起來就好，盡量多畫圖\n",
             "semester": "109-1"
         },
         {
@@ -126,6 +129,21 @@
             "cold": 7,
             "user_id": 8448,
             "post_id": 8977,
+            "course_name": "建築與抗震",
+            "teacher": "陳景文",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6417,
+            "got": 6,
+            "sweet": 8,
+            "cold": 10,
+            "user_id": 5358,
+            "post_id": 9204,
             "course_name": "建築與抗震",
             "teacher": "陳景文",
             "like": 0,

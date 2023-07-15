@@ -1,10 +1,10 @@
 {
-    "got": 7.333333333333333,
-    "cold": 8.333333333333334,
-    "sweet": 7.666666666666667,
+    "got": "7.3",
+    "cold": "8.3",
+    "sweet": "7.7",
     "rate_count": 3,
     "courseInfo": {
-        "id": "1521",
+        "id": "8943",
         "系所名稱": "系統系 SNME",
         "系號": "F1",
         "選課序號": "F1017",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "林宇銜",
-        "已選課人數": 3,
-        "餘額": 52,
+        "已選課人數": 0,
+        "餘額": 60,
         "時間": "[2]3~4 ",
         "教室": "系統系館 56111",
         "備註": "",
@@ -30,15 +30,15 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-08-13T06:26:55.000Z",
-        "count": 162,
+        "comment_num": 3,
+        "remain_update_time": "2023-06-17T14:48:11.000Z",
+        "count": 2,
         "admit": null,
-        "comment": 3,
+        "created_time": "2023-06-15T18:38:06.000Z",
+        "comment": 0,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0,
-        "semester": null
+        "score_style": 0
     },
     "comment": [
         {
