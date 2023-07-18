@@ -1,17 +1,17 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 9,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9673",
-        "系所名稱": "材料所 MSE",
-        "系號": "N5",
-        "選課序號": "N5051",
+        "系所名稱": "材料系 MSE",
+        "系號": "E5",
+        "選課序號": "E5152",
         "課程碼": "N564100",
         "分班碼": "",
-        "班別": "碩",
-        "年級": "",
+        "班別": "甲乙",
+        "年級": "4",
         "類別": "講義",
         "組別": null,
         "英語授課": "N",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "鍾昇恆",
-        "已選課人數": 0,
-        "餘額": 110,
+        "已選課人數": 65,
+        "餘額": 45,
         "時間": "[3]5~7 ",
         "教室": "材料新館 44101",
         "備註": "",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-19T05:01:29.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-16T18:51:01.000Z",
+        "count": 42,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9577,
+            "comment": "材料系少數輕鬆的選修課\n學碩共開，兩次考試，一次團體上台報告（報paper）\n老師人不錯，不會刁難學生\n考試前專心讀老師的previous review 就不會考太爛\n期中70期末25 最後87過\n比我認真一點考期末拿個90up應該不難",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6790,
+            "got": 10,
+            "sweet": 9,
+            "cold": 9,
+            "user_id": 10120,
+            "post_id": 9577,
+            "course_name": "能源材料",
+            "teacher": "鍾昇恆",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

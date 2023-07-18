@@ -1,8 +1,8 @@
 {
-    "got": 7.117647058823529,
-    "cold": 8.352941176470589,
-    "sweet": 7.313725490196078,
-    "rate_count": 51,
+    "got": 7.096153846153846,
+    "cold": 8.384615384615385,
+    "sweet": 7.3076923076923075,
+    "rate_count": 52,
     "courseInfo": {
         "id": "12852",
         "系所名稱": "通識中心 GE",
@@ -30,12 +30,12 @@
         "跨領域學分學程": "醫學、科技與社會學程(STM)",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 40,
-        "remain_update_time": "2023-07-13T04:22:33.000Z",
-        "count": 419,
+        "comment_num": 41,
+        "remain_update_time": "2023-07-16T18:59:01.000Z",
+        "count": 792,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 41,
+        "comment": 42,
         "course_style": 1,
         "report_hw": 0,
         "score_style": 1,
@@ -52,6 +52,11 @@
         {
             "id": 9552,
             "comment": "老師人很好 線上課\n每堂都會點名 上課到一半有時候還會要填點名表單\n期中期末各一個考試\n題目都從上課ppt出\n還有加分實驗可以做\n最後92過",
+            "semester": "111-2"
+        },
+        {
+            "id": 9576,
+            "comment": "給想專心在系上必修課的人\n我不太管老師給分高低，只要能過且涼\n線上上課，兩次考試可看講義考\n我整學期上課不超過五次\n考試乖乖寫都90以上\n最後89",
             "semester": "111-2"
         },
         {
@@ -1012,6 +1017,21 @@
             "cold": 10,
             "user_id": 10066,
             "post_id": 9552,
+            "course_name": "心理學",
+            "teacher": "周麗芳",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6789,
+            "got": 6,
+            "sweet": 7,
+            "cold": 10,
+            "user_id": 10120,
+            "post_id": 9576,
             "course_name": "心理學",
             "teacher": "周麗芳",
             "like": 0,

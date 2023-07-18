@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "10.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": 4.5,
+    "cold": 5.5,
+    "sweet": 4.5,
+    "rate_count": 2,
     "courseInfo": {
         "id": "12913",
         "系所名稱": "通識中心 GE",
@@ -31,16 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2023-06-17T00:13:34.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-17T23:54:47.000Z",
+        "count": 607,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9597,
+            "comment": "期中84 考前一天很認真讀PPT 但我其實也不知道未甚麼這麼高..\n期末36 因為沒讀PPT+搞錯出題方向\n上課沒很專心聽課 有缺課請假3次\n學期67過\n不填不良",
+            "semester": "111-2"
+        },
         {
             "id": 9376,
             "comment": "超級涼 只有偶爾點名\n然後期中期末 期中考是非跟複選大概五分鐘就能寫完\n老師考前會畫重點說哪些會考 但複選沒全對就沒分最好還是讀仔細一點\n個人覺得上課內容滿有趣的",
@@ -55,6 +61,21 @@
             "cold": 10,
             "user_id": 9577,
             "post_id": 9376,
+            "course_name": "科學哲學",
+            "teacher": "戴東源",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6810,
+            "got": 1,
+            "sweet": 1,
+            "cold": 1,
+            "user_id": 9555,
+            "post_id": 9597,
             "course_name": "科學哲學",
             "teacher": "戴東源",
             "like": 0,

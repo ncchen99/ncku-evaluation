@@ -1,16 +1,16 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 10,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "9825",
-        "系所名稱": "智慧製造碩士學程 iCIM",
-        "系號": "NF",
-        "選課序號": "NF026",
+        "系所名稱": "工程管理碩專 EM",
+        "系號": "N0",
+        "選課序號": "N0331",
         "課程碼": "P971000",
         "分班碼": "",
-        "班別": "碩博",
+        "班別": "碩專一二",
         "年級": "",
         "類別": "講義",
         "組別": null,
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-16T18:34:11.000Z",
-        "count": 3,
+        "remain_update_time": "2023-07-15T08:37:00.000Z",
+        "count": 5,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9569,
+            "comment": "老師不會當人\n上課很佛系像哲學課\n可遠距上課且不會點名\n期末有小組報告與回家寫的期末考\n配分期末考50%專題50%",
+            "semester": "112-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6782,
+            "got": 5,
+            "sweet": 9,
+            "cold": 10,
+            "user_id": 10099,
+            "post_id": 9569,
+            "course_name": "智慧商務",
+            "teacher": "陳裕民",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

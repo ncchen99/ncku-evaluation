@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8339",
         "系所名稱": "體育室 OPE",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-20T04:37:37.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-17T17:05:44.000Z",
+        "count": 65,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9593,
+            "comment": "老師上課氣氛很放鬆，對出席要求沒很高，基本上課程有些運動強度但不會太累，有很多需要手腳協調培養專注力的動作。一學期去一半而已，三次作業是錄影上傳yt,無期中期末85過，出席高穩穩90。",
+            "semester": "112-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6806,
+            "got": 9,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 10137,
+            "post_id": 9593,
+            "course_name": "基礎瑜珈與健康知能",
+            "teacher": "蔡岳璋",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

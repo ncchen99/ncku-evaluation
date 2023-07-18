@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 1,
+    "cold": 7,
+    "sweet": 5,
+    "rate_count": 1,
     "courseInfo": {
         "id": "12867",
         "系所名稱": "通識中心 GE",
@@ -24,23 +24,46 @@
         "時間": "[3]3~4 ",
         "教室": "唯農大樓 許文龍講堂",
         "備註": "",
-        "限選條件": "",
+        "限選條件": "限2年級以上選課",
         "業界參與": "否",
         "屬性碼": "GE2074",
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-16T22:39:39.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-18T00:28:15.000Z",
+        "count": 592,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9599,
+            "comment": "一次期末考 會分組報告2次 隨機點名 時機通常是一上課 \n中間會需要寄email給他\"會議記錄\"和一些類似\"報告大綱\"的東西 \n1.不會用moodle收作業的老師，用email來往，但她沒收到信件會把問題歸咎於你\n2.上課內容零散，感覺不出重點，偶爾用一些ppt但不會放moodle，期末考沒有準備方向\n評分包含一部份組員評分，以及他組對於報告的評分，兩者加起來大約15-25%(忘記確切\n最後分數在B+ 大三結束修過最氣、分數最低的通識課",
+            "semester": "112-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6812,
+            "got": 1,
+            "sweet": 5,
+            "cold": 7,
+            "user_id": 6061,
+            "post_id": 9599,
+            "course_name": "國際經貿與經濟永續發展",
+            "teacher": "謝文真",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
