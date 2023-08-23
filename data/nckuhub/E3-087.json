@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 5,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8749",
         "系所名稱": "化工系 CHE",
@@ -19,8 +19,8 @@
         "選必修": "必選",
         "學分": 3,
         "老師": "郭致宏",
-        "已選課人數": 0,
-        "餘額": 161,
+        "已選課人數": 143,
+        "餘額": 18,
         "時間": "[3]7~9 ",
         "教室": "化工系館 柏林講堂",
         "備註": "每生必選",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-20T01:20:24.000Z",
-        "count": 1,
+        "remain_update_time": "2023-08-08T02:20:38.000Z",
+        "count": 28,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9629,
+            "comment": "老師上課的聲音很催眠，注意不要睡著，作業和考試有念就有分數，系外的同學修起來困難度不會很大，因為笨笨的我都可以100，你也一定可以",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6842,
+            "got": 7,
+            "sweet": 10,
+            "cold": 5,
+            "user_id": 9628,
+            "post_id": 9629,
+            "course_name": "電子及電工學",
+            "teacher": "郭致宏",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

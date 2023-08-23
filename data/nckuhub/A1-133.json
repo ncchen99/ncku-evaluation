@@ -1,8 +1,8 @@
 {
-    "got": "7.1",
-    "cold": "7.2",
-    "sweet": "7.2",
-    "rate_count": 13,
+    "got": 7.142857142857143,
+    "cold": 7.142857142857143,
+    "sweet": 7.285714285714286,
+    "rate_count": 14,
     "courseInfo": {
         "id": "12461",
         "系所名稱": "外語中心 FLC",
@@ -31,16 +31,24 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 16,
-        "remain_update_time": "2023-06-16T22:45:31.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-30T09:24:00.000Z",
+        "count": 284,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
-        "course_style": 0,
-        "report_hw": 0,
-        "score_style": 0
+        "comment": 17,
+        "course_style": 2,
+        "report_hw": 1,
+        "score_style": 2,
+        "semester": null,
+        "course_need": null,
+        "exam_style": null
     },
     "comment": [
+        {
+            "id": 9622,
+            "comment": "老師上課充滿活力，會給很多自學資源，推。\n\n上課方式:\n老師會帶大家看過文章，後面題目是讓同學戴耳機互相討論，有時會帶文法或其他的，同時視同學討論狀況給分。\n\n點名方式:\n傳簽到表。\n\n考試:\n期中考上課內容都偏簡單；期末是口頭個人報告+PPT，抽完題目回家準備，有至少1~2個禮拜準備。\n\n計分方式:\n出席率:20%；課堂參與度:20%；期中測驗:30%；期末個人簡報:30%\n\n心得:\n沒想像中那麼難，討論時盡量講、多發表，但有機會遇到不講話、裝死的；考試部分我只認真準備期末報告，最後8X過，推!\n",
+            "semester": "111-2"
+        },
         {
             "id": 9271,
             "comment": "如果你是想來刷分的，千萬千萬千千萬不要來選這們課，非常的硬，又不甜，80分以上的人數趨近於0，提供給別人參考。",
@@ -319,6 +327,21 @@
             "cold": 1,
             "user_id": 8430,
             "post_id": 9271,
+            "course_name": "基礎學術英文",
+            "teacher": "曾惠鈴",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6835,
+            "got": 8,
+            "sweet": 8,
+            "cold": 7,
+            "user_id": 10185,
+            "post_id": 9622,
             "course_name": "基礎學術英文",
             "teacher": "曾惠鈴",
             "like": 0,

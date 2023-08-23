@@ -1,8 +1,8 @@
 {
-    "got": "5.0",
-    "cold": "8.0",
-    "sweet": "7.0",
-    "rate_count": 1,
+    "got": 5.5,
+    "cold": 8,
+    "sweet": 7,
+    "rate_count": 2,
     "courseInfo": {
         "id": "9135",
         "系所名稱": "工資系 IIM",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "莊雅棠",
-        "已選課人數": 0,
-        "餘額": 60,
+        "已選課人數": 2,
+        "餘額": 58,
         "時間": "[2]3~4 [4]2 ",
         "教室": "工管系館 61101",
         "備註": "",
@@ -31,16 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2023-06-16T23:17:30.000Z",
-        "count": 1,
+        "remain_update_time": "2023-07-24T19:55:26.000Z",
+        "count": 55,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9620,
+            "comment": "我是111-1修這門課的，但是NCKU HUB上沒能填111-1的心得，於是我就改填110-1。\n\n[上課方式] 有時候實體，有時候線上上課，但是都不會點名。(出席沒有納入成績)\n\n[教材] PPT，會放在Moodle。\n\n[報告] 兩次小組報告，先說Midterm Presentation好了。Midterm Presentation是3~4人一組，每組6分鐘，基本上就是做一些PPT。再來說明期末的報告，期末的報告工程稍微較期中浩大一些，需要組員一起找一個主題然後套用這學期所學到的工管知識。期末報告有分成口頭報告+書面報告，除了要做PPT(口頭報告)外，還要交一份正式的書面報告(word or pdf)，期末口頭報告為10分鐘。\n\n[考試] 沒有小考，也沒有期中考，只有一次佔35%的期末考。期末考可以帶一張A4大抄作參考，要帶計算機。至於期末 \n       考的範圍是整學期的PPT。\n\n[評分方式] Midterm Presentation: 15%\n          Final Project Presentation: 20%\n          Final Report: 30%\n          Final Exam: 35%\n\n[成績分布] 90~100: 14人\n          80~90: 28人\n          70~80: 26人\n          60~70: 10人，沒有人低於60\n\n[心得] 我期末考86，報告我跟組員都有認真做，最後90過。老實說，只要報告做得不錯，應該可以拿到不錯的分數。老師最後好像有調分，沒有人被當。總的來說，這門課還算涼、甜，收穫就見仁見智。",
+            "semester": "110-1"
+        },
         {
             "id": 8386,
             "comment": "上課會使用ppt上課，有時候會透過影片了解，期中和期末都要報告，3~5人一組，期中6分鐘，期末12分鐘\n沒有期中考，只有期末考\n基本上分數不會太低",
@@ -55,6 +61,21 @@
             "cold": 8,
             "user_id": 8066,
             "post_id": 8386,
+            "course_name": "工業管理概論",
+            "teacher": "莊雅棠",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6833,
+            "got": 6,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 10073,
+            "post_id": 9620,
             "course_name": "工業管理概論",
             "teacher": "莊雅棠",
             "like": 0,

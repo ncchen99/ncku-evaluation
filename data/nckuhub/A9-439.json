@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 9,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 2,
     "courseInfo": {
         "id": "12915",
         "系所名稱": "通識中心 GE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "戴文嫺",
-        "已選課人數": 0,
-        "餘額": 43,
+        "已選課人數": 4,
+        "餘額": 39,
         "時間": "[3]3~4 ",
         "教室": "土木系館 4501",
         "備註": "科:人、社",
@@ -30,17 +30,60 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2023-06-17T01:39:37.000Z",
-        "count": 1,
+        "comment_num": 1,
+        "remain_update_time": "2023-07-26T23:51:16.000Z",
+        "count": 542,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9612,
+            "comment": "非常輕鬆的課 分數超級高 只要達成老師的一些簡單要求就一定可以90分以上\n\n需要去原住民部落紀錄儀式祭典，部分祭典老師會開車帶同學前往\n\n",
+            "semester": "111-2"
+        },
+        {
+            "id": 9618,
+            "comment": "學期初老師就先說所有事情都有完成 必定90分以上\n且上課氣氛非常好 老師會一直鼓勵大家\n小小遲到老師也都會補點名\n人超級好 \n\n期中有一次小組報告5000字\n期末是個人報告大概2000多字\n比較麻煩一點是要實地去訪查、上台報告\n但付出1-2天準備\n最終分數97過 非常值得\n\n\n\n\n\n",
+            "semester": "111-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6825,
+            "got": 8,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 6873,
+            "post_id": 9612,
+            "course_name": "台灣原住民音樂文化田野調查專題",
+            "teacher": "戴文嫺",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6831,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 10183,
+            "post_id": 9618,
+            "course_name": "台灣原住民音樂文化田野調查專題",
+            "teacher": "戴文嫺",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
