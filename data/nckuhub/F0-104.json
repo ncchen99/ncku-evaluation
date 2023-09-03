@@ -1,8 +1,8 @@
 {
-    "got": "8.0",
-    "cold": "10.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": 8.5,
+    "cold": 9,
+    "sweet": 9,
+    "rate_count": 2,
     "courseInfo": {
         "id": "8935",
         "系所名稱": "能源學程 IBPE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "王偉成",
-        "已選課人數": 0,
-        "餘額": 32,
+        "已選課人數": 27,
+        "餘額": 5,
         "時間": "[1]9 [3]5~6 ",
         "教室": "航太系館 5828",
         "備註": "航太系與能源學程合開",
@@ -31,16 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 1,
-        "remain_update_time": "2023-06-21T06:29:25.000Z",
-        "count": 1,
+        "remain_update_time": "2023-08-28T06:15:26.000Z",
+        "count": 48,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 2,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9701,
+            "comment": "****修課學期:111-1****\n\n老師用PPT上課 教學速度也不會太快 不會點名\n只是PPT上有不少空格要填 但是內容基本上不難\n分成兩次小考和兩次大考(期中&期末)\n考試難度都很簡單的 4 simple questions \n大約半小時到一小時就能完成\n最後9X過 輕鬆得到3學分\n\n",
+            "semester": "112-1"
+        },
         {
             "id": 4437,
             "comment": "用PPT上課會感覺比較快，來不及抄筆記都用拍照的\n考試前老師也會把PPT放在moodle上面\n老師的英文不會很難懂還蠻有趣的\n期中期末開書考，也會考上課例題跟考古題\n認真學還是會學到東西\n考前把PPT看過一遍也有認真了解，在準備考古題\n最後89分過，還不錯~~",
@@ -55,6 +61,21 @@
             "cold": 10,
             "user_id": 274,
             "post_id": 4437,
+            "course_name": "燃燒學",
+            "teacher": "王偉成",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6914,
+            "got": 9,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 7101,
+            "post_id": 9701,
             "course_name": "燃燒學",
             "teacher": "王偉成",
             "like": 0,
