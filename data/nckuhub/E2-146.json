@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 10,
+    "sweet": 10,
+    "rate_count": 1,
     "courseInfo": {
         "id": "13328",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 3,
         "老師": "林家民",
-        "已選課人數": 0,
-        "餘額": 70,
+        "已選課人數": 68,
+        "餘額": 2,
         "時間": "[3]7~9 ",
         "教室": "電機系館 92283",
         "備註": "",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-16T20:56:57.000Z",
-        "count": 1,
+        "remain_update_time": "2023-09-03T13:52:15.000Z",
+        "count": 330,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9728,
+            "comment": "不用實體上課，每周影片放在moodle自己看，老師語速非常慢，用1.75倍看剛剛好。\n考試考ppt裡面一些重要算法，需要記的內容很多盡量不要考前才臨時背很容易漏。\n大致上記憶成分居多但需要理解。\n作業不難",
+            "semester": "109-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6941,
+            "got": 10,
+            "sweet": 10,
+            "cold": 10,
+            "user_id": 11066,
+            "post_id": 9728,
+            "course_name": "電子設計自動化概論",
+            "teacher": "林家民",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

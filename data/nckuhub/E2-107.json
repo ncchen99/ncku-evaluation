@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 7,
+    "cold": 8,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "8707",
         "系所名稱": "電機系 EE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 1,
         "老師": "張簡樂仁",
-        "已選課人數": 0,
-        "餘額": 30,
+        "已選課人數": 8,
+        "餘額": 22,
         "時間": "[1]N~6 ",
         "教室": "電機系館 92X25",
         "備註": "6選3實驗課(106學年度起入學適用)",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-17T06:11:19.000Z",
-        "count": 3,
+        "remain_update_time": "2023-09-12T02:29:30.000Z",
+        "count": 201,
         "admit": null,
         "created_time": "2023-06-15T18:38:06.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9784,
+            "comment": "上課分組進行，每個禮拜都會學新的機器使用或是電路接法，學期末會有上機考，還有筆試，上機會有看過的線路只要接出來就有分了",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6997,
+            "got": 7,
+            "sweet": 8,
+            "cold": 8,
+            "user_id": 11158,
+            "post_id": 9784,
+            "course_name": "電機概論實驗",
+            "teacher": "張簡樂仁",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

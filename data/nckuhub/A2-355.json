@@ -1,8 +1,8 @@
 {
-    "got": "8.7",
-    "cold": "7.7",
-    "sweet": "7.7",
-    "rate_count": 3,
+    "got": 8.5,
+    "cold": 8.25,
+    "sweet": 7.5,
+    "rate_count": 4,
     "courseInfo": {
         "id": "12696",
         "系所名稱": "體育室 OPE",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 0,
         "老師": "謝孟志",
-        "已選課人數": 0,
-        "餘額": 32,
+        "已選課人數": 32,
+        "餘額": 0,
         "時間": "[1]5~6 ",
         "教室": "自強壘球場 自強壘球場",
         "備註": "",
@@ -31,16 +31,22 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 4,
-        "remain_update_time": "2023-06-17T06:53:20.000Z",
-        "count": 1,
+        "remain_update_time": "2023-09-12T06:34:40.000Z",
+        "count": 500,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 5,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
     "comment": [
+        {
+            "id": 9783,
+            "comment": "每次上課開頭會用聊天的方式跟大家說一些規則跟經驗，接著就兩兩一組傳接球暖身，上課都是以兩隊互相比賽進行，一邊打的過程還會一邊機會教育，上課輕鬆愉快",
+            "semester": "110-2"
+        },
         {
             "id": 8673,
             "comment": "每節課都在比賽\n手套自備\n每個同學至少都會輪到一次負責拿球具\n老師本身也是各比賽的裁判\n喜歡棒壘球的同學應該會很喜歡聽老師去當裁判的故事\n有時候老師會帶隊去比賽，當周就不用上課\n",
@@ -100,6 +106,21 @@
             "cold": 10,
             "user_id": 7527,
             "post_id": 8673,
+            "course_name": "壘球（男）",
+            "teacher": "謝孟志",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 6996,
+            "got": 8,
+            "sweet": 7,
+            "cold": 10,
+            "user_id": 11158,
+            "post_id": 9783,
             "course_name": "壘球（男）",
             "teacher": "謝孟志",
             "like": 0,

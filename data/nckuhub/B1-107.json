@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 10,
+    "cold": 5,
+    "sweet": 8,
+    "rate_count": 1,
     "courseInfo": {
         "id": "12992",
         "系所名稱": "中文系 CL",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 2,
         "老師": "陳美朱",
-        "已選課人數": 0,
-        "餘額": 50,
+        "已選課人數": 45,
+        "餘額": 5,
         "時間": "[2]5~6 ",
         "教室": "中文系館 21101",
         "備註": "",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-16T19:26:46.000Z",
-        "count": 1,
+        "remain_update_time": "2023-09-07T05:52:25.000Z",
+        "count": 106,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9753,
+            "comment": "老師非常認真，講課內容極其豐富。\n\n上課方式：老師自製PPT。老師會詳細介紹、說明李白與杜甫的個人生平與特質，以及他們詩作的特色與其中的人生抱負，以詩作類型為主題，將兩人的相似與相異處分別拿出來講解，是能讓學生學習到很多知識的課堂，非常推薦。\n\n評分方式：課堂作業、期中考、期末考。\n\n上課涼度給低分是因為這堂課真的需要好好聽課才能取得高分，如果認真聽講，絕對能學到很多！！（看到課堂收穫的分數了嗎！！）\n\n大推～～～～～",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6966,
+            "got": 10,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 2736,
+            "post_id": 9753,
+            "course_name": "李杜詩（一）",
+            "teacher": "陳美朱",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

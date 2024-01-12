@@ -1,8 +1,8 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 8,
+    "cold": 7,
+    "sweet": 9,
+    "rate_count": 1,
     "courseInfo": {
         "id": "13233",
         "系所名稱": "心理系 PSY",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2023-06-16T19:34:11.000Z",
-        "count": 1,
+        "remain_update_time": "2023-09-03T04:02:39.000Z",
+        "count": 37,
         "admit": null,
         "created_time": "2023-06-16T18:33:58.000Z",
-        "comment": 0,
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9759,
+            "comment": "整個學期下來有一份小組作業、兩份個人作業、小組和個人報告各一次\n\n\n1.TED Talk分享：老師會給主題，小組挑選三部影片的其一在課堂上分享，最後把三部影片的內容、比較、觀後心得等寫成文章繳交（以英文撰寫）\n2.Aritucle Critique：閱讀一篇文章然後做評論，老師上課會教如何對文章做評論，所以不用擔心不知道如何下手，老師人很好有問題也都可以問，一樣是以英文撰寫\n3. Literature Review：自選有興趣的主題，閱讀相關文獻寫一篇文獻回顧，一樣老師上課都會教怎麼寫，該注意的地方，跟著老師的進度循序漸進地完成肯定沒問題～\n\n無期中、期末，課程上下來也都很輕鬆，老師還常常會提早下課，整學期課堂會有三次英文辯論，題目是老師給的，但都會提前一週公布讓同學有準備，而且英文說不好也沒關係，就是讓大家練習而已也不會打分數。總而言之還蠻推薦想接觸全英課程的同學，上課算輕鬆，作業loading也不算是很重！",
+            "semester": "111-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6972,
+            "got": 8,
+            "sweet": 9,
+            "cold": 7,
+            "user_id": 5781,
+            "post_id": 9759,
+            "course_name": "心理學寫作",
+            "teacher": "楊馥",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }
