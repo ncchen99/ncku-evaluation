@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "9.0",
+    "cold": "8.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "9240",
+        "id": 2141,
         "系所名稱": "職治系 OT",
         "系號": "I7",
         "選課序號": "I7058",
@@ -18,7 +18,7 @@
         "課程名稱": "精神科學概論",
         "選必修": "必修",
         "學分": 2,
-        "老師": "陳高欽*",
+        "老師": "曾懷萱*,許嘉芬,陳柏熹",
         "已選課人數": 30,
         "餘額": 0,
         "時間": "[2]8~9 ",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-18T19:21:26.000Z",
-        "count": 74,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-16T00:30:15.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 6776,
+            "comment": "上課形式:ppt，幾乎每周都是不同的醫師來講課\n評分方式:期中期末考各50%，認真唸的話題目都挺簡單的。不會點名\n上課內容:簡單來說就是各種精神疾患的介紹(病理學、治療等等)\n",
+            "semester": "107-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 4147,
+            "got": 9,
+            "sweet": 7,
+            "cold": 8,
+            "user_id": 2456,
+            "post_id": 6776,
+            "course_name": "精神科學概論",
+            "teacher": "曾懷萱*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

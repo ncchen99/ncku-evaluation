@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "5.0",
+    "cold": "10.0",
+    "sweet": "2.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8868",
+        "id": "1378",
         "系所名稱": "土木系 CE",
         "系號": "E6",
         "選課序號": "E6011",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 1,
         "老師": "賴啟銘",
-        "已選課人數": 57,
-        "餘額": 53,
+        "已選課人數": 62,
+        "餘額": 0,
         "時間": "[5]5~7 ",
         "教室": "土木系館 4509",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-18T19:22:09.000Z",
-        "count": 51,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-15T06:32:08.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9905,
+            "comment": "每堂都有去，功課都有交，上課沒睡著過，隨堂期中期末考試都照他上課教的畫，最後拿70幾，重點班上還一堆人90幾，敢問賴啟銘教授我哪裡惹到你了?\n成績分佈如下:\n60~70:6\n70~80:13\n80~90:9\n90~100:19\n上課內容水，給分又謎，十分不推薦",
+            "semester": "112-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7118,
+            "got": 5,
+            "sweet": 2,
+            "cold": 10,
+            "user_id": 11218,
+            "post_id": 9905,
+            "course_name": "工程圖學（二）",
+            "teacher": "賴啟銘",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

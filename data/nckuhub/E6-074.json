@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "1.0",
+    "cold": "8.0",
+    "sweet": "1.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8880",
+        "id": "1394",
         "系所名稱": "土木系 CE",
         "系號": "E6",
         "選課序號": "E6074",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "方中",
-        "已選課人數": 56,
-        "餘額": 54,
+        "已選課人數": 46,
+        "餘額": 4,
         "時間": "[1]2~3 [3]2 ",
         "教室": "土木系館 4509",
         "備註": "英語授課",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-11T23:39:12.000Z",
-        "count": 64,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-15T21:17:56.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9277,
+            "comment": "除了上課不用點名，用自己寫得不太好的課本。\n考試基本上只要自己認真去網路上找其他資源自己鑽研比較實在。",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6490,
+            "got": 1,
+            "sweet": 1,
+            "cold": 8,
+            "user_id": 6165,
+            "post_id": 9277,
+            "course_name": "流體力學",
+            "teacher": "方中",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

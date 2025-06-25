@@ -1,10 +1,10 @@
 {
-    "got": "9.0",
-    "cold": "10.0",
-    "sweet": "8.0",
-    "rate_count": 1,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
-        "id": "8826",
+        "id": "1301",
         "系所名稱": "資源系 RE",
         "系號": "E4",
         "選課序號": "E4063",
@@ -18,9 +18,9 @@
         "課程名稱": "礦物材料導論",
         "選必修": "選修",
         "學分": 3,
-        "老師": "黃啟原",
-        "已選課人數": 0,
-        "餘額": 0,
+        "老師": "黃啓原",
+        "已選課人數": 18,
+        "餘額": 37,
         "時間": "[3]2~4 ",
         "教室": "資源系館 4354",
         "備註": "",
@@ -30,38 +30,17 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2022-07-12T03:40:28.000Z",
-        "count": 149,
+        "comment_num": 0,
+        "remain_update_time": "2025-01-14T21:20:56.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 5610,
-            "comment": "老師上課很認真\n會讓我們組晶體模型\n期中期末考題\n都跟考古差不多\n分數也給得很甜\n每週都會小考\n考試內容是當天上課的重點\n不會太難",
-            "semester": "107-2"
-        }
-    ],
-    "rates": [
-        {
-            "id": 2981,
-            "got": 9,
-            "sweet": 8,
-            "cold": 10,
-            "user_id": 1865,
-            "post_id": 5610,
-            "course_name": "礦物材料導論",
-            "teacher": "黃啟原",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

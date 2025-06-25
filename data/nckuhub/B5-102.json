@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "4.0",
+    "cold": "6.0",
+    "sweet": "5.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8612",
+        "id": "776",
         "系所名稱": "台文系 TWL",
         "系號": "B5",
         "選課序號": "B5102",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "劉乃慈",
-        "已選課人數": 0,
-        "餘額": 0,
+        "已選課人數": 39,
+        "餘額": 11,
         "時間": "[3]7~8 ",
         "教室": "台文系館 88135",
         "備註": "需先修文學理論與批評（一）",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T16:16:07.000Z",
-        "count": 102,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-14T21:08:01.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9184,
+            "comment": "基本以教授講述，學生報告為輔。報告時間常常與連續假日掛勾（簡言而之假日沒了 我也沒了）。報告時必須注意與理論與課程的連結性，不然會被請下來。但如果真的喜歡文學理論的人，可以去嚐嚐，像我資質平庸就真的比較聽不懂了。",
+            "semester": "110-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6397,
+            "got": 4,
+            "sweet": 5,
+            "cold": 6,
+            "user_id": 8269,
+            "post_id": 9184,
+            "course_name": "文學理論與批評（二）",
+            "teacher": "劉乃慈",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

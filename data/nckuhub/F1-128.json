@@ -1,10 +1,10 @@
 {
-    "got": "7.0",
-    "cold": "8.0",
-    "sweet": "7.0",
-    "rate_count": 1,
+    "got": "0.0",
+    "cold": "0.0",
+    "sweet": "0.0",
+    "rate_count": 0,
     "courseInfo": {
-        "id": "8955",
+        "id": 1522,
         "系所名稱": "系統系 SNME",
         "系號": "F1",
         "選課序號": "F1128",
@@ -18,51 +18,29 @@
         "課程名稱": "船舶靜力學",
         "選必修": "選修",
         "學分": 3,
-        "老師": "林忠宏",
+        "老師": "吳俊賢",
         "已選課人數": 0,
         "餘額": 40,
         "時間": "[5]6~8 ",
         "教室": "系統系館 56222",
-        "備註": "船舶組專業選修",
+        "備註": "分組專業選修科目，請參考系網各年級之修課規定",
         "限選條件": "",
         "業界參與": "否",
         "屬性碼": "SYS3112",
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 1,
-        "remain_update_time": "2023-06-17T14:42:18.000Z",
+        "comment_num": 0,
+        "remain_update_time": "2025-06-25T01:32:10.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2023-06-15T18:38:06.000Z",
+        "created_time": "2025-06-23T05:57:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [
-        {
-            "id": 8595,
-            "comment": "考試都考平常上課筆記 建議將筆記寫在課本上\n考試開書考 如果你平常上課有聽 應該沒什麼問題\n\n兩次作業\n兩次段考\n一次畫lines 上網找offsets\n另一次畫船舶靜水性能曲線\n老師上課會說明每個數據的來由\n\n應該沒什麼大問題\n\n分數普通 不過可以學到蠻多造船入門基礎\n",
-            "semester": "110-1"
-        }
-    ],
-    "rates": [
-        {
-            "id": 5808,
-            "got": 7,
-            "sweet": 7,
-            "cold": 8,
-            "user_id": 5472,
-            "post_id": 8595,
-            "course_name": "船舶靜力學",
-            "teacher": "林忠宏",
-            "like": 0,
-            "dislike": 0,
-            "give": 1,
-            "recommand": 1,
-            "hard": 1
-        }
-    ],
+    "comment": [],
+    "rates": [],
     "courserate_id": 0
 }

@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "5.0",
+    "cold": "8.0",
+    "sweet": "4.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8986",
+        "id": "1601",
         "系所名稱": "工設系 ID",
         "系號": "F3",
         "選課序號": "F3021",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 2,
         "老師": "楊佳霖",
-        "已選課人數": 27,
-        "餘額": 0,
+        "已選課人數": 0,
+        "餘額": 20,
         "時間": "[4]3~4 ",
         "教室": "空中大學 53X02",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-13T04:35:21.000Z",
-        "count": 59,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-14T21:47:10.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10027,
+            "comment": "上課本身蠻輕鬆也有很多人是來簽到就跑了\n但作業就需要花蠻多課外時間來工廠做模型\n分數有些真的蠻不合理的\n有些同學會找老師問但也沒有結果\n就是挺主觀的",
+            "semester": "112-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7240,
+            "got": 5,
+            "sweet": 4,
+            "cold": 8,
+            "user_id": 12747,
+            "post_id": 10027,
+            "course_name": "專題模型製作",
+            "teacher": "楊佳霖",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

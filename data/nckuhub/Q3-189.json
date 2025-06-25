@@ -1,0 +1,69 @@
+{
+    "got": 8,
+    "cold": 4,
+    "sweet": 7,
+    "rate_count": 1,
+    "courseInfo": {
+        "id": "3448",
+        "系所名稱": "晶片學程 PICD",
+        "系號": "M1",
+        "選課序號": "M1017",
+        "課程碼": "Q356700",
+        "分班碼": "",
+        "班別": "碩",
+        "年級": "",
+        "類別": "講義",
+        "組別": null,
+        "英語授課": "N",
+        "課程名稱": "射頻積體電路設計",
+        "選必修": "選修",
+        "學分": 3,
+        "老師": "鄭光偉",
+        "已選課人數": 29,
+        "餘額": 41,
+        "時間": "[3]2~4 ",
+        "教室": "電機系館 92177",
+        "備註": "",
+        "限選條件": "",
+        "業界參與": "否",
+        "屬性碼": "CCE8415",
+        "跨領域學分學程": "",
+        "Moocs": "否",
+        "updateTime": null,
+        "comment_num": 0,
+        "remain_update_time": "2025-01-14T22:56:31.000Z",
+        "count": 0,
+        "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
+        "comment": 1,
+        "course_style": 0,
+        "report_hw": 0,
+        "score_style": 0,
+        "semester": null
+    },
+    "comment": [
+        {
+            "id": 10056,
+            "comment": "上課內容主要是LNA、Mixer、VCO，整個RF前端的電路，會教noise figure、IIP3等評估電路性能的指標，以及如何最佳化整體電路的性能。\n個人覺得很難。\n期末會實現某個協定裏的RF前端電路 LNA+VCO+Mixer，個人覺得要到基本規格就有點困難。",
+            "semester": "112-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7269,
+            "got": 8,
+            "sweet": 7,
+            "cold": 4,
+            "user_id": 13040,
+            "post_id": 10056,
+            "course_name": "射頻積體電路設計",
+            "teacher": "鄭光偉",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
+    "courserate_id": 0
+}

@@ -14,17 +14,22 @@ class Worker(threading.Thread):
     def run(self):
         # 取得旗標
         # 僅允許有限個執行緒同時進的工作
-        self.semaphore.acquire()
+
         course = self.course
         course_id = str(course["id"])
-        course_detail = requests.get(all_courses_url + course_id)
-        course_dept_SN = course["系號"] + "-" + course["選課序號"]
-        with open("./data/nckuhub/" + course_dept_SN + ".json", "w+") as f:
-            json.dump(course_detail.json(),
-                      f, indent=4, ensure_ascii=False)
-        # 釋放旗標
-        self.semaphore.release()
-        print("saved {}".format(course_dept_SN))
+        try:
+            self.semaphore.acquire()
+            course_detail = requests.get(all_courses_url + course_id)
+            course_dept_SN = course["系號"] + "-" + course["選課序號"]
+            with open("./data/nckuhub/" + course_dept_SN + ".json", "w+") as f:
+                json.dump(course_detail.json(),
+                          f, indent=4, ensure_ascii=False)
+            # 釋放旗標
+            self.semaphore.release()
+            print("saved {}".format(course_dept_SN))
+        except Exception as e:
+            print("Error: ", e)
+            print("Failed to save {}".format(course_id))
 
 
 useful_data = ["got", "cold", "sweet", {"courseInfo": ["課程名稱", "老師"]}]
@@ -40,7 +45,7 @@ with open("./data/nckuhub_courses.json", "w+") as f:
 # 開 threads 加速
 workers = []
 # 一次最多可以執行幾個
-semaphore = threading.Semaphore(50)
+semaphore = threading.Semaphore(2)
 
 for course in all_courses.json()["courses"]:
     workers.append(Worker(course, semaphore))

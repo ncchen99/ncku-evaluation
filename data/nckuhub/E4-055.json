@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "1.0",
+    "cold": "5.0",
+    "sweet": "1.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "8822",
+        "id": 1298,
         "系所名稱": "資源系 RE",
         "系號": "E4",
         "選課序號": "E4055",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "施勵行",
-        "已選課人數": 48,
-        "餘額": 29,
+        "已選課人數": 44,
+        "餘額": 16,
         "時間": "[2]3~4 [4]2 ",
         "教室": "資源系館 4354",
         "備註": "",
@@ -30,16 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2022-07-12T04:54:21.000Z",
-        "count": 76,
+        "comment_num": 1,
+        "remain_update_time": "2025-01-16T00:30:14.000Z",
+        "count": 1,
         "admit": null,
+        "created_time": "2025-01-14T00:59:05.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 9398,
+            "comment": "不推，因為意外補考期末結果教授出了一張很搞的考卷，根本算不完。上課用英文上課真的沒人想聽，我講不出學到什麼，只知道一直在算不怎麼有用的作業",
+            "semester": "111-2"
+        }
+    ],
+    "rates": [
+        {
+            "id": 6611,
+            "got": 1,
+            "sweet": 1,
+            "cold": 5,
+            "user_id": 7861,
+            "post_id": 9398,
+            "course_name": "工程統計",
+            "teacher": "施勵行",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

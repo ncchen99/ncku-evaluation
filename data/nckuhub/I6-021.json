@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "10.0",
+    "cold": "4.0",
+    "sweet": "3.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "9222",
+        "id": "2084",
         "系所名稱": "物治系 PT",
         "系號": "I6",
         "選課序號": "I6021",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2023-06-17T23:50:41.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2025-06-24T05:41:54.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2023-06-15T18:38:06.000Z",
+        "created_time": "2025-06-23T05:57:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10030,
+            "comment": "郭老師是一位很嚴格的老師，沒認真上課Lab和Lecture都會很慘，但是認真聽會學到很多實用的解剖知識。\n雖然分數不好看(75分，Lab直接掛掉)，但還是提供自己的唸書方法：\nLecture:\n骨頭重要的landmark都記起來\n肌肉的始點終點還有動作也都要記\n推薦大家在預習或複習先下載Visible Body (成大有買免費的軟體\n先看肌肉大致所在位置，再回去對照課本的muscle attachment 圖片\nLab:\n老師上課不給錄影\n所以記得認真看老師示範，課堂實作時間有問題直接問\n課後一定要找同學練習，也可以找物治系的學長姐求救",
+            "semester": "110-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7243,
+            "got": 10,
+            "sweet": 3,
+            "cold": 4,
+            "user_id": 12757,
+            "post_id": 10030,
+            "course_name": "表體解剖學",
+            "teacher": "郭怡良",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

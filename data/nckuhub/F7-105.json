@@ -1,10 +1,10 @@
 {
     "got": "10.0",
-    "cold": "8.0",
-    "sweet": "9.3",
-    "rate_count": 3,
+    "cold": "7.5",
+    "sweet": "9.5",
+    "rate_count": 4,
     "courseInfo": {
-        "id": "9059",
+        "id": "1702",
         "系所名稱": "資訊系 CSIE",
         "系號": "F7",
         "選課序號": "F7105",
@@ -30,17 +30,22 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 3,
-        "remain_update_time": "2023-06-16T19:10:18.000Z",
-        "count": 8,
+        "comment_num": 4,
+        "remain_update_time": "2025-06-23T23:55:37.000Z",
+        "count": 1,
         "admit": null,
-        "created_time": "2023-06-15T18:38:06.000Z",
+        "created_time": "2025-06-23T05:57:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 10150,
+            "comment": "講解非常清楚，PPT也做得很好。\n這門課的內容在編譯系統很有用，強烈建議修。\n強一點總成績拿100不是不可能的事。",
+            "semester": "113-1"
+        },
         {
             "id": 8741,
             "comment": "上課通常有一半的時間老師會分享自己的職場經歷，後半學期可能會開始趕課就會比較少，但是老師的分享很值得認真聽，因為滿有趣的，也可以知道很多職場的風氣\n這學期作業兩份 + 一個project(Line Bot)\n期中期末不難， project比較麻煩，但是做教會給很詳細的教學，只需要自己去DeBug\n最後97過",
@@ -95,6 +100,21 @@
             "cold": 8,
             "user_id": 8183,
             "post_id": 8741,
+            "course_name": "計算理論",
+            "teacher": "莊坤達",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 7363,
+            "got": 10,
+            "sweet": 10,
+            "cold": 6,
+            "user_id": 11252,
+            "post_id": 10150,
             "course_name": "計算理論",
             "teacher": "莊坤達",
             "like": 0,

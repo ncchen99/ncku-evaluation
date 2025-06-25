@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "8.0",
+    "cold": "8.0",
+    "sweet": "9.5",
+    "rate_count": 2,
     "courseInfo": {
-        "id": "16639",
+        "id": "499",
         "系所名稱": "通識中心 GE",
         "系號": "A9",
         "選課序號": "A9233",
@@ -30,17 +30,59 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2023-08-17T00:18:08.000Z",
+        "comment_num": 2,
+        "remain_update_time": "2025-06-24T07:22:22.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2023-08-17T00:00:07.000Z",
+        "created_time": "2025-06-23T05:57:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10083,
+            "comment": "全英文上課，老師上課前會上傳PPT到moodle，第一堂課就會分組，組別會一直持續到期末。每堂課結束後會有一個小作業，每一組上傳一份就好，期中要寫一份500字關於細胞的小說，是個人作業。期末則是分組報告，要全英文演說，不過你就算看稿老師也不太在意。基本上只要認真參與，就算你英文和生物都很差還是可以通過，而且分數超甜，幾乎所有人都90以上。\n總結，老師人很好，上課也不會有太大負擔，分數也很OK。",
+            "semester": "113-1"
+        },
+        {
+            "id": 10088,
+            "comment": "蠻涼滿甜的，期中是個人書面報告，期末是團體上台報告，基本上好好準備都不會太難，loading 也不會很大，我覺得我沒到非常認真，最後93過。\n\n但課程是全英，內容也有很多生物相關的專有名詞，我認為要完全吸收課程知識有難度，如果是真心對課程主題感興趣想學東西的，可能要評估一下自己的英文或生物能力，但老師人很好，問他問題也都會認真回。",
+            "semester": "113-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7296,
+            "got": 10,
+            "sweet": 10,
+            "cold": 8,
+            "user_id": 11220,
+            "post_id": 10083,
+            "course_name": "生活中之細胞功能運作",
+            "teacher": "王之彥",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 7301,
+            "got": 6,
+            "sweet": 9,
+            "cold": 8,
+            "user_id": 11865,
+            "post_id": 10088,
+            "course_name": "生活中之細胞功能運作",
+            "teacher": "王之彥",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

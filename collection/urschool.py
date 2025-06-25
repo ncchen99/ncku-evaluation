@@ -39,7 +39,8 @@ class Worker(threading.Thread):
             try:
                 r = requests.get(url, params={"page": self.page}, headers=headers, proxies={
                     "https" if proxy["Https"].values[0] == "yes" else "http":
-                    str(proxy["IP Address"]) + ":" + str(proxy["Port"])}, timeout=5, verify=False)  # verify=True if proxy["Https"].values[0] == "yes" else False
+                    # verify=True if proxy["Https"].values[0] == "yes" else False
+                    str(proxy["IP Address"]) + ":" + str(proxy["Port"])}, timeout=5, verify=False)
             except:
                 print("save failure at page：", self.page)
                 continue
@@ -115,7 +116,7 @@ workers = []
 # 一次最多可以執行幾個
 semaphore = threading.Semaphore(20)
 
-while(not queue.empty()):
+while (not queue.empty()):
     workers.append(Worker(queue.get(), lock, semaphore, 1))
     workers[-1].start()
 
