@@ -1,0 +1,51 @@
+# 每月自動更新 NCKU Evaluator 用的資料。
+# 排程只會從預設分支觸發，所以這個檔案放在 master；
+# 實際的爬蟲和資料都在 data 分支（也是 GitHub Pages 的來源）。
+name: Update data
+
+on:
+  schedule:
+    - cron: "0 18 1 * *" # 每月 1 日 18:00 UTC（台灣時間 2 日 02:00）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Scrape NCKU Hub
+        run: python collection/ncku_hub.py
+
+      - name: Scrape UR School (exits early while urschool.org is down)
+        run: python collection/urschool.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "🆗 Update data $(date -u +%F)"
+          git push origin HEAD:data
