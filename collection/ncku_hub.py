@@ -13,6 +13,7 @@ import hashlib
 import json
 import os
 import shutil
+import statistics
 import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -33,6 +34,9 @@ RETRIES = 4
 MAX_FAILURE_RATIO = 0.02
 
 useful_data = ["got", "cold", "sweet", {"courseInfo": ["課程名稱", "老師"]}]
+# 額外計算的欄位（放在最後，舊版擴充功能只讀前 4 個欄位）
+STAT_KEYS = ["got", "cold", "sweet"]
+column_names = useful_data + [{"stats": ["人數", "標準差"]}]
 
 session = requests.Session()
 session.headers.update(HEADERS)
@@ -61,6 +65,17 @@ def fetch_course(course):
     return key, detail
 
 
+def rating_stats(detail):
+    """評分人數，以及收穫／涼度／甜度各自的樣本標準差（人數 < 2 時為 None）。"""
+    rates = detail.get("rates") or []
+    count = detail.get("rate_count") or len(rates)
+    sd = []
+    for k in STAT_KEYS:
+        values = [r[k] for r in rates if isinstance(r.get(k), (int, float))]
+        sd.append(round(statistics.stdev(values), 2) if len(values) >= 2 else None)
+    return {"人數": count, "標準差": sd}
+
+
 def compact(detail):
     row = []
     for key in useful_data:
@@ -69,6 +84,7 @@ def compact(detail):
         else:
             name = list(key.keys())[0]
             row.append({k: detail[name][k] for k in key[name]})
+    row.append(rating_stats(detail))
     return row
 
 
@@ -102,7 +118,7 @@ def main():
 
     all_courses_data = {
         "courses": dict(sorted(results.items())),
-        "column names": useful_data,
+        "column names": column_names,
     }
 
     shutil.rmtree(DETAIL_DIR, ignore_errors=True)
