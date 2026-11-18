@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "3.0",
+    "cold": "8.0",
+    "sweet": "4.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": 658,
+        "id": "11060",
         "系所名稱": "外文系 FLL",
         "系號": "B2",
         "選課序號": "B2006",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "蔡美慧",
-        "已選課人數": 0,
-        "餘額": 80,
+        "已選課人數": 1,
+        "餘額": 89,
         "時間": "[2]2 [4]3~4 ",
         "教室": "修齊大樓 26425",
         "備註": "大一必修",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2025-06-25T01:25:48.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2026-07-12T05:03:45.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10364,
+            "comment": "主要用PPT授課，課後會將檔案上傳至雲端。課程標示為EMI課程，但老師會中英夾雜。\n\n老師不用moodle，而是用facebook公布所有消息，有時候在facebook 貼文底下也會有加分互動。\n\n點名的規則很複雜，刷卡之外還要用空白紙完成他當天在課堂上隨堂出的作業，才不會被寄缺席和扣分。就算有申請請假，一樣會被扣一些分數。\n\n還有一個Excel 表單專門紀錄學生所有的作業、小考、課堂互動、出席等分數，但因為學生眾多，經常有登記錯誤的狀況。",
+            "semester": "114-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7577,
+            "got": 3,
+            "sweet": 4,
+            "cold": 8,
+            "user_id": 14150,
+            "post_id": 10364,
+            "course_name": "語言學概論（一）",
+            "teacher": "蔡美慧",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

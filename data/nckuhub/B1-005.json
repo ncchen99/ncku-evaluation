@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": 5,
+    "cold": 9,
+    "sweet": 7,
+    "rate_count": 1,
     "courseInfo": {
-        "id": "627",
+        "id": "11033",
         "系所名稱": "中文系 CL",
         "系號": "B1",
         "選課序號": "B1005",
@@ -19,8 +19,8 @@
         "選必修": "選修",
         "學分": 2,
         "老師": "陳弘學",
-        "已選課人數": 2,
-        "餘額": 68,
+        "已選課人數": 135,
+        "餘額": 0,
         "時間": "[1]5~6 ",
         "教室": "修齊大樓 修齊講堂",
         "備註": "",
@@ -31,16 +31,39 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2025-06-24T10:38:07.000Z",
-        "count": 1,
+        "remain_update_time": "2026-09-28T18:29:01.000Z",
+        "count": 220,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
-        "comment": 0,
+        "created_time": "2026-07-11T22:58:19.000Z",
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10445,
+            "comment": "每堂課間都要刷卡點名，考試就是會考上課講的幾個重點，考試沒有很認真準備也沒關係。期末會有一個報告可以拉成績，要寫這學期老師說過的十個重點（6000字）越多字分數越高，最後總成績87過。\n\n偶爾會點人回答問題（對某些議題的看法而已）同學基本都在做自己的事，可以偶爾記一下重點期末報告才有東西寫。老師人很好基本都會讓外系加簽，上課內容有時會帶有個人情緒和政治立場，不太能接受的不建議修。",
+            "semester": "114-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7658,
+            "got": 5,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 13906,
+            "post_id": 10445,
+            "course_name": "論孟",
+            "teacher": "陳弘學",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

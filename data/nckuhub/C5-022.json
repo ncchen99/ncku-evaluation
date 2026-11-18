@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
+    "got": 0,
+    "cold": 0,
+    "sweet": 0,
     "rate_count": 0,
     "courseInfo": {
-        "id": 865,
+        "id": "11279",
         "系所名稱": "生科系 LS",
         "系號": "C5",
         "選課序號": "C5022",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 1,
         "老師": "陳一菁*,仲澤剛史",
-        "已選課人數": 6,
-        "餘額": 74,
+        "已選課人數": 2,
+        "餘額": 78,
         "時間": "[1]7 ",
         "教室": "生科院大樓 891S2",
         "備註": "",
@@ -31,16 +31,23 @@
         "Moocs": "否",
         "updateTime": null,
         "comment_num": 0,
-        "remain_update_time": "2025-06-25T01:22:45.000Z",
-        "count": 1,
+        "remain_update_time": "2026-07-12T08:52:30.000Z",
+        "count": 2,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
-        "comment": 0,
+        "created_time": "2026-07-11T22:58:19.000Z",
+        "comment": 1,
         "course_style": 0,
         "report_hw": 0,
-        "score_style": 0
+        "score_style": 0,
+        "semester": null
     },
-    "comment": [],
+    "comment": [
+        {
+            "id": 10375,
+            "comment": "兩個老師各上半個學期，各有一次報告。仲澤剛史老師的部分會有無敵可怕的quick test，20秒內要回答普生段考範圍選擇題，有些很簡單，但大部分題目都超長根本看不完。需要依靠朋友的幫助。\n是一堂就算很努力分數最後也不會多好看的課。\n如果有認真或許能學到一些東西，但很多人看起來在擺爛。\n",
+            "semester": "114-1"
+        }
+    ],
     "rates": [],
     "courserate_id": 0
 }

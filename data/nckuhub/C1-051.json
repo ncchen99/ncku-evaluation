@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "10.0",
+    "cold": "2.0",
+    "sweet": "2.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "766",
+        "id": "11174",
         "系所名稱": "數學系 MATH",
         "系號": "C1",
         "選課序號": "C1051",
@@ -18,9 +18,9 @@
         "課程名稱": "高等微積分（一）",
         "選必修": "必修",
         "學分": 4,
-        "老師": "高橋亮甫",
-        "已選課人數": 51,
-        "餘額": 249,
+        "老師": "郭鴻文",
+        "已選課人數": 72,
+        "餘額": 8,
         "時間": "[1]5~6 [3]3~4 ",
         "教室": "理學教學大樓 36102",
         "備註": "",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2025-06-23T23:28:44.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2026-07-14T08:11:27.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 5937,
+            "comment": "老師教很快，會學到很多東西，但是難度很高，要是跟不上很容易被當，因為老師完全不調分，所以要做好心理準備",
+            "semester": "107-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 3308,
+            "got": 10,
+            "sweet": 2,
+            "cold": 2,
+            "user_id": 2385,
+            "post_id": 5937,
+            "course_name": "高等微積分（一）",
+            "teacher": "郭鴻文",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

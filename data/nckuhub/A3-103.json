@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "4.0",
+    "cold": "9.0",
+    "sweet": "7.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": "319",
+        "id": "10730",
         "系所名稱": "軍訓室 MT",
         "系號": "A3",
         "選課序號": "A3103",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2025-06-24T06:13:08.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2026-07-12T00:55:44.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10314,
+            "comment": "作業：無\n\n考試：1次期中1次期末；可使用ai，老師會在開始考試前一週提供2題題目，並提供答案參考範圍，只要在50分內把答案從手機填到答案卷上即可。\n\n上課內容：老師簡報有很多頁，教室的椅子也很舒服。老師人很好：「只要不要戴全罩式耳機其他都不管」。有固定座位並按照位置點名，無故缺席3次以上出席的30%都拿不到，但畢竟0學分，所以難評。但跟其他班比起來，18周上好上滿，可以參考一下，但要比水的話還是這麼課好，推",
+            "semester": "114-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7527,
+            "got": 4,
+            "sweet": 7,
+            "cold": 9,
+            "user_id": 14039,
+            "post_id": 10314,
+            "course_name": "全民國防教育軍事訓練－國防政策",
+            "teacher": "楊太源*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

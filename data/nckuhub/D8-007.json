@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "6.0",
+    "cold": "10.0",
+    "sweet": "9.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1011,
+        "id": "11433",
         "系所名稱": "心理系 PSY",
         "系號": "D8",
         "選課序號": "D8007",
@@ -18,7 +18,7 @@
         "課程名稱": "微積分（一）",
         "選必修": "必修",
         "學分": 3,
-        "老師": "孫逸軒*",
+        "老師": "夏杼",
         "已選課人數": 6,
         "餘額": 14,
         "時間": "[3]7~8 [5]6 ",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2025-06-25T01:32:14.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2026-07-12T06:29:58.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10334,
+            "comment": "助教課會點名，上課的方式有點天馬行空的感覺但基本上都是從課本去延伸，是「對聽力不好的同學達成形式平等」的一門課。不過調分調得幅度不小，是以單及平均分調整的，最後從85調成97。調分有相關公式，可以請教助教。",
+            "semester": "114-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7547,
+            "got": 6,
+            "sweet": 9,
+            "cold": 10,
+            "user_id": 14308,
+            "post_id": 10334,
+            "course_name": "微積分（一）",
+            "teacher": "夏杼*",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

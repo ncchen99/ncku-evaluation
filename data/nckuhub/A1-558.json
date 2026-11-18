@@ -1,10 +1,10 @@
 {
     "got": "8.6",
     "cold": "5.3",
-    "sweet": "7.1",
-    "rate_count": 23,
+    "sweet": "7.2",
+    "rate_count": 25,
     "courseInfo": {
-        "id": "117",
+        "id": "10527",
         "系所名稱": "外語中心 FLC",
         "系號": "A1",
         "選課序號": "A1558",
@@ -30,17 +30,27 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 27,
-        "remain_update_time": "2025-06-24T00:08:56.000Z",
+        "comment_num": 29,
+        "remain_update_time": "2026-07-12T05:53:31.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
     "comment": [
+        {
+            "id": 10270,
+            "comment": "老師很嚴格很認真 課程蠻扎實的 是有學到東西啦 考試有讀書就會寫 想學西文的推推\n\n不過每次上課前都有點微焦慮 因為唸不好就會被ㄉㄧㄤ 很認真在ㄉㄧㄤ的那種\n心臟要大顆一點 臉皮厚一點 有些被罵到走心就退選了 但換個角度想其實班上所有人都被罵過哈哈\n我們這學期是可以自己找位子 建議旁邊找一個會幫忙cover的 唸錯至少可以救你\n",
+            "semester": "112-1"
+        },
+        {
+            "id": 10279,
+            "comment": "老師上課很賣力，會像是國中老師一樣緊盯每個人的口說（講太小聲會被噹！），常常使用口說的形式問問題、請同學之間相互練習，不過人很nice，整體上課進度不快，適合想要好好學習一門語言的人修課。",
+            "semester": "112-1"
+        },
         {
             "id": 9219,
             "comment": "我修111-1的課\n\n建議有心再上\n西文文法不簡單\n給分沒有特別甜\n教授還算嚴格\n所以想混分的、不認真的千萬不要來",
@@ -532,6 +542,36 @@
             "cold": 6,
             "user_id": 9215,
             "post_id": 9219,
+            "course_name": "西班牙文（一）",
+            "teacher": "白芳怡",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 7483,
+            "got": 8,
+            "sweet": 7,
+            "cold": 4,
+            "user_id": 12878,
+            "post_id": 10270,
+            "course_name": "西班牙文（一）",
+            "teacher": "白芳怡",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        },
+        {
+            "id": 7492,
+            "got": 9,
+            "sweet": 8,
+            "cold": 5,
+            "user_id": 13037,
+            "post_id": 10279,
             "course_name": "西班牙文（一）",
             "teacher": "白芳怡",
             "like": 0,

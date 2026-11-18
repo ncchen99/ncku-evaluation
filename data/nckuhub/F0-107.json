@@ -1,10 +1,10 @@
 {
-    "got": "0.0",
-    "cold": "0.0",
-    "sweet": "0.0",
-    "rate_count": 0,
+    "got": "5.0",
+    "cold": "6.0",
+    "sweet": "5.0",
+    "rate_count": 1,
     "courseInfo": {
-        "id": 1494,
+        "id": "11925",
         "系所名稱": "能源學程 IBPE",
         "系號": "F0",
         "選課序號": "F0107",
@@ -19,8 +19,8 @@
         "選必修": "必修",
         "學分": 3,
         "老師": "呂宗行",
-        "已選課人數": 22,
-        "餘額": 28,
+        "已選課人數": 35,
+        "餘額": 5,
         "時間": "[2]5~6 [5]8 ",
         "教室": "航太系館 5897",
         "備註": "EMI課程 (英文授課比例:100%)",
@@ -30,17 +30,39 @@
         "跨領域學分學程": "",
         "Moocs": "否",
         "updateTime": null,
-        "comment_num": 0,
-        "remain_update_time": "2025-06-25T01:30:24.000Z",
+        "comment_num": 1,
+        "remain_update_time": "2026-07-12T06:08:57.000Z",
         "count": 1,
         "admit": null,
-        "created_time": "2025-06-23T05:57:19.000Z",
+        "created_time": "2026-07-11T22:58:19.000Z",
         "comment": 0,
         "course_style": 0,
         "report_hw": 0,
         "score_style": 0
     },
-    "comment": [],
-    "rates": [],
+    "comment": [
+        {
+            "id": 10263,
+            "comment": "課程本身偏向有些無聊，節奏不算快，但如果你能全心投入聽課，還是能學到不少東西。不過，大多數同學經常翹課或在課堂上打瞌睡，因此錯過了不少重點。考試難度屬於中等，不會太刁鑽，只要平時有稍微用心，就能應付得來。",
+            "semester": "113-1"
+        }
+    ],
+    "rates": [
+        {
+            "id": 7476,
+            "got": 5,
+            "sweet": 5,
+            "cold": 6,
+            "user_id": 13423,
+            "post_id": 10263,
+            "course_name": "流體力學",
+            "teacher": "呂宗行",
+            "like": 0,
+            "dislike": 0,
+            "give": 1,
+            "recommand": 1,
+            "hard": 1
+        }
+    ],
     "courserate_id": 0
 }

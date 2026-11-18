@@ -93,12 +93,21 @@ requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)
 
 
 def get_how_many_page():
-    r = requests.get(url, verify=False, headers=headers)
+    r = requests.get(url, verify=False, headers=headers, timeout=20)
+    r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
     return int(soup.find_all("ul", class_="pagination")[0].find_all("li")[-2].get_text())
 
 
-pages = list(range(1, get_how_many_page()+1))
+# urschool.org 自 2026 年初起已停止服務（/ncku/list 回 404），
+# 抓不到頁數就直接結束，保留 data/urschool* 既有的資料，不要把它刪掉。
+try:
+    page_count = get_how_many_page()
+except Exception as e:
+    print("urschool.org is unavailable, keep old data:", e)
+    raise SystemExit(0)
+
+pages = list(range(1, page_count+1))
 queue = Queue()
 [queue.put(i) for i in pages]
 free_proxy_table = pd.read_html(requests.get(

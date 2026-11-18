@@ -1,85 +1,121 @@
-import json
-import requests
-import threading
-import os
+"""Scrape course ratings from NCKU Hub (https://nckuhub.com).
+
+Output:
+  data/nckuhub_courses.json   raw course list of the current semester
+  data/nckuhub/<系號>-<選課序號>.json   raw detail of each course
+  data/nckuhub.json           compact data consumed by the Chrome extension
+  data/nckuhub-sha256.txt     hash of nckuhub.json, used by the extension's cache
+
+The data is rebuilt from scratch on every run, so courses that are no longer
+offered are removed. If anything goes badly wrong, nothing is overwritten.
+"""
 import hashlib
+import json
+import os
+import shutil
+import sys
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
+import requests
 
-class Worker(threading.Thread):
-    def __init__(self, course, semaphore):
-        threading.Thread.__init__(self)
-        self.course = course
-        self.semaphore = semaphore
-
-    def run(self):
-        # 取得旗標
-        # 僅允許有限個執行緒同時進的工作
-
-        course = self.course
-        course_id = str(course["id"])
-        try:
-            self.semaphore.acquire()
-            course_detail = requests.get(all_courses_url + course_id)
-            course_dept_SN = course["系號"] + "-" + course["選課序號"]
-            with open("./data/nckuhub/" + course_dept_SN + ".json", "w+") as f:
-                json.dump(course_detail.json(),
-                          f, indent=4, ensure_ascii=False)
-            # 釋放旗標
-            self.semaphore.release()
-            print("saved {}".format(course_dept_SN))
-        except Exception as e:
-            print("Error: ", e)
-            print("Failed to save {}".format(course_id))
-
+BASE_URL = "https://nckuhub.com/course/"
+DATA_DIR = "./data"
+DETAIL_DIR = os.path.join(DATA_DIR, "nckuhub")
+TMP_DIR = DETAIL_DIR + ".tmp"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"
+}
+WORKERS = 4
+RETRIES = 4
+# Abort (keep old data) if more than this ratio of courses fail.
+MAX_FAILURE_RATIO = 0.02
 
 useful_data = ["got", "cold", "sweet", {"courseInfo": ["課程名稱", "老師"]}]
-all_courses_data = {}
-all_courses_data["courses"] = {}
-all_courses_url = "https://nckuhub.com/course/"
-all_courses = requests.get(all_courses_url)
 
-with open("./data/nckuhub_courses.json", "w+") as f:
-    json.dump(all_courses.json(),
-              f, indent=4, ensure_ascii=False)
-
-# 開 threads 加速
-workers = []
-# 一次最多可以執行幾個
-semaphore = threading.Semaphore(2)
-
-for course in all_courses.json()["courses"]:
-    workers.append(Worker(course, semaphore))
-    workers[-1].start()
+session = requests.Session()
+session.headers.update(HEADERS)
 
 
-for worker in workers:
-    worker.join()
+def get_json(url):
+    for attempt in range(RETRIES):
+        try:
+            r = session.get(url, timeout=20)
+            r.raise_for_status()
+            return r.json()
+        except Exception as e:  # noqa: BLE001
+            if attempt == RETRIES - 1:
+                raise
+            print(f"retry {url}: {e}")
+            time.sleep(2 ** attempt)
 
 
-# save title
-all_courses_data["column names"] = useful_data
+def fetch_course(course):
+    key = f'{course["系號"]}-{course["選課序號"]}'
+    detail = get_json(BASE_URL + str(course["id"]))
+    if "courseInfo" not in detail:
+        raise ValueError(f"unexpected response for {key}")
+    with open(os.path.join(TMP_DIR, key + ".json"), "w", encoding="utf-8") as f:
+        json.dump(detail, f, indent=4, ensure_ascii=False)
+    return key, detail
 
-# save courses data
-for file in [f for f in os.listdir("./data/nckuhub/") if os.path.isfile(os.path.join("./data/nckuhub/", f))]:
-    course_data = json.load(open(os.path.join("./data/nckuhub/", file)))
-    course_id = os.path.splitext(file)[0]
-    all_courses_data["courses"][course_id] = []
-    for idx, key in enumerate(useful_data):
+
+def compact(detail):
+    row = []
+    for key in useful_data:
         if isinstance(key, str):
-            all_courses_data["courses"][course_id].append(course_data[key])
+            row.append(detail[key])
         else:
-            key_name = list(key.keys())[0]
-            all_courses_data["courses"][course_id].append({})
-            for inner_key in key[key_name]:
-                all_courses_data["courses"][course_id][idx][inner_key] = course_data[key_name][inner_key]
+            name = list(key.keys())[0]
+            row.append({k: detail[name][k] for k in key[name]})
+    return row
 
-# generate sha256
-with open("./data/nckuhub-sha256.txt", "w+") as f:
-    f.write(hashlib.sha256(json.dumps(
-        all_courses_data).encode('utf-8')).hexdigest())
 
-# dump to file
-with open("./data/nckuhub.json", "w+") as f:
-    json.dump(all_courses_data, f, indent=4, ensure_ascii=False)
+def main():
+    course_list = get_json(BASE_URL)
+    courses = course_list.get("courses") or []
+    if not courses:
+        sys.exit("NCKU Hub returned an empty course list, keep old data.")
+    print(f"{len(courses)} courses in the list")
 
-print("Done.")
+    shutil.rmtree(TMP_DIR, ignore_errors=True)
+    os.makedirs(TMP_DIR)
+
+    results, failures = {}, []
+    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        futures = {pool.submit(fetch_course, c): c for c in courses}
+        for i, future in enumerate(as_completed(futures), 1):
+            course = futures[future]
+            try:
+                key, detail = future.result()
+                results[key] = compact(detail)
+            except Exception as e:  # noqa: BLE001
+                failures.append(course["id"])
+                print(f"Failed to save {course['id']}: {e}")
+            if i % 200 == 0:
+                print(f"{i}/{len(courses)}")
+
+    if len(failures) > len(courses) * MAX_FAILURE_RATIO:
+        shutil.rmtree(TMP_DIR, ignore_errors=True)
+        sys.exit(f"{len(failures)} courses failed, keep old data.")
+
+    all_courses_data = {
+        "courses": dict(sorted(results.items())),
+        "column names": useful_data,
+    }
+
+    shutil.rmtree(DETAIL_DIR, ignore_errors=True)
+    os.rename(TMP_DIR, DETAIL_DIR)
+    with open(os.path.join(DATA_DIR, "nckuhub_courses.json"), "w", encoding="utf-8") as f:
+        json.dump(course_list, f, indent=4, ensure_ascii=False)
+    with open(os.path.join(DATA_DIR, "nckuhub-sha256.txt"), "w") as f:
+        f.write(hashlib.sha256(json.dumps(all_courses_data).encode("utf-8")).hexdigest())
+    with open(os.path.join(DATA_DIR, "nckuhub.json"), "w", encoding="utf-8") as f:
+        json.dump(all_courses_data, f, indent=4, ensure_ascii=False)
+
+    print(f"Done. {len(results)} courses saved, {len(failures)} failed.")
+
+
+if __name__ == "__main__":
+    main()
